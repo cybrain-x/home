@@ -1,0 +1,94 @@
+@import url('../style.css');
+
+:root {
+    --theme-primary: #ef4444;
+    /* Red */
+    --theme-secondary: #f8fafc;
+    /* Slate 50 */
+    --theme-accent: #f87171;
+    --bg-dark: #0f172a;
+    /* Match Hub Dark (Slate 900) */
+}
+
+body {
+    background-color: var(--bg-dark);
+}
+
+/* Clear Global Hub BGs */
+body::before,
+body::after {
+    display: none;
+}
+
+/* Dark + Pulse Background */
+body {
+    background: radial-gradient(circle at 50% 50%, #1e1b4b 0%, #0f172a 100%);
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Pulsing Red Energy */
+.energy-ring {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    z-index: -2;
+    opacity: 0;
+    animation: expandEnergy 4s infinite cubic-bezier(0.1, 0.7, 1, 0.1);
+    pointer-events: none;
+}
+
+.er1 {
+    width: 100px;
+    height: 100px;
+    animation-delay: 0s;
+}
+
+.er2 {
+    width: 100px;
+    height: 100px;
+    animation-delay: 1.3s;
+}
+
+.er3 {
+    width: 100px;
+    height: 100px;
+    animation-delay: 2.6s;
+}
+
+@keyframes expandEnergy {
+    0% {
+        width: 100px;
+        height: 100px;
+        opacity: 0.8;
+        border-width: 4px;
+    }
+
+    100% {
+        width: 200vw;
+        height: 200vw;
+        opacity: 0;
+        border-width: 0px;
+    }
+}
+
+header.hero h1 {
+    background: linear-gradient(to right, #ffffff, #ef4444);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+
+.clock-display {
+    font-size: 6rem;
+    font-weight: 900;
+    font-family: var(--font-mono);
+    color: var(--theme-primary);
+    text-shadow: 0 0 30px rgba(239, 68, 68, 0.5);
+    margin: 2rem 0;
+}

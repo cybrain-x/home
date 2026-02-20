@@ -1,0 +1,302 @@
+:root {
+    --bg-dark: #0f172a;
+    --bg-card: rgba(30, 41, 59, 0.7);
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --accent-blue: #3b82f6;
+    --accent-purple: #8b5cf6;
+    --accent-cyan: #06b6d4;
+    --gradient-main: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+    --glass-border: 1px solid rgba(255, 255, 255, 0.1);
+    --font-main: 'Inter', sans-serif;
+    --font-mono: 'Fira Code', monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    font-family: var(--font-main);
+    overflow-x: hidden;
+    line-height: 1.6;
+}
+
+/* Background Animation - HUB (Futuristic Tech) */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 50% 50%, #1e293b 0%, #0f172a 100%);
+    z-index: -3;
+    pointer-events: none;
+}
+
+body::after {
+    display: none;
+}
+
+/* Digital Hexagon Grid */
+.tech-grid {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image:
+        linear-gradient(30deg, #334155 12%, transparent 12.5%, transparent 87%, #334155 87.5%, #334155),
+        linear-gradient(150deg, #334155 12%, transparent 12.5%, transparent 87%, #334155 87.5%, #334155),
+        linear-gradient(30deg, #334155 12%, transparent 12.5%, transparent 87%, #334155 87.5%, #334155),
+        linear-gradient(150deg, #334155 12%, transparent 12.5%, transparent 87%, #334155 87.5%, #334155),
+        linear-gradient(60deg, #33415577 25%, transparent 25.5%, transparent 75%, #33415577 75%, #33415577),
+        linear-gradient(60deg, #33415577 25%, transparent 25.5%, transparent 75%, #33415577 75%, #33415577);
+    background-size: 80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+    opacity: 0.1;
+    z-index: -2;
+    mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 90%);
+    pointer-events: none;
+}
+
+/* Glowing Circuit Nodes */
+.circuit-node {
+    position: fixed;
+    width: 4px;
+    height: 4px;
+    background: #0ea5e9;
+    box-shadow: 0 0 10px #0ea5e9, 0 0 20px #0ea5e9;
+    border-radius: 50%;
+    z-index: -1;
+    animation: moveCircuit 10s linear infinite;
+}
+
+.cn1 {
+    top: 20%;
+    left: 0;
+    animation-duration: 8s;
+}
+
+.cn2 {
+    top: 60%;
+    left: 0;
+    animation-duration: 12s;
+    animation-delay: 2s;
+}
+
+.cn3 {
+    top: 40%;
+    right: 0;
+    animation-duration: 15s;
+    animation-direction: reverse;
+}
+
+@keyframes moveCircuit {
+    0% {
+        transform: translateX(0);
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 1;
+    }
+
+    90% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(100vw);
+        opacity: 0;
+    }
+}
+
+/* Navigation */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 1.5rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(15, 23, 42, 0.8);
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+    border-bottom: var(--glass-border);
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: var(--font-mono);
+    background: var(--gradient-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -1px;
+}
+
+.nav-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    margin-left: 2rem;
+    transition: color 0.3s;
+    font-weight: 500;
+}
+
+.nav-links a:hover {
+    color: var(--text-primary);
+    background: var(--gradient-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Hero Section */
+header.hero {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+header.hero h1 {
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    line-height: 1.1;
+    background: linear-gradient(135deg, #e2e8f0 0%, #94a3b8 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+header.hero p {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin-bottom: 2rem;
+}
+
+.cta-button {
+    padding: 1rem 2rem;
+    background: var(--gradient-main);
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.cta-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(59, 130, 246, 0.3);
+}
+
+/* Apps Section */
+section.apps {
+    padding: 5rem 10%;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    background: var(--bg-card);
+    border: var(--glass-border);
+    backdrop-filter: blur(12px);
+    border-radius: 16px;
+    padding: 2rem;
+    transition: transform 0.3s, border-color 0.3s;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    color: inherit;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-blue);
+}
+
+.card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.card p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 99px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-secondary);
+}
+
+.card:hover .tag {
+    background: var(--gradient-main);
+    color: white;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 3rem;
+    border-top: var(--glass-border);
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    header.hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .nav-links {
+        display: none;
+        /* Simple hiding for now, can add hamburger if needed */
+    }
+}
+
+/* Animations */
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease-out;
+}
+
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}

@@ -1,0 +1,150 @@
+@import url('../style.css');
+
+:root {
+    --theme-primary: #ca8a04;
+    /* Gold */
+    --theme-secondary: #fef3c7;
+    /* Light Yellow */
+    --theme-accent: #f59e0b;
+    /* Amber */
+    --bg-dark: #0f172a;
+    /* Match Hub Dark (Slate 900) */
+}
+
+body {
+    background-color: var(--bg-dark);
+}
+
+/* Clear Global Hub BGs */
+body::before,
+body::after {
+    display: none;
+}
+
+/* Divine Dark Background */
+body {
+    background: radial-gradient(circle at 50% 10%, #1e1b4b 0%, #0f172a 100%);
+    /* Deep Indigo to Slate */
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Cross / Dove / Bible Overlay */
+/* We will use a subtle, centered Cross glow */
+.divine-symbol {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30rem;
+    color: rgba(255, 255, 255, 0.02);
+    z-index: -2;
+    pointer-events: none;
+    filter: drop-shadow(0 0 50px rgba(202, 138, 4, 0.1));
+}
+
+/* Gentle Particles (Peace) */
+.peace-particle {
+    position: fixed;
+    width: 4px;
+    height: 4px;
+    background: rgba(251, 191, 36, 0.4);
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(251, 191, 36, 0.4);
+    z-index: -1;
+    animation: risePeace 10s infinite ease-in;
+}
+
+.pp1 {
+    bottom: -10px;
+    left: 20%;
+    animation-duration: 12s;
+}
+
+.pp2 {
+    bottom: -10px;
+    left: 50%;
+    animation-duration: 15s;
+    animation-delay: 2s;
+}
+
+.pp3 {
+    bottom: -10px;
+    left: 80%;
+    animation-duration: 10s;
+    animation-delay: 5s;
+}
+
+.pp4 {
+    bottom: -10px;
+    left: 35%;
+    animation-duration: 18s;
+    animation-delay: 1s;
+}
+
+@keyframes risePeace {
+    0% {
+        transform: translateY(0) scale(1);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-100vh) scale(0.5);
+        opacity: 0;
+    }
+}
+
+/* God Rays (Subtle) */
+.ray-container {
+    position: fixed;
+    top: -50px;
+    /* Hide top edge */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 60vh;
+    z-index: -3;
+    pointer-events: none;
+    mask-image: linear-gradient(to bottom, black, transparent);
+}
+
+.ray {
+    position: absolute;
+    top: 0;
+    width: 100px;
+    /* Wider rays */
+    height: 100%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), transparent);
+    filter: blur(20px);
+    transform-origin: top center;
+}
+
+.ray:nth-child(1) {
+    left: 40%;
+    transform: rotate(15deg);
+}
+
+.ray:nth-child(2) {
+    left: 60%;
+    transform: rotate(-15deg);
+}
+
+.ray:nth-child(3) {
+    left: 50%;
+    width: 150px;
+    transform: rotate(0deg);
+    opacity: 0.5;
+}
+
+/* Text Polish */
+header.hero h1 {
+    background: linear-gradient(to right, #fef3c7, #fbbf24);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 30px rgba(202, 138, 4, 0.2);
+}

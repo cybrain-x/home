@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wake360 | Smart Alarm & Sleep</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="energy-ring er1"></div>
+    <div class="energy-ring er2"></div>
+    <div class="energy-ring er3"></div>
+
+    <nav>
+        <div class="logo"><a href="../index.html" style="text-decoration:none; color:inherit;"><i
+                    class="fa-solid fa-arrow-left"></i> Cybrainx</a> / <i class="fa-solid fa-bell"></i> Wake360</div>
+        <div class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#method">Method</a>
+            <a href="../index.html" class="back-btn">Back to Hub</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <h1 class="reveal">Wake Up.<br>For Real.</h1>
+        <p class="reveal">The smart alarm clock that forces you to be awake before it shuts up. No more oversleeping.
+        </p>
+
+        <div class="clock-display reveal">07:00</div>
+
+        <div class="reveal" style="margin-top: 2rem;">
+            <button class="cta-button"><i class="fa-solid fa-download"></i> Get Wake360</button>
+        </div>
+    </header>
+
+    <section id="features" class="apps">
+        <h2 class="section-title reveal">Heavy Sleepers Default</h2>
+        <div class="grid">
+            <div class="card reveal">
+                <h3 style="margin-bottom: 0.5rem;"><i class="fa-solid fa-puzzle-piece"
+                        style="color: var(--theme-primary);"></i> Wake Up Challenges</h3>
+                <p>Dismiss alarm ONLY by solving puzzles. Math, Memory, or Physical steps.</p>
+            </div>
+            <div class="card reveal">
+                <h3 style="margin-bottom: 0.5rem;"><i class="fa-solid fa-volume-high"
+                        style="color: var(--theme-primary);"></i> Loud & Persistent</h3>
+                <p>Designed for deep sleepers. High volume and vibration options that won't give up.</p>
+            </div>
+            <div class="card reveal">
+                <h3 style="margin-bottom: 0.5rem;"><i class="fa-solid fa-ban" style="color: var(--theme-primary);"></i>
+                    Smart Snooze</h3>
+                <p>Strict snooze limits. We make sure you don't fall back into the dream trap.</p>
+            </div>
+            <div class="card reveal">
+                <h3 style="margin-bottom: 0.5rem;"><i class="fa-solid fa-sun" style="color: var(--theme-primary);"></i>
+                    Morning Routine</h3>
+                <p>Build consistent habits. Wake up at the same time and start your day with energy.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="method"
+        style="padding: 5rem 10%; background: linear-gradient(180deg, rgba(153, 27, 27, 0.1) 0%, rgba(15, 23, 42, 1) 100%);">
+        <h2 class="section-title reveal">How It Works</h2>
+        <div style="max-width: 800px; margin: 0 auto; color: var(--text-secondary);">
+            <div class="reveal" style="margin-bottom: 2rem;">
+                <h3 style="color: var(--theme-primary);"><i class="fa-solid fa-1"></i> The Alarm Sounds</h3>
+                <p>It starts loud and clear. Waking you up is non-negotiable.</p>
+            </div>
+            <div class="reveal" style="margin-bottom: 2rem;">
+                <h3 style="color: var(--theme-primary);"><i class="fa-solid fa-2"></i> The Challenge Begins</h3>
+                <p>To turn it off, you must engage your brain. Solve a math problem or walk 20 steps.</p>
+            </div>
+            <div class="reveal">
+                <h3 style="color: var(--theme-primary);"><i class="fa-solid fa-3"></i> You Are Awake</h3>
+                <p>By the time the alarm stops, your mind is active. No more accidental snoozing.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Cybrainx. Wake360.<br>Start Your Day Right.</p>
+        <p style="margin-top: 1rem; font-size: 0.8rem;">
+            <a href="privacy.html"
+                style="color: var(--text-secondary); text-decoration: none; margin: 0 0.5rem;">Privacy Policy</a> |
+            <a href="terms.html" style="color: var(--text-secondary); text-decoration: none; margin: 0 0.5rem;">Terms of
+                Use</a>
+        </p>
+    </footer>
+
+    <script src="../script.js"></script>
+    <script>
+        function updateClock() {
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const timeString = `${hours}:${minutes}`;
+            const clockEl = document.querySelector('.clock-display');
+            if (clockEl) clockEl.textContent = timeString;
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+</body>
+
+</html>
