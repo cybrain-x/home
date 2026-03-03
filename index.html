@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cybrainx | Future of Apps</title>
+    <meta name="description"
+        content="Cybrainx is a forward-thinking development studio crafting intelligent, beautiful apps that enhance human potential — from brain training to productivity and spirituality.">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,6 +21,8 @@
     <div class="circuit-node cn1"></div>
     <div class="circuit-node cn2"></div>
     <div class="circuit-node cn3"></div>
+
+    <!-- Navigation -->
     <nav>
         <div class="logo"><i class="fa-solid fa-cube"></i> Cybrainx</div>
         <div class="nav-links">
@@ -26,86 +30,185 @@
             <a href="#about">About</a>
             <a href="mailto:owner@cybrainx.com">Contact</a>
         </div>
+        <button class="hamburger" id="hamburger" aria-label="Open menu">
+            <i class="fa-solid fa-bars"></i>
+        </button>
     </nav>
 
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <button class="close-menu" id="closeMenu" aria-label="Close menu"><i class="fa-solid fa-xmark"></i></button>
+        <a href="#apps" class="mobile-link">Our Apps</a>
+        <a href="#about" class="mobile-link">About</a>
+        <a href="mailto:owner@cybrainx.com" class="mobile-link">Contact</a>
+    </div>
+
+    <!-- Hero -->
     <header class="hero">
-        <h1 class="reveal">Innovating Your<br>Digital Experience</h1>
+        <div class="hero-badge reveal"><i class="fa-solid fa-microchip"></i> Powered by Intelligence</div>
+        <h1 class="reveal">Innovating Your<br><span class="gradient-text">Digital Experience</span></h1>
         <p class="reveal">We build intelligent, beautiful, and life-enhancing applications for the modern world.</p>
         <a href="#apps" class="cta-button reveal"><i class="fa-solid fa-rocket"></i> Explore Projects</a>
+        <div class="hero-stats reveal">
+            <div class="stat"><span class="stat-num">4+</span><span class="stat-label">Apps</span></div>
+            <div class="stat-divider"></div>
+            <div class="stat"><span class="stat-num">10K+</span><span class="stat-label">Users</span></div>
+            <div class="stat-divider"></div>
+            <div class="stat"><span class="stat-num">5★</span><span class="stat-label">Rated</span></div>
+        </div>
     </header>
 
+    <!-- Apps Section -->
     <section id="apps" class="apps">
+        <p class="section-eyebrow reveal">What we build</p>
         <h2 class="section-title reveal">Our Ecosystem</h2>
         <div class="grid">
 
             <!-- Inspire Me Now -->
             <a href="inspire-me-now/index.html" class="card reveal">
+                <div class="card-glow"></div>
+                <div class="card-icon" style="background: linear-gradient(135deg, #f59e0b, #ef4444);">
+                    <i class="fa-solid fa-dove"></i>
+                </div>
                 <div class="card-content">
-                    <h3><i class="fa-solid fa-dove"></i> Inspire Me Now</h3>
+                    <h3>Inspire Me Now</h3>
                     <p>Your daily spiritual companion. Personalized reflections, calm audio, and emotional support.</p>
-                    <span class="tag"><i class="fa-solid fa-star"></i> Spirituality</span>
-                    <span class="tag"><i class="fa-solid fa-microchip"></i> AI</span>
+                    <div class="card-tags">
+                        <span class="tag"><i class="fa-solid fa-star"></i> Spirituality</span>
+                        <span class="tag"><i class="fa-solid fa-microchip"></i> AI</span>
+                    </div>
+                    <span class="card-arrow"><i class="fa-solid fa-arrow-right"></i></span>
                 </div>
             </a>
 
             <!-- Axiom -->
             <a href="axiom/index.html" class="card reveal">
+                <div class="card-glow"
+                    style="background: radial-gradient(circle, rgba(139,92,246,0.15) 0%, transparent 70%);"></div>
+                <div class="card-icon" style="background: linear-gradient(135deg, #8b5cf6, #3b82f6);">
+                    <i class="fa-solid fa-layer-group"></i>
+                </div>
                 <div class="card-content">
-                    <h3><i class="fa-solid fa-layer-group"></i> Axiom</h3>
+                    <h3>Axiom</h3>
                     <p>The ultimate productivity suite. Kanban, Gantt, and Dashboards for high-performers.</p>
-                    <span class="tag"><i class="fa-solid fa-check-double"></i> Productivity</span>
-                    <span class="tag"><i class="fa-solid fa-sitemap"></i> Management</span>
+                    <div class="card-tags">
+                        <span class="tag"><i class="fa-solid fa-check-double"></i> Productivity</span>
+                        <span class="tag"><i class="fa-solid fa-sitemap"></i> Management</span>
+                    </div>
+                    <span class="card-arrow"><i class="fa-solid fa-arrow-right"></i></span>
                 </div>
             </a>
 
             <!-- Smart Classic Sudoku -->
             <a href="smart-classic-sudoku/index.html" class="card reveal">
+                <div class="card-glow"
+                    style="background: radial-gradient(circle, rgba(6,182,212,0.15) 0%, transparent 70%);"></div>
+                <div class="card-icon" style="background: linear-gradient(135deg, #06b6d4, #3b82f6);">
+                    <i class="fa-solid fa-border-all"></i>
+                </div>
                 <div class="card-content">
-                    <h3><i class="fa-solid fa-border-all"></i> Smart Classic Sudoku</h3>
+                    <h3>Smart Classic Sudoku</h3>
                     <p>Train your brain with thousands of logic puzzles. Daily challenges and smart hints.</p>
-                    <span class="tag"><i class="fa-solid fa-gamepad"></i> Game</span>
-                    <span class="tag"><i class="fa-solid fa-brain"></i> Logic</span>
+                    <div class="card-tags">
+                        <span class="tag"><i class="fa-solid fa-gamepad"></i> Game</span>
+                        <span class="tag"><i class="fa-solid fa-brain"></i> Logic</span>
+                    </div>
+                    <span class="card-arrow"><i class="fa-solid fa-arrow-right"></i></span>
+                </div>
+            </a>
+
+            <!-- Einstein IQ Test -->
+            <a href="einstein-iq-test/index.html" class="card reveal">
+                <div class="card-glow"
+                    style="background: radial-gradient(circle, rgba(245,158,11,0.15) 0%, transparent 70%);"></div>
+                <div class="card-icon" style="background: linear-gradient(135deg, #f59e0b, #ef4444);">
+                    <i class="fa-solid fa-brain"></i>
+                </div>
+                <div class="card-content">
+                    <h3>Einstein IQ Test</h3>
+                    <p>Challenge your intellect with logic puzzles inspired by Einstein's famous riddles. How smart are
+                        you?</p>
+                    <div class="card-tags">
+                        <span class="tag"><i class="fa-solid fa-lightbulb"></i> IQ</span>
+                        <span class="tag"><i class="fa-solid fa-puzzle-piece"></i> Logic</span>
+                    </div>
+                    <span class="card-arrow"><i class="fa-solid fa-arrow-right"></i></span>
                 </div>
             </a>
 
             <!-- Wake360 -->
             <a href="wake360/index.html" class="card reveal">
+                <div class="card-glow"
+                    style="background: radial-gradient(circle, rgba(16,185,129,0.15) 0%, transparent 70%);"></div>
+                <div class="card-icon" style="background: linear-gradient(135deg, #10b981, #06b6d4);">
+                    <i class="fa-solid fa-bell"></i>
+                </div>
                 <div class="card-content">
-                    <h3><i class="fa-solid fa-bell"></i> Wake360</h3>
+                    <h3>Wake360</h3>
                     <p>Stop oversleeping. Smart alarm with brain challenges to ensure you wake up ready.</p>
-                    <span class="tag"><i class="fa-solid fa-bolt"></i> Utility</span>
-                    <span class="tag"><i class="fa-solid fa-heart-pulse"></i> Health</span>
+                    <div class="card-tags">
+                        <span class="tag"><i class="fa-solid fa-bolt"></i> Utility</span>
+                        <span class="tag"><i class="fa-solid fa-heart-pulse"></i> Health</span>
+                    </div>
+                    <span class="card-arrow"><i class="fa-solid fa-arrow-right"></i></span>
                 </div>
             </a>
 
         </div>
     </section>
 
-    <section id="about" style="padding: 5rem 10%; text-align: center;">
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <p class="section-eyebrow reveal">Who we are</p>
         <h2 class="section-title reveal">About Cybrainx</h2>
-        <p style="color: var(--text-secondary); max-width: 700px; margin: 0 auto;" class="reveal">
-            Cybrainx is a forward-thinking development studio dedicated to crafting software that enhances human
-            potential.
-            From spiritual well-being to cognitive sharpness and productivity, our apps are designed with precision and
-            care.
-        </p>
-        <div style="margin-top: 3rem; color: var(--text-secondary); font-size: 0.9rem;" class="reveal">
-            <p><i class="fa-solid fa-location-dot"></i> Rua Florinda Rosalina Oliveira, Atila de Paiva, Belo
-                Horizonte-MG, Brazil</p>
-            <p style="margin: 0.5rem 0;">
-                <i class="fa-solid fa-envelope"></i> <a href="mailto:owner@cybrainx.com"
-                    style="color: var(--accent-blue);">owner@cybrainx.com</a> (Professional)<br>
-                <i class="fa-solid fa-envelope"></i> <a href="mailto:oberdan.o.fonseca@gmail.com"
-                    style="color: var(--accent-blue);">oberdan.o.fonseca@gmail.com</a> (Personal)
-            </p>
-            <p><a href="https://www.linkedin.com/in/oberdan-eng" target="_blank"
-                    style="color: var(--accent-blue); text-decoration: none;"><i class="fa-brands fa-linkedin"></i>
-                    Connect on LinkedIn</a></p>
+        <div class="about-grid">
+            <div class="about-text reveal">
+                <p>
+                    Cybrainx is a forward-thinking development studio dedicated to crafting software that enhances
+                    human potential. From spiritual well-being to cognitive sharpness and productivity, our apps
+                    are designed with precision, care, and a deep commitment to user experience.
+                </p>
+                <p style="margin-top: 1.2rem;">
+                    We believe technology should empower people — making daily life smarter, calmer, and more
+                    purposeful.
+                </p>
+            </div>
+            <div class="about-contact reveal">
+                <div class="contact-card">
+                    <div class="contact-item">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>Belo Horizonte, MG — Brazil</span>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fa-solid fa-envelope"></i>
+                        <a href="mailto:owner@cybrainx.com">owner@cybrainx.com</a>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fa-brands fa-linkedin"></i>
+                        <a href="https://www.linkedin.com/in/oberdan-eng" target="_blank" rel="noopener">Connect on
+                            LinkedIn</a>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fa-solid fa-globe"></i>
+                        <a href="https://cybrainx.com">cybrainx.com</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
+    <!-- Footer -->
     <footer>
-        <p>&copy; 2026 Cybrainx. All rights reserved. <br> Built for the future.</p>
+        <div class="footer-logo"><i class="fa-solid fa-cube"></i> Cybrainx</div>
+        <p class="footer-tagline">Built for the future. Designed for humans.</p>
+        <div class="footer-links">
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <span class="footer-sep">·</span>
+            <a href="terms-of-use.html">Terms of Use</a>
+            <span class="footer-sep">·</span>
+            <a href="mailto:owner@cybrainx.com">Contact</a>
+        </div>
+        <p class="footer-copy">&copy; 2026 Cybrainx. All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
