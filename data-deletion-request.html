@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Request | Cybrainx</title>
+    <meta name="description"
+        content="Request deletion of your personal data for any Cybrainx app or service. Solicitação de exclusão de dados — Cybrainx.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;500;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="tech-grid"></div>
+    <div class="circuit-node cn1"></div>
+    <div class="circuit-node cn2"></div>
+
+    <nav>
+        <a href="index.html" class="logo"
+            style="-webkit-text-fill-color: unset; background: var(--gradient-main); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none;">
+            <i class="fa-solid fa-cube"></i> Cybrainx
+        </a>
+        <div class="nav-links">
+            <a href="index.html#apps">Our Apps</a>
+            <a href="index.html#about">About</a>
+            <a href="mailto:owner@cybrainx.com">Contact</a>
+        </div>
+    </nav>
+
+    <main class="legal-page deletion-request-page">
+        <h1>Data deletion request</h1>
+        <span class="legal-date">Solicitação de exclusão de dados · Last updated: March 2026</span>
+
+        <div class="deletion-bilingual">
+            <p class="deletion-intro">
+                <strong>EN:</strong> Use this form to request deletion of your personal data associated with any
+                Cybrainx product (mobile apps or web). Submitting opens your email app with a pre-filled message to
+                <a href="mailto:owner@cybrainx.com">owner@cybrainx.com</a>. We will process your request within a
+                reasonable time, as required by applicable privacy laws (e.g. LGPD, GDPR).
+            </p>
+            <p class="deletion-intro">
+                <strong>PT:</strong> Use este formulário para solicitar a exclusão dos seus dados pessoais vinculados a
+                qualquer produto Cybrainx (apps ou site). Ao enviar, o seu cliente de e-mail abrirá com uma mensagem
+                pronta para <a href="mailto:owner@cybrainx.com">owner@cybrainx.com</a>. Trataremos o pedido no prazo
+                razoável exigido pela legislação aplicável (ex.: LGPD, GDPR).
+            </p>
+        </div>
+
+        <form id="deletionForm" class="deletion-form" novalidate>
+            <div class="form-group">
+                <label for="fullName">Full name <span class="req">*</span> / Nome completo <span
+                        class="req">*</span></label>
+                <input type="text" id="fullName" name="fullName" required autocomplete="name"
+                    placeholder="e.g. Maria Silva">
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email <span class="req">*</span> (same as used in the app, if any)</label>
+                <input type="email" id="email" name="email" required autocomplete="email"
+                    placeholder="you@example.com">
+            </div>
+
+            <div class="form-group">
+                <label for="app">App or service <span class="req">*</span> / Qual o app ou serviço <span
+                        class="req">*</span></label>
+                <select id="app" name="app" required>
+                    <option value="">— Select / Selecione —</option>
+                    <option value="Inspire Me Now">Inspire Me Now</option>
+                    <option value="Axiom">Axiom</option>
+                    <option value="Smart Classic Sudoku">Smart Classic Sudoku</option>
+                    <option value="Einstein IQ Test">Einstein IQ Test</option>
+                    <option value="Wake360">Wake360</option>
+                    <option value="cybrainx.com (website)">cybrainx.com (website)</option>
+                    <option value="__other__">Other / Outro</option>
+                </select>
+            </div>
+
+            <div class="form-group" id="appOtherWrap" hidden>
+                <label for="appOther">Specify app / Especifique o app</label>
+                <input type="text" id="appOther" name="appOther" placeholder="Name of the app or service">
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="platform">Platform / Plataforma</label>
+                    <select id="platform" name="platform">
+                        <option value="">— Not sure / Não sei —</option>
+                        <option value="Android">Android (Google Play)</option>
+                        <option value="iOS">iOS (App Store)</option>
+                        <option value="Web">Web</option>
+                        <option value="Other">Other / Outro</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="userId">User ID / Account ID (optional)</label>
+                    <input type="text" id="userId" name="userId" autocomplete="off"
+                        placeholder="If shown in the app settings">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="notes">Observations / Observações</label>
+                <textarea id="notes" name="notes" rows="5"
+                    placeholder="Any extra detail to help us locate your data (e.g. approximate signup date, device). / Detalhes que ajudem a localizar seus dados."></textarea>
+            </div>
+
+            <div class="form-group form-checkbox">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="confirm" name="confirm" required>
+                    <span>I confirm that I am the data subject (or legally authorized) and I request deletion of my
+                        data. / Confirmo que sou o titular dos dados (ou estou autorizado) e solicito a exclusão.</span>
+                </label>
+            </div>
+
+            <p class="form-note">
+                <i class="fa-solid fa-circle-info"></i>
+                <strong>EN:</strong> If your email client does not open, copy the text and send it manually to
+                owner@cybrainx.com with subject “Data deletion request”.<br>
+                <strong>PT:</strong> Se o e-mail não abrir, copie o texto e envie manualmente para owner@cybrainx.com com
+                o assunto “Solicitação de exclusão de dados”.
+            </p>
+
+            <button type="submit" class="deletion-submit">
+                <i class="fa-solid fa-paper-plane"></i> Send request / Enviar solicitação
+            </button>
+        </form>
+    </main>
+
+    <footer>
+        <div class="footer-logo"><i class="fa-solid fa-cube"></i> Cybrainx</div>
+        <div class="footer-links">
+            <a href="index.html">Home</a>
+            <span class="footer-sep">·</span>
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <span class="footer-sep">·</span>
+            <a href="data-deletion-request.html">Data deletion</a>
+            <span class="footer-sep">·</span>
+            <a href="terms-of-use.html">Terms of Use</a>
+            <span class="footer-sep">·</span>
+            <a href="mailto:owner@cybrainx.com">Contact</a>
+        </div>
+        <p class="footer-copy">&copy; 2026 Cybrainx. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        (function () {
+            var appSelect = document.getElementById('app');
+            var appOtherWrap = document.getElementById('appOtherWrap');
+            var form = document.getElementById('deletionForm');
+
+            appSelect.addEventListener('change', function () {
+                appOtherWrap.hidden = appSelect.value !== '__other__';
+                document.getElementById('appOther').required = appSelect.value === '__other__';
+            });
+
+            form.addEventListener('submit', function (e) {
+                e.preventDefault();
+                if (!form.checkValidity()) {
+                    form.reportValidity();
+                    return;
+                }
+                var name = document.getElementById('fullName').value.trim();
+                var email = document.getElementById('email').value.trim();
+                var appVal = appSelect.value;
+                if (appVal === '__other__') {
+                    appVal = document.getElementById('appOther').value.trim() || '(other — not specified)';
+                }
+                var platform = document.getElementById('platform').value || '(not provided)';
+                var userId = document.getElementById('userId').value.trim() || '(not provided)';
+                var notes = document.getElementById('notes').value.trim() || '(none)';
+
+                var body =
+                    '=== CYBRAINX — DATA DELETION REQUEST / SOLICITAÇÃO DE EXCLUSÃO ===\r\n\r\n' +
+                    'Full name / Nome completo: ' + name + '\r\n' +
+                    'Email: ' + email + '\r\n' +
+                    'App or service / App ou serviço: ' + appVal + '\r\n' +
+                    'Platform / Plataforma: ' + platform + '\r\n' +
+                    'User ID (if any) / ID de usuário: ' + userId + '\r\n' +
+                    '\r\nObservations / Observações:\r\n' + notes + '\r\n\r\n' +
+                    '---\r\nRequest date / Data: ' + new Date().toISOString().slice(0, 10);
+
+                var subject = encodeURIComponent('[Cybrainx] Data deletion request / Exclusão de dados');
+                var mail = 'mailto:owner@cybrainx.com?subject=' + subject + '&body=' + encodeURIComponent(body);
+                window.location.href = mail;
+            });
+        })();
+    </script>
+</body>
+
+</html>

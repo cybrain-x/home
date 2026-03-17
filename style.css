@@ -556,6 +556,153 @@ footer {
 
 .legal-page a:hover { text-decoration: underline; }
 
+/* ---------- Data deletion request form ---------- */
+.deletion-request-page .deletion-bilingual {
+    margin-bottom: 2rem;
+}
+
+.deletion-intro {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin-bottom: 1rem;
+}
+
+.deletion-form {
+    background: var(--bg-card);
+    border: var(--glass-border);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-top: 1rem;
+    backdrop-filter: blur(12px);
+}
+
+.deletion-form .form-group {
+    margin-bottom: 1.35rem;
+}
+
+.deletion-form label {
+    display: block;
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0.45rem;
+}
+
+.deletion-form .req {
+    color: var(--accent-cyan);
+}
+
+.deletion-form input[type="text"],
+.deletion-form input[type="email"],
+.deletion-form select,
+.deletion-form textarea {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    border: 1px solid rgba(148, 163, 184, 0.25);
+    background: rgba(15, 23, 42, 0.6);
+    color: var(--text-primary);
+    font-family: var(--font-main);
+    font-size: 0.95rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.deletion-form input::placeholder,
+.deletion-form textarea::placeholder {
+    color: rgba(148, 163, 184, 0.6);
+}
+
+.deletion-form input:focus,
+.deletion-form select:focus,
+.deletion-form textarea:focus {
+    outline: none;
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+
+.deletion-form select {
+    cursor: pointer;
+    appearance: auto;
+}
+
+.deletion-form textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+@media (max-width: 640px) {
+    .form-row {
+        grid-template-columns: 1fr;
+    }
+}
+
+.form-checkbox .checkbox-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    cursor: pointer;
+    line-height: 1.5;
+}
+
+.form-checkbox input[type="checkbox"] {
+    margin-top: 0.25rem;
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+    accent-color: var(--accent-blue);
+}
+
+.form-note {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.65;
+    margin: 1.25rem 0 1.5rem;
+    padding: 1rem;
+    background: rgba(59, 130, 246, 0.08);
+    border-radius: 10px;
+    border-left: 3px solid var(--accent-blue);
+}
+
+.form-note i {
+    color: var(--accent-cyan);
+    margin-right: 0.35rem;
+}
+
+.deletion-submit {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.95rem 1.75rem;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: var(--font-main);
+    color: #fff;
+    background: var(--gradient-main);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.35);
+}
+
+.deletion-submit:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 28px rgba(139, 92, 246, 0.4);
+}
+
+.deletion-submit:active {
+    transform: translateY(0);
+}
+
 /* ---------- Animations ---------- */
 .reveal {
     opacity: 0;
