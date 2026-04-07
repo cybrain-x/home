@@ -29,10 +29,10 @@
           "title": "Office Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Desk 1",
+            "Desk 2",
+            "Desk 3",
+            "Desk 4"
           ],
           "categories": [
             {
@@ -73,25 +73,25 @@
             }
           ],
           "clues": [
-            "The Pliers is directly to the left of the Sushi.",
-            "Hammer is in column 3.",
-            "Bird is in column 2.",
-            "The Cat is related to the Pasta.",
-            "The Blue is directly to the left of the White.",
-            "The Sushi is related to the Fish.",
-            "The Rabbit is next to the Green.",
-            "The Blue is directly to the left of the Wrench.",
-            "Steak is in column 2."
+            "The pliers user is directly to the left of the sushi eater.",
+            "The hammer user is in Desk 3.",
+            "The bird owner is in Desk 2.",
+            "The cat owner eats pasta.",
+            "The blue desk is directly to the left of the white desk.",
+            "The sushi eater has a fish.",
+            "The rabbit owner is next to the green desk.",
+            "The blue desk is directly to the left of the wrench user.",
+            "The steak eater is in Desk 2."
           ]
         },
         "pt": {
           "title": "Desafio Escritório",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Mesa 1",
+            "Mesa 2",
+            "Mesa 3",
+            "Mesa 4"
           ],
           "categories": [
             {
@@ -132,25 +132,25 @@
             }
           ],
           "clues": [
-            "Alicate está imediatamente à esquerda de Sushi.",
-            "Martelo está na coluna 3.",
-            "Pássaro está na coluna 2.",
-            "Gato está acompanhado de Massa.",
-            "Azul está imediatamente à esquerda de Branco.",
-            "Sushi está acompanhado de Peixe.",
-            "Coelho está ao lado de Verde.",
-            "Azul está imediatamente à esquerda de Chave.",
-            "Bife está na coluna 2."
+            "Quem usa o alicate está imediatamente à esquerda de quem come sushi.",
+            "Quem usa o martelo está na Mesa 3.",
+            "O dono do pássaro está na Mesa 2.",
+            "O dono do gato come macarrão.",
+            "A mesa azul está imediatamente à esquerda da mesa branca.",
+            "Quem come sushi tem um peixe.",
+            "O dono do coelho está ao lado da mesa verde.",
+            "A mesa azul está imediatamente à esquerda de quem usa a chave inglesa.",
+            "Quem come bife está na Mesa 2."
           ]
         },
         "es": {
           "title": "Desafío de oficina",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Escritorio 1",
+            "Escritorio 2",
+            "Escritorio 3",
+            "Escritorio 4"
           ],
           "categories": [
             {
@@ -191,25 +191,25 @@
             }
           ],
           "clues": [
-            "Los Alicates están directamente a la izquierda del Sushi.",
-            "Hammer está en la columna 3.",
-            "El pájaro está en la columna 2.",
-            "El Gato está relacionado con la Pasta.",
-            "El Azul está directamente a la izquierda del Blanco.",
-            "El Sushi está relacionado con el Pescado.",
-            "El Conejo está al lado del Verde.",
-            "El Azul está directamente a la izquierda de la Llave Inglesa.",
-            "El filete está en la columna 2."
+            "El usuario de los alicates está directamente a la izquierda del que come sushi.",
+            "El usuario del martillo está en el Escritorio 3.",
+            "El dueño del pájaro está en el Escritorio 2.",
+            "El dueño del gato come pasta.",
+            "El escritorio azul está directamente a la izquierda del blanco.",
+            "El que come sushi tiene un pez.",
+            "El dueño del conejo está al lado del escritorio verde.",
+            "El escritorio azul está directamente a la izquierda del usuario de la llave inglesa.",
+            "El que come bistec está en el Escritorio 2."
           ]
         },
         "fr": {
           "title": "Défi de bureau",
           "description": "Résolvez ce défi logique 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bureau 1",
+            "Bureau 2",
+            "Bureau 3",
+            "Bureau 4"
           ],
           "categories": [
             {
@@ -250,25 +250,25 @@
             }
           ],
           "clues": [
-            "La Pince est directement à gauche du Sushi.",
-            "Hammer est dans la colonne 3.",
-            "L'oiseau est dans la colonne 2.",
-            "Le Chat est lié aux Pâtes.",
-            "Le Bleu est directement à gauche du Blanc.",
-            "Le Sushi est lié au Poisson.",
-            "Le Lapin est à côté du Vert.",
-            "Le Bleu est directement à gauche de la Clé.",
-            "Le steak est dans la colonne 2."
+            "L'utilisateur de la pince est directement à gauche de celui qui mange des sushis.",
+            "L'utilisateur du marteau est au Bureau 3.",
+            "Le propriétaire de l'oiseau est au Bureau 2.",
+            "Le propriétaire du chat mange des pâtes.",
+            "Le bureau bleu est directement à gauche du bureau blanc.",
+            "Celui qui mange des sushis a un poisson.",
+            "Le propriétaire du lapin est à côté du bureau vert.",
+            "Le bureau bleu est directement à gauche de l'utilisateur de la clé à molette.",
+            "Celui qui mange du steak est au Bureau 2."
           ]
         },
         "de": {
           "title": "Büro-Herausforderung",
           "description": "Lösen Sie diese logische 4x4-Herausforderung.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Schreibtisch 1",
+            "Schreibtisch 2",
+            "Schreibtisch 3",
+            "Schreibtisch 4"
           ],
           "categories": [
             {
@@ -309,25 +309,25 @@
             }
           ],
           "clues": [
-            "Die Zange befindet sich direkt links vom Sushi.",
-            "Hammer steht in Spalte 3.",
-            "Vogel ist in Spalte 2.",
-            "Die Katze ist mit der Pasta verwandt.",
-            "Das Blaue liegt direkt links vom Weißen.",
-            "Das Sushi ist mit dem Fisch verwandt.",
-            "Das Kaninchen ist neben dem Grünen.",
-            "Das Blaue befindet sich direkt links vom Schraubenschlüssel.",
-            "Steak ist in Spalte 2."
+            "Der Benutzer der Zange sitzt direkt links vom Sushi-Esser.",
+            "Der Benutzer des Hammers ist am Schreibtisch 3.",
+            "Der Besitzer des Vogels ist am Schreibtisch 2.",
+            "Der Besitzer der Katze isst Pasta.",
+            "Der blaue Schreibtisch ist direkt links vom weißen Schreibtisch.",
+            "Der Sushi-Esser hat einen Fisch.",
+            "Der Besitzer des Hasen sitzt neben dem grünen Schreibtisch.",
+            "Der blaue Schreibtisch ist direkt links vom Benutzer des Schraubenschlüssels.",
+            "Der Steak-Esser ist am Schreibtisch 2."
           ]
         },
         "it": {
           "title": "Sfida d'ufficio",
           "description": "Risolvi questa sfida logica 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Scrivania 1",
+            "Scrivania 2",
+            "Scrivania 3",
+            "Scrivania 4"
           ],
           "categories": [
             {
@@ -368,25 +368,25 @@
             }
           ],
           "clues": [
-            "La Pinza è direttamente a sinistra del Sushi.",
-            "Hammer è nella colonna 3.",
-            "Bird è nella colonna 2.",
-            "Il Gatto è imparentato con la Pasta.",
-            "Il Blu è direttamente a sinistra del Bianco.",
-            "Il Sushi è legato al Pesce.",
-            "Il Coniglio è accanto al Verde.",
-            "Il Blu è direttamente a sinistra della Chiave Inglese.",
-            "La bistecca è nella colonna 2."
+            "Chi usa le pinze è direttamente a sinistra di chi mangia sushi.",
+            "Chi usa il martello è alla Scrivania 3.",
+            "Il proprietario dell'uccello è alla Scrivania 2.",
+            "Il proprietario del gatto mangia pasta.",
+            "La scrivania blu è direttamente a sinistra di quella bianca.",
+            "Chi mangia sushi ha un pesce.",
+            "Il proprietario del coniglio è accanto alla scrivania verde.",
+            "La scrivania blu è direttamente a sinistra di chi usa la chiave inglese.",
+            "Chi mangia bistecca è alla Scrivania 2."
           ]
         },
         "ru": {
           "title": "Офисный вызов",
           "description": "Решите логическую задачу 4х4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Стол 1",
+            "Стол 2",
+            "Стол 3",
+            "Стол 4"
           ],
           "categories": [
             {
@@ -427,25 +427,25 @@
             }
           ],
           "clues": [
-            "Плоскогубцы находятся прямо слева от суши.",
-            "Молот находится в столбце 3.",
-            "Птица находится во втором столбце.",
-            "Кот связан с макаронами.",
-            "Синий находится прямо слева от белого.",
-            "Суши связаны с Рыбой.",
-            "Кролик находится рядом с Зеленым.",
-            "Синий находится прямо слева от гаечного ключа.",
-            "Стейк находится в столбце 2."
+            "Пользователь плоскогубцев находится непосредственно слева от едока суши.",
+            "Пользователь молотка находится за Столом 3.",
+            "Владелец птицы находится за Столом 2.",
+            "Владелец кошки ест пасту.",
+            "Синий стол находится непосредственно слева от белого стола.",
+            "Едок суши имеет рыбу.",
+            "Владелец кролика сидит рядом со столом зелёного цвета.",
+            "Синий стол находится непосредственно слева от пользователя гаечного ключа.",
+            "Едок стейка находится за Столом 2."
           ]
         },
         "zh": {
           "title": "办公室挑战",
           "description": "解决这个 4x4 逻辑挑战。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "桌子 1",
+            "桌子 2",
+            "桌子 3",
+            "桌子 4"
           ],
           "categories": [
             {
@@ -486,25 +486,25 @@
             }
           ],
           "clues": [
-            "钳子就位于寿司的左侧。",
-            "锤子位于第 3 列。",
-            "鸟在第 2 列。",
-            "猫与面食有关。",
-            "蓝色就在白色的左边。",
-            "寿司与鱼有关。",
-            "兔子在绿色旁边。",
-            "蓝色位于扳手的左侧。",
-            "牛排在第 2 列。"
+            "使用钳子的人就在吃寿司的人的左边。",
+            "使用锤子的人在桌子 3。",
+            "养鸟的人在桌子 2。",
+            "养猫的人吃意大利面。",
+            "蓝色的桌子就在白色的桌子的左边。",
+            "吃寿司的人养鱼。",
+            "养兔子的人挨着绿色的桌子。",
+            "蓝色的桌子就在使用扳手的人的左边。",
+            "吃牛排的人在桌子 2。"
           ]
         },
         "ja": {
           "title": "Office Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "机 1",
+            "机 2",
+            "机 3",
+            "机 4"
           ],
           "categories": [
             {
@@ -545,25 +545,25 @@
             }
           ],
           "clues": [
-            "The Pliers is directly to the left of the Sushi.",
-            "Hammer is in column 3.",
-            "Bird is in column 2.",
-            "The Cat is related to the Pasta.",
-            "The Blue is directly to the left of the White.",
-            "The Sushi is related to the Fish.",
-            "The Rabbit is next to the Green.",
-            "The Blue is directly to the left of the Wrench.",
-            "Steak is in column 2."
+            "ペンチを使う人は寿司を食べる人のすぐ左にいる。",
+            "ハンマーを使う人は机 3にいる。",
+            "鳥の飼い主は机 2にいる。",
+            "猫の飼い主はパスタを食べる。",
+            "青い机は白い机のすぐ左にある。",
+            "寿司を食べる人は魚を飼っている。",
+            "ウサギの飼い主は緑の机の隣にいる。",
+            "青い机はレンチを使う人のすぐ左にある。",
+            "ステーキを食べる人は机 2にいる。"
           ]
         },
         "ko": {
           "title": "Office Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "책상 1",
+            "책상 2",
+            "책상 3",
+            "책상 4"
           ],
           "categories": [
             {
@@ -604,25 +604,25 @@
             }
           ],
           "clues": [
-            "펜치는 스시 바로 왼쪽에 있습니다.",
-            "해머는 3열에 있습니다.",
-            "새는 2열에 있습니다.",
-            "고양이는 파스타와 관련이 있습니다.",
-            "파란색은 흰색의 바로 왼쪽에 있습니다.",
-            "초밥은 생선과 관련이 있습니다.",
-            "토끼는 그린 옆에 있어요.",
-            "파란색은 렌치 바로 왼쪽에 있습니다.",
-            "스테이크는 2열에 있습니다."
+            "플라이어 사용자는 스시를 먹는 사람 바로 왼쪽에 있다.",
+            "망치 사용자는 책상 3에 있다.",
+            "새 주인은 책상 2에 있다.",
+            "고양이 주인은 파스타를 먹는다.",
+            "파란 책상은 흰 책상 바로 왼쪽에 있다.",
+            "스시를 먹는 사람은 물고기를 키운다.",
+            "토끼 주인은 초록 책상 옆에 있다.",
+            "파란 책상은 렌치 사용자 바로 왼쪽에 있다.",
+            "스테이크를 먹는 사람은 책상 2에 있다."
           ]
         },
         "ar": {
           "title": "تحدي المكتب",
           "description": "حل هذا التحدي المنطقي 4X4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "مكتب 1",
+            "مكتب 2",
+            "مكتب 3",
+            "مكتب 4"
           ],
           "categories": [
             {
@@ -663,25 +663,25 @@
             }
           ],
           "clues": [
-            "الكماشة مباشرة على يسار السوشي.",
-            "المطرقة في العمود 3.",
-            "الطيور في العمود 2.",
-            "القطة مرتبطة بالمعكرونة.",
-            "الأزرق يقع مباشرة على يسار الأبيض.",
-            "السوشي مرتبط بالأسماك.",
-            "الأرنب بجانب الأخضر.",
-            "اللون الأزرق يقع مباشرة على يسار مفتاح الربط.",
-            "شريحة لحم في العمود 2."
+            "مستخدم الكماشة هو مباشرة إلى اليسار من آكل السوشي.",
+            "مستخدم المطرقة في المكتب 3.",
+            "مالك الطائر في المكتب 2.",
+            "مالك القط يأكل الباستا.",
+            "المكتب الأزرق هو مباشرة إلى اليسار من المكتب الأبيض.",
+            "آكل السوشي لديه سمكة.",
+            "مالك الأرنب بجانب المكتب الأخضر.",
+            "المكتب الأزرق هو مباشرة إلى اليسار من مستخدم الرنج.",
+            "آكل الستيك في المكتب 2."
           ]
         },
         "hi": {
           "title": "कार्यालय चुनौती",
           "description": "इस 4x4 तार्किक चुनौती को हल करें।",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "मेज 1",
+            "मेज 2",
+            "मेज 3",
+            "मेज 4"
           ],
           "categories": [
             {
@@ -722,25 +722,25 @@
             }
           ],
           "clues": [
-            "प्लायर्स सीधे सुशी के बाईं ओर है।",
-            "हैमर कॉलम 3 में है।",
-            "पक्षी कॉलम 2 में है।",
-            "बिल्ली का संबंध पास्ता से है।",
-            "नीला, सफ़ेद के ठीक बायीं ओर है।",
-            "सुशी का संबंध मछली से है।",
-            "खरगोश हरे के बगल में है।",
-            "नीला रंग सीधे रिंच के बाईं ओर है।",
-            "स्टेक कॉलम 2 में है."
+            "चिमटे का उपयोगकर्ता सुशी खाने वाले के ठीक बाएँ है।",
+            "हथौड़े का उपयोगकर्ता मेज 3 में है।",
+            "पक्षी का मालिक मेज 2 में है।",
+            "बिल्ली का मालिक पास्ता खाता है।",
+            "नीली मेज सफेद मेज के ठीक बाएँ है।",
+            "सुशी खाने वाले के पास मछली है।",
+            "खरगोश का मालिक हरी मेज के बगल में है।",
+            "नीली मेज रिंच उपयोगकर्ता के ठीक बाएँ है।",
+            "स्टेक खाने वाला मेज 2 में है।"
           ]
         },
         "tr": {
           "title": "Ofis Mücadelesi",
           "description": "Bu 4x4 mantıksal mücadelesini çözün.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Masa 1",
+            "Masa 2",
+            "Masa 3",
+            "Masa 4"
           ],
           "categories": [
             {
@@ -781,25 +781,25 @@
             }
           ],
           "clues": [
-            "Pense Sushi'nin hemen solundadır.",
-            "Çekiç 3. sütundadır.",
-            "Kuş 2. sütunda.",
-            "Kedi Makarna ile akrabadır.",
-            "Mavi, Beyaz'ın hemen solundadır.",
-            "Suşi Balıkla ilgilidir.",
-            "Tavşan Yeşil'in yanındadır.",
-            "Mavi, İngiliz anahtarının hemen solundadır.",
-            "Biftek 2. sütunda."
+            "Pense kullanan sushi yiyenin hemen solundadır.",
+            "Çekiç kullanan Masa 3'tedir.",
+            "Kuş sahibi Masa 2'dedir.",
+            "Kedi sahibi makarna yer.",
+            "Mavi masa beyaz masanın hemen solundadır.",
+            "Sushi yiyenin balığı vardır.",
+            "Tavşan sahibi yeşil masanın yanındadır.",
+            "Mavi masa anahtar kullananın hemen solundadır.",
+            "Biftek yiyen Masa 2'dedir."
           ]
         },
         "pl": {
           "title": "Wyzwanie biurowe",
           "description": "Rozwiąż to logiczne wyzwanie 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Biurko 1",
+            "Biurko 2",
+            "Biurko 3",
+            "Biurko 4"
           ],
           "categories": [
             {
@@ -840,25 +840,25 @@
             }
           ],
           "clues": [
-            "Szczypce znajdują się bezpośrednio na lewo od sushi.",
-            "Młot znajduje się w kolumnie 3.",
-            "Ptak znajduje się w kolumnie 2.",
-            "Kot jest spokrewniony z makaronem.",
-            "Niebieski jest bezpośrednio na lewo od Białego.",
-            "Sushi jest spokrewnione z rybą.",
-            "Królik jest obok Zielonego.",
-            "Niebieski znajduje się bezpośrednio na lewo od klucza.",
-            "Stek jest w kolumnie 2."
+            "Użytkownik szczypiec jest bezpośrednio po lewej stronie od osoby jedzącej sushi.",
+            "Użytkownik młotka jest w Biurku 3.",
+            "Właściciel ptaka jest w Biurku 2.",
+            "Właściciel kota je makaron.",
+            "Niebieskie biurko jest bezpośrednio po lewej stronie od białego biurka.",
+            "Osoba jedząca sushi ma rybę.",
+            "Właściciel królika jest obok zielonego biurka.",
+            "Niebieskie biurko jest bezpośrednio po lewej stronie od użytkownika klucza.",
+            "Osoba jedząca stek jest w Biurku 2."
           ]
         },
         "nl": {
           "title": "Kantooruitdaging",
           "description": "Los deze logische 4x4-uitdaging op.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bureau 1",
+            "Bureau 2",
+            "Bureau 3",
+            "Bureau 4"
           ],
           "categories": [
             {
@@ -899,25 +899,25 @@
             }
           ],
           "clues": [
-            "De Tang bevindt zich direct links van de Sushi.",
-            "Hamer staat in kolom 3.",
-            "Vogel staat in kolom 2.",
-            "De Kat is verwant aan de Pasta.",
-            "Het Blauw bevindt zich direct links van het Wit.",
-            "De Sushi is gerelateerd aan de Vis.",
-            "Het Konijn ligt naast het Groen.",
-            "De Blauwe bevindt zich direct links van de Moersleutel.",
-            "Biefstuk staat in kolom 2."
+            "De tanggebruiker zit direct links van de sushi-eter.",
+            "De hamergebruiker zit op Bureau 3.",
+            "De vogelbezitter zit op Bureau 2.",
+            "De kattenbezitter eet pasta.",
+            "Het blauwe bureau zit direct links van het witte bureau.",
+            "De sushi-eter heeft een vis.",
+            "De konijnenbezitter zit naast het groene bureau.",
+            "Het blauwe bureau zit direct links van de moersleutelgebruiker.",
+            "De steak-eter zit op Bureau 2."
           ]
         },
         "sv": {
           "title": "Office Challenge",
           "description": "Lös denna 4x4 logiska utmaning.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Skrivbord 1",
+            "Skrivbord 2",
+            "Skrivbord 3",
+            "Skrivbord 4"
           ],
           "categories": [
             {
@@ -958,25 +958,25 @@
             }
           ],
           "clues": [
-            "Tången är direkt till vänster om Sushi.",
-            "Hammer finns i kolumn 3.",
-            "Fågel finns i kolumn 2.",
-            "Katten är släkt med pastan.",
-            "Den blå är direkt till vänster om den vita.",
-            "Sushi är släkt med fisken.",
-            "Kaninen ligger bredvid den gröna.",
-            "Den blå är direkt till vänster om skiftnyckeln.",
-            "Stek finns i kolumn 2."
+            "Tånganvändaren sitter direkt till vänster om sushifrukosten.",
+            "Hammaranvändaren sitter vid Skrivbord 3.",
+            "Fågelägaren sitter vid Skrivbord 2.",
+            "Kattägaren äter pasta.",
+            "Det blå skrivbordet sitter direkt till vänster om det vita skrivbordet.",
+            "Sushifrukosten har en fisk.",
+            "Kaninägaren sitter bredvid det gröna skrivbordet.",
+            "Det blå skrivbordet sitter direkt till vänster om skiftnyckel-användaren.",
+            "Steak-ätaren sitter vid Skrivbord 2."
           ]
         },
         "id": {
           "title": "Tantangan Kantor",
           "description": "Selesaikan tantangan logis 4x4 ini.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Meja 1",
+            "Meja 2",
+            "Meja 3",
+            "Meja 4"
           ],
           "categories": [
             {
@@ -1017,25 +1017,25 @@
             }
           ],
           "clues": [
-            "Tang berada tepat di sebelah kiri Sushi.",
-            "Palu ada di kolom 3.",
-            "Burung ada di kolom 2.",
-            "Kucing berkerabat dengan Pasta.",
-            "Si Biru tepat di sebelah kiri Si Putih.",
-            "Sushi berhubungan dengan Ikan.",
-            "Kelinci berada di sebelah Hijau.",
-            "Si Biru berada tepat di sebelah kiri Kunci Pas.",
-            "Steak ada di kolom 2."
+            "Pengguna tang berada tepat di sebelah kiri pemakan sushi.",
+            "Pengguna palu berada di Meja 3.",
+            "Pemilik burung berada di Meja 2.",
+            "Pemilik kucing makan pasta.",
+            "Meja biru berada tepat di sebelah kiri meja putih.",
+            "Pemakan sushi memiliki ikan.",
+            "Pemilik kelinci berada di sebelah meja hijau.",
+            "Meja biru berada tepat di sebelah kiri pengguna kunci pas.",
+            "Pemakan steak berada di Meja 2."
           ]
         },
         "th": {
           "title": "ความท้าทายในสำนักงาน",
           "description": "แก้ปัญหาความท้าทายเชิงตรรกะ 4x4 นี้",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "โต๊ะ 1",
+            "โต๊ะ 2",
+            "โต๊ะ 3",
+            "โต๊ะ 4"
           ],
           "categories": [
             {
@@ -1076,25 +1076,25 @@
             }
           ],
           "clues": [
-            "คีมอยู่ทางด้านซ้ายของซูชิโดยตรง",
-            "แฮมเมอร์อยู่ในคอลัมน์ 3",
-            "นกอยู่ในคอลัมน์ 2",
-            "แมวมีความเกี่ยวข้องกับพาสต้า",
-            "สีฟ้าอยู่ทางด้านซ้ายของสีขาวโดยตรง",
-            "ซูชิเกี่ยวข้องกับปลา",
-            "กระต่ายอยู่ถัดจากสีเขียว",
-            "สีน้ำเงินอยู่ทางด้านซ้ายของประแจโดยตรง",
-            "สเต็กอยู่ในคอลัมน์ 2"
+            "ผู้ใช้คีมอยู่ทางซ้ายติดกับผู้กินซูชิ",
+            "ผู้ใช้ค้อนอยู่ที่โต๊ะ 3",
+            "เจ้าของนกอยู่ที่โต๊ะ 2",
+            "เจ้าของแมวกินพาสต้า",
+            "โต๊ะสีน้ำเงินอยู่ทางซ้ายติดกับโต๊ะสีขาว",
+            "ผู้กินซูชิมีปลา",
+            "เจ้าของกระต่ายอยู่ติดกับโต๊ะสีเขียว",
+            "โต๊ะสีน้ำเงินอยู่ทางซ้ายติดกับผู้ใช้ประแจ",
+            "ผู้กินสเต๊กอยู่ที่โต๊ะ 2"
           ]
         },
         "vi": {
           "title": "Thử thách văn phòng",
           "description": "Giải quyết thách thức logic 4x4 này.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bàn 1",
+            "Bàn 2",
+            "Bàn 3",
+            "Bàn 4"
           ],
           "categories": [
             {
@@ -1135,25 +1135,25 @@
             }
           ],
           "clues": [
-            "Kìm nằm ngay bên trái của Sushi.",
-            "Búa nằm ở cột 3.",
-            "Con chim ở cột 2.",
-            "Con mèo có liên quan đến Pasta.",
-            "Quân Xanh nằm ngay bên trái của quân Trắng.",
-            "Sushi có liên quan đến Cá.",
-            "Thỏ ở cạnh Green.",
-            "Màu xanh nằm ngay bên trái của Cờ lê.",
-            "Bít tết nằm ở cột 2."
+            "Người dùng kìm ở ngay bên trái người ăn sushi.",
+            "Người dùng búa ở Bàn 3.",
+            "Chủ nhân của chim ở Bàn 2.",
+            "Chủ nhân của mèo ăn mì Ý.",
+            "Bàn màu xanh dương ở ngay bên trái bàn màu trắng.",
+            "Người ăn sushi có cá.",
+            "Chủ nhân của thỏ ở cạnh bàn màu xanh lá.",
+            "Bàn màu xanh dương ở ngay bên trái người dùng cờ lê.",
+            "Người ăn bò bít tết ở Bàn 2."
           ]
         },
         "uk": {
           "title": "Office Challenge",
           "description": "Вирішіть це логічне завдання 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Стіл 1",
+            "Стіл 2",
+            "Стіл 3",
+            "Стіл 4"
           ],
           "categories": [
             {
@@ -1194,15 +1194,15 @@
             }
           ],
           "clues": [
-            "Плоскогубці знаходяться прямо ліворуч від суші.",
-            "Молоток знаходиться в колонці 3.",
-            "Птах у колонці 2.",
-            "Кішка пов'язана з макаронами.",
-            "Синій прямо ліворуч від Білого.",
-            "Суші пов'язані з рибою.",
-            "Кролик поруч із Зеленим.",
-            "Синій прямо ліворуч від гайкового ключа.",
-            "Стейк у колонці 2."
+            "Користувач плоскогубців знаходиться безпосередньо ліворуч від їдця суші.",
+            "Користувач молотка знаходиться в Столі 3.",
+            "Власник птаха знаходиться в Столі 2.",
+            "Власник кота їсть пасту.",
+            "Синій стіл знаходиться безпосередньо ліворуч від білого столу.",
+            "Їдця суші має рибу.",
+            "Власник кролика знаходиться поруч із зеленим столом.",
+            "Синій стіл знаходиться безпосередньо ліворуч від користувача гайкового ключа.",
+            "Їдця стейка знаходиться в Столі 2."
           ]
         }
       }
@@ -1213,10 +1213,10 @@
           "title": "Fantasy Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Tower 1",
+            "Tower 2",
+            "Tower 3",
+            "Tower 4"
           ],
           "categories": [
             {
@@ -1257,26 +1257,26 @@
             }
           ],
           "clues": [
-            "The Fish is related to the Sushi.",
-            "The Coffee is related to the Alex.",
-            "David is in column 4.",
-            "The Cat is next to the Milk.",
-            "The Burger is related to the Cat.",
-            "The Fish is directly to the left of the Cat.",
-            "Rabbit is in column 3.",
-            "The Steak is related to the David.",
-            "The Fish is related to the Eva.",
-            "Tea is in column 1."
+            "The fish owner eats sushi.",
+            "Alex drinks coffee.",
+            "David is in Tower 4.",
+            "The cat owner is next to the milk drinker.",
+            "The cat owner eats a burger.",
+            "The fish owner is directly to the left of the cat owner.",
+            "The rabbit owner is in Tower 3.",
+            "David eats steak.",
+            "Eva has a fish.",
+            "The tea drinker is in Tower 1."
           ]
         },
         "pt": {
           "title": "Desafio Fantasia",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torre 1",
+            "Torre 2",
+            "Torre 3",
+            "Torre 4"
           ],
           "categories": [
             {
@@ -1317,26 +1317,26 @@
             }
           ],
           "clues": [
-            "Peixe está acompanhado de Sushi.",
-            "Café está acompanhado de Alex.",
-            "David está na coluna 4.",
-            "Gato está ao lado de Leite.",
-            "Hambúrguer está acompanhado de Gato.",
-            "Peixe está imediatamente à esquerda de Gato.",
-            "Coelho está na coluna 3.",
-            "Bife está acompanhado de David.",
-            "Peixe está acompanhado de Eva.",
-            "Chá está na coluna 1."
+            "O dono do peixe come sushi.",
+            "Alex bebe café.",
+            "David está na Torre 4.",
+            "O dono do gato está ao lado de quem bebe leite.",
+            "O dono do gato come um hambúrguer.",
+            "O dono do peixe está diretamente à esquerda do dono do gato.",
+            "O dono do coelho está na Torre 3.",
+            "David come bife.",
+            "Eva tem um peixe.",
+            "Quem bebe chá está na Torre 1."
           ]
         },
         "es": {
           "title": "Desafío de fantasía",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torre 1",
+            "Torre 2",
+            "Torre 3",
+            "Torre 4"
           ],
           "categories": [
             {
@@ -1377,26 +1377,26 @@
             }
           ],
           "clues": [
-            "El Pescado está relacionado con el Sushi.",
-            "El Café está relacionado con el Alex.",
-            "David está en la columna 4.",
-            "El Gato está al lado de la Leche.",
-            "La Hamburguesa está relacionada con el Gato.",
-            "El Pez está directamente a la izquierda del Gato.",
-            "El conejo está en la columna 3.",
-            "El filete está relacionado con el David.",
-            "El Pez está relacionado con la Eva.",
-            "El té está en la columna 1."
+            "El dueño del pez come sushi.",
+            "Alex bebe café.",
+            "David está en la Torre 4.",
+            "El dueño del gato está al lado del que bebe leche.",
+            "El dueño del gato come una hamburguesa.",
+            "El dueño del pez está directamente a la izquierda del dueño del gato.",
+            "El dueño del conejo está en la Torre 3.",
+            "David come bistec.",
+            "Eva tiene un pez.",
+            "El bebedor de té está en la Torre 1."
           ]
         },
         "fr": {
           "title": "Défi fantastique",
           "description": "Résolvez ce défi logique 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Tour 1",
+            "Tour 2",
+            "Tour 3",
+            "Tour 4"
           ],
           "categories": [
             {
@@ -1437,26 +1437,26 @@
             }
           ],
           "clues": [
-            "Le poisson est apparenté au sushi.",
-            "Le Café est lié à l'Alex.",
-            "David est dans la colonne 4.",
-            "Le Chat est à côté du Lait.",
-            "Le Burger est lié au Chat.",
-            "Le Poisson est directement à gauche du Chat.",
-            "Le lapin est dans la colonne 3.",
-            "Le Steak est apparenté au David.",
-            "Le Poisson est lié à l'Eva.",
-            "Le thé est dans la colonne 1."
+            "Le propriétaire du poisson mange des sushis.",
+            "Alex boit du café.",
+            "David est dans la Tour 4.",
+            "Le propriétaire du chat est à côté de celui qui boit du lait.",
+            "Le propriétaire du chat mange un burger.",
+            "Le propriétaire du poisson est directement à la gauche du propriétaire du chat.",
+            "Le propriétaire du lapin est dans la Tour 3.",
+            "David mange un steak.",
+            "Eva a un poisson.",
+            "Le buveur de thé est dans la Tour 1."
           ]
         },
         "de": {
           "title": "Fantasy-Herausforderung",
           "description": "Lösen Sie diese logische 4x4-Herausforderung.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Turm 1",
+            "Turm 2",
+            "Turm 3",
+            "Turm 4"
           ],
           "categories": [
             {
@@ -1497,26 +1497,26 @@
             }
           ],
           "clues": [
-            "Der Fisch ist mit dem Sushi verwandt.",
-            "Der Kaffee ist mit dem Alex verwandt.",
-            "David ist in Spalte 4.",
-            "Die Katze ist neben der Milch.",
-            "Der Burger ist mit der Katze verwandt.",
-            "Der Fisch befindet sich direkt links von der Katze.",
-            "Kaninchen steht in Spalte 3.",
-            "Das Steak ist mit dem David verwandt.",
-            "Der Fisch ist mit der Eva verwandt.",
-            "Tee steht in Spalte 1."
+            "Der Besitzer des Fisches isst Sushi.",
+            "Alex trinkt Kaffee.",
+            "David ist im Turm 4.",
+            "Der Katzenbesitzer ist neben dem Milchtrinker.",
+            "Der Katzenbesitzer isst einen Burger.",
+            "Der Fischbesitzer ist direkt links vom Katzenbesitzer.",
+            "Der Kaninchenbesitzer ist im Turm 3.",
+            "David isst Steak.",
+            "Eva hat einen Fisch.",
+            "Der Teetrinker ist im Turm 1."
           ]
         },
         "it": {
           "title": "Sfida di fantasia",
           "description": "Risolvi questa sfida logica 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torre 1",
+            "Torre 2",
+            "Torre 3",
+            "Torre 4"
           ],
           "categories": [
             {
@@ -1557,26 +1557,26 @@
             }
           ],
           "clues": [
-            "Il Pesce è legato al Sushi.",
-            "Il Caffè è imparentato con l'Alex.",
-            "David è nella colonna 4.",
-            "Il gatto è accanto al latte.",
-            "L'hamburger è imparentato con il gatto.",
-            "Il Pesce è direttamente a sinistra del Gatto.",
-            "Il coniglio è nella colonna 3.",
-            "La Bistecca è imparentata con il David.",
-            "Il Pesce è imparentato con Eva.",
-            "Il tè è nella colonna 1."
+            "Il proprietario del pesce mangia sushi.",
+            "Alex beve caffè.",
+            "David è nella Torre 4.",
+            "Il proprietario del gatto è accanto a chi beve latte.",
+            "Il proprietario del gatto mangia un hamburger.",
+            "Il proprietario del pesce è direttamente a sinistra del proprietario del gatto.",
+            "Il proprietario del coniglio è nella Torre 3.",
+            "David mangia bistecca.",
+            "Eva ha un pesce.",
+            "Il bevitore di tè è nella Torre 1."
           ]
         },
         "ru": {
           "title": "Фэнтезийный вызов",
           "description": "Решите логическую задачу 4х4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Башня 1",
+            "Башня 2",
+            "Башня 3",
+            "Башня 4"
           ],
           "categories": [
             {
@@ -1617,26 +1617,26 @@
             }
           ],
           "clues": [
-            "Рыба связана с суши.",
-            "Кофе связан с Алексом.",
-            "Дэвид находится в четвертой колонке.",
-            "Кот рядом с молоком.",
-            "Бургер связан с Котом.",
-            "Рыба находится прямо слева от Кота.",
-            "Кролик находится в столбце 3.",
-            "Стейк связан с Дэвидом.",
-            "Рыба связана с Евой.",
-            "Чай находится в колонке 1."
+            "Владелец рыбы ест суши.",
+            "Алекс пьёт кофе.",
+            "Дэвид находится в Башне 4.",
+            "Владелец кошки сидит рядом с тем, кто пьёт молоко.",
+            "Владелец кошки ест бургер.",
+            "Владелец рыбы находится непосредственно слева от владельца кошки.",
+            "Владелец кролика находится в Башне 3.",
+            "Дэвид ест стейк.",
+            "У Эвы есть рыба.",
+            "Тот, кто пьёт чай, находится в Башне 1."
           ]
         },
         "zh": {
           "title": "幻想挑战",
           "description": "解决这个 4x4 逻辑挑战。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "塔 1",
+            "塔 2",
+            "塔 3",
+            "塔 4"
           ],
           "categories": [
             {
@@ -1677,26 +1677,26 @@
             }
           ],
           "clues": [
-            "鱼与寿司有关。",
-            "咖啡与亚历克斯有关。",
-            "大卫在第 4 列。",
-            "猫在牛奶旁边。",
-            "汉堡与猫有关。",
-            "鱼就在猫的左边。",
-            "兔子在第 3 列。",
-            "牛排与大卫有关。",
-            "鱼与伊娃有关。",
-            "茶在第一列。"
+            "养鱼的人吃寿司。",
+            "亚历克斯喝咖啡。",
+            "大卫在塔 4。",
+            "养猫的人紧挨着喝牛奶的人。",
+            "养猫的人吃汉堡。",
+            "养鱼的人就在养猫的人的正左边。",
+            "养兔子的人在塔 3。",
+            "大卫吃牛排。",
+            "伊娃养鱼。",
+            "喝茶的人在塔 1。"
           ]
         },
         "ja": {
           "title": "ファンタジーチャレンジ",
           "description": "この 4x4 の論理的な課題を解決してください。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "塔1",
+            "塔2",
+            "塔3",
+            "塔4"
           ],
           "categories": [
             {
@@ -1737,26 +1737,26 @@
             }
           ],
           "clues": [
-            "魚は寿司と関係があります。",
-            "コーヒーはアレックスと関係があります。",
-            "デビッドは4列目です。",
-            "猫はミルクの隣にいます。",
-            "バーガーは猫と関係があります。",
-            "魚は猫のすぐ左側にいます。",
-            "ウサギは3列目にいます。",
-            "ステーキはダビデと関係があります。",
-            "魚はエヴァと関係があります。",
-            "お茶は列 1 にあります。"
+            "魚の飼い主は寿司を食べる。",
+            "アレックスはコーヒーを飲む。",
+            "デイビッドは塔4にいる。",
+            "猫の飼い主はミルクを飲む人の隣にいる。",
+            "猫の飼い主はハンバーガーを食べる。",
+            "魚の飼い主は猫の飼い主のすぐ左にいる。",
+            "ウサギの飼い主は塔3にいる。",
+            "デイビッドはステーキを食べる。",
+            "エヴァには魚がいる。",
+            "お茶を飲む人は塔1にいる。"
           ]
         },
         "ko": {
           "title": "판타지 챌린지",
           "description": "이 4x4 논리적 과제를 해결하세요.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "탑 1",
+            "탑 2",
+            "탑 3",
+            "탑 4"
           ],
           "categories": [
             {
@@ -1797,26 +1797,26 @@
             }
           ],
           "clues": [
-            "물고기는 초밥과 관련이 있습니다.",
-            "커피는 알렉스와 관련이 있습니다.",
-            "David는 4열에 있습니다.",
-            "고양이는 우유 옆에 있어요.",
-            "버거는 고양이와 관련이 있습니다.",
-            "물고기는 고양이의 바로 왼쪽에 있습니다.",
-            "토끼는 3열에 있습니다.",
-            "스테이크는 다윗과 관련이 있습니다.",
-            "물고기는 에바와 관련이 있습니다.",
-            "차는 1열에 있습니다."
+            "물고기 주인은 스시를 먹는다.",
+            "알렉스는 커피를 마신다.",
+            "데이비드는 탑 4에 있다.",
+            "고양이 주인은 우유를 마시는 사람 옆에 있다.",
+            "고양이 주인은 버거를 먹는다.",
+            "물고기 주인은 고양이 주인의 바로 왼쪽에 있다.",
+            "토끼 주인은 탑 3에 있다.",
+            "데이비드는 스테이크를 먹는다.",
+            "에바에게 물고기가 있다.",
+            "차를 마시는 사람은 탑 1에 있다."
           ]
         },
         "ar": {
           "title": "تحدي الخيال",
           "description": "حل هذا التحدي المنطقي 4X4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "برج 1",
+            "برج 2",
+            "برج 3",
+            "برج 4"
           ],
           "categories": [
             {
@@ -1857,26 +1857,26 @@
             }
           ],
           "clues": [
-            "السمك مرتبط بالسوشي.",
-            "القهوة مرتبطة بـ Alex.",
-            "ديفيد في العمود 4.",
-            "القطة بجانب الحليب.",
-            "البرجر مرتبط بالقطة.",
-            "السمكة على يسار القطة مباشرة.",
-            "الأرنب في العمود 3.",
-            "شريحة لحم مرتبطة بدافيد.",
-            "السمكة مرتبطة بإيفا.",
-            "الشاي في العمود 1."
+            "مالك السمكة يأكل السوشي.",
+            "أليكس يشرب القهوة.",
+            "ديفيد في البرج 4.",
+            "مالك القطة بجانب شارب الحليب.",
+            "مالك القطة يأكل البرغر.",
+            "مالك السمكة مباشرة إلى يسار مالك القطة.",
+            "مالك الأرنب في البرج 3.",
+            "ديفيد يأكل الستيك.",
+            "إيفا لديها سمكة.",
+            "شارب الشاي في البرج 1."
           ]
         },
         "hi": {
           "title": "काल्पनिक चुनौती",
           "description": "इस 4x4 तार्किक चुनौती को हल करें।",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "मीनार 1",
+            "मीनार 2",
+            "मीनार 3",
+            "मीनार 4"
           ],
           "categories": [
             {
@@ -1917,26 +1917,26 @@
             }
           ],
           "clues": [
-            "मछली का संबंध सुशी से है।",
-            "कॉफ़ी एलेक्स से संबंधित है।",
-            "डेविड कॉलम 4 में है।",
-            "बिल्ली दूध के बगल में है।",
-            "बर्गर बिल्ली से संबंधित है।",
-            "मछली सीधे बिल्ली के बायीं ओर है।",
-            "खरगोश कॉलम 3 में है।",
-            "स्टेक डेविड से संबंधित है।",
-            "मछली ईवा से संबंधित है।",
-            "चाय कॉलम 1 में है।"
+            "मछली वाला सुशी खाता है।",
+            "एलेक्स कॉफ़ी पीता है।",
+            "डेविड मीनार 4 में है।",
+            "बिल्ली वाला दूध पीने वाले के बगल में है।",
+            "बिल्ली वाला बर्गर खाता है।",
+            "मछली वाला बिल्ली वाले के ठीक बाएँ ओर है।",
+            "खरगोश वाला मीनार 3 में है।",
+            "डेविड स्टेक खाता है।",
+            "एवा के पास मछली है।",
+            "चाय पीने वाला मीनार 1 में है।"
           ]
         },
         "tr": {
           "title": "Fantezi Mücadelesi",
           "description": "Bu 4x4 mantıksal mücadelesini çözün.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Kule 1",
+            "Kule 2",
+            "Kule 3",
+            "Kule 4"
           ],
           "categories": [
             {
@@ -1977,26 +1977,26 @@
             }
           ],
           "clues": [
-            "Balık Suşi ile ilgilidir.",
-            "Kahve Alex'le akrabadır.",
-            "David 4. sütunda.",
-            "Kedi Sütün yanındadır.",
-            "Burger, Kedi ile akrabadır.",
-            "Balık, Kedinin hemen solundadır.",
-            "Tavşan 3. sütunda.",
-            "Biftek Davut'la akrabadır.",
-            "Balık Eva ile akrabadır.",
-            "Çay 1. sütunda."
+            "Balık sahibi suşi yer.",
+            "Alex kahve içer.",
+            "David Kule 4'te.",
+            "Kedi sahibi süt içenin yanında.",
+            "Kedi sahibi hamburger yer.",
+            "Balık sahibi kedi sahibinin hemen solunda.",
+            "Tavşan sahibi Kule 3'te.",
+            "David biftek yer.",
+            "Eva'nın balığı var.",
+            "Çay içeni Kule 1'de."
           ]
         },
         "pl": {
           "title": "Wyzwanie fantazji",
           "description": "Rozwiąż to logiczne wyzwanie 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Wieża 1",
+            "Wieża 2",
+            "Wieża 3",
+            "Wieża 4"
           ],
           "categories": [
             {
@@ -2037,26 +2037,26 @@
             }
           ],
           "clues": [
-            "Ryba jest spokrewniona z sushi.",
-            "Kawa jest spokrewniona z Alexem.",
-            "David jest w kolumnie 4.",
-            "Kot jest obok mleka.",
-            "Burger jest spokrewniony z Kotem.",
-            "Ryba znajduje się bezpośrednio na lewo od Kota.",
-            "Królik jest w kolumnie 3.",
-            "Stek jest spokrewniony z Dawidem.",
-            "Ryba jest spokrewniona z Ewą.",
-            "Herbata jest w kolumnie 1."
+            "Właściciel ryby je sushi.",
+            "Alex pije kawę.",
+            "David jest w Wieży 4.",
+            "Właściciel kota jest obok osoby pijącej mleko.",
+            "Właściciel kota je burgera.",
+            "Właściciel ryby jest bezpośrednio po lewej stronie właściciela kota.",
+            "Właściciel królika jest w Wieży 3.",
+            "David je stek.",
+            "Eva ma rybę.",
+            "Osoba pijąca herbatę jest w Wieży 1."
           ]
         },
         "nl": {
           "title": "Fantasie-uitdaging",
           "description": "Los deze logische 4x4-uitdaging op.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Toren 1",
+            "Toren 2",
+            "Toren 3",
+            "Toren 4"
           ],
           "categories": [
             {
@@ -2097,26 +2097,26 @@
             }
           ],
           "clues": [
-            "De Vis is verwant aan de Sushi.",
-            "De Koffie is verwant aan de Alex.",
-            "David staat in kolom 4.",
-            "De Kat staat naast de Melk.",
-            "De Burger is familie van de Kat.",
-            "De Vis bevindt zich direct links van de Kat.",
-            "Konijn staat in kolom 3.",
-            "De Biefstuk is verwant aan de David.",
-            "De Vis is verwant aan de Eva.",
-            "Thee staat in kolom 1."
+            "De visseigenaar eet sushi.",
+            "Alex drinkt koffie.",
+            "David is in Toren 4.",
+            "De kateigenaar zit naast de melkdrinker.",
+            "De kateigenaar eet een burger.",
+            "De visseigenaar zit direct links van de kateigenaar.",
+            "De konijneigenaar is in Toren 3.",
+            "David eet steak.",
+            "Eva heeft een vis.",
+            "De theedrinker is in Toren 1."
           ]
         },
         "sv": {
           "title": "Fantasy Challenge",
           "description": "Lös denna 4x4 logiska utmaning.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torn 1",
+            "Torn 2",
+            "Torn 3",
+            "Torn 4"
           ],
           "categories": [
             {
@@ -2157,26 +2157,26 @@
             }
           ],
           "clues": [
-            "Fisken är släkt med sushi.",
-            "Kaffet är relaterat till Alex.",
-            "David finns i kolumn 4.",
-            "Katten är bredvid mjölken.",
-            "Burger är släkt med katten.",
-            "Fisken är direkt till vänster om katten.",
-            "Kanin finns i kolumn 3.",
-            "Steken är släkt med David.",
-            "Fisken är släkt med Eva.",
-            "Te finns i kolumn 1."
+            "Fiskägaren äter sushi.",
+            "Alex dricker kaffe.",
+            "David är i Torn 4.",
+            "Kattägaren sitter bredvid mjölkdrickaren.",
+            "Kattägaren äter en burger.",
+            "Fiskägaren sitter direkt till vänster om kattägaren.",
+            "Kaninägaren är i Torn 3.",
+            "David äter steak.",
+            "Eva har en fisk.",
+            "Te-drickaren är i Torn 1."
           ]
         },
         "id": {
           "title": "Tantangan Fantasi",
           "description": "Selesaikan tantangan logis 4x4 ini.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Menara 1",
+            "Menara 2",
+            "Menara 3",
+            "Menara 4"
           ],
           "categories": [
             {
@@ -2217,26 +2217,26 @@
             }
           ],
           "clues": [
-            "Ikan terkait dengan Sushi.",
-            "Kopi berhubungan dengan Alex.",
-            "David ada di kolom 4.",
-            "Kucing itu ada di sebelah Susu.",
-            "Burger berkerabat dengan Kucing.",
-            "Ikan berada tepat di sebelah kiri Kucing.",
-            "Kelinci ada di kolom 3.",
-            "Steak berhubungan dengan David.",
-            "Ikan berhubungan dengan Eva.",
-            "Teh ada di kolom 1."
+            "Pemilik ikan makan sushi.",
+            "Alex minum kopi.",
+            "David berada di Menara 4.",
+            "Pemilik kucing berada di sebelah pemminum susu.",
+            "Pemilik kucing makan burger.",
+            "Pemilik ikan berada tepat di sebelah kiri pemilik kucing.",
+            "Pemilik kelinci berada di Menara 3.",
+            "David makan steak.",
+            "Eva memiliki ikan.",
+            "Pemminum teh berada di Menara 1."
           ]
         },
         "th": {
           "title": "ความท้าทายแฟนตาซี",
           "description": "แก้ปัญหาความท้าทายเชิงตรรกะ 4x4 นี้",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "หอคอย 1",
+            "หอคอย 2",
+            "หอคอย 3",
+            "หอคอย 4"
           ],
           "categories": [
             {
@@ -2277,26 +2277,26 @@
             }
           ],
           "clues": [
-            "ปลามีความเกี่ยวข้องกับซูชิ",
-            "The Coffee มีความเกี่ยวข้องกับอเล็กซ์",
-            "เดวิดอยู่ในคอลัมน์ 4",
-            "แมวอยู่ข้างๆนม",
-            "เบอร์เกอร์มีความเกี่ยวข้องกับแมว",
-            "ปลาอยู่ทางด้านซ้ายของแมวโดยตรง",
-            "แรบบิทอยู่ในคอลัมน์ 3",
-            "สเต็กมีความเกี่ยวข้องกับเดวิด",
-            "ปลามีความเกี่ยวข้องกับเอวา",
-            "ชาอยู่ในคอลัมน์ 1"
+            "เจ้าของปลากินซูชิ",
+            "อเล็กซ์ดื่มกาแฟ",
+            "เดวิดอยู่ในหอคอย 4",
+            "เจ้าของแมวอยู่ติดกับคนดื่มนม",
+            "เจ้าของแมวกินเบอร์เกอร์",
+            "เจ้าของปลาอยู่ทางซ้ายตรงๆ ของเจ้าของแมว",
+            "เจ้าของกระต่ายอยู่ในหอคอย 3",
+            "เดวิดกินสเต๊ก",
+            "อีวามีปลา",
+            "คนดื่มชาอยู่ในหอคอย 1"
           ]
         },
         "vi": {
           "title": "Thử thách tưởng tượng",
           "description": "Giải quyết thách thức logic 4x4 này.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Tháp 1",
+            "Tháp 2",
+            "Tháp 3",
+            "Tháp 4"
           ],
           "categories": [
             {
@@ -2337,26 +2337,26 @@
             }
           ],
           "clues": [
-            "Cá có liên quan đến Sushi.",
-            "Cà phê có liên quan đến Alex.",
-            "David ở cột 4.",
-            "Con mèo ở cạnh Sữa.",
-            "Burger có liên quan đến Cat.",
-            "Cá ở ngay bên trái của Mèo.",
-            "Thỏ ở cột 3.",
-            "Steak có liên quan đến David.",
-            "Cá có liên quan đến Eva.",
-            "Trà ở cột 1."
+            "Chủ nhân của con cá ăn sushi.",
+            "Alex uống cà phê.",
+            "David ở Tháp 4.",
+            "Chủ nhân của con mèo ở cạnh người uống sữa.",
+            "Chủ nhân của con mèo ăn burger.",
+            "Chủ nhân của con cá ở ngay bên trái chủ nhân của con mèo.",
+            "Chủ nhân của con thỏ ở Tháp 3.",
+            "David ăn steak.",
+            "Eva có con cá.",
+            "Người uống trà ở Tháp 1."
           ]
         },
         "uk": {
           "title": "Fantasy Challenge",
           "description": "Вирішіть це логічне завдання 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Вежа 1",
+            "Вежа 2",
+            "Вежа 3",
+            "Вежа 4"
           ],
           "categories": [
             {
@@ -2397,16 +2397,16 @@
             }
           ],
           "clues": [
-            "Риба пов'язана з суші.",
-            "Кава пов'язана з Алексом.",
-            "Девід у колонці 4.",
-            "Кішка біля Молока.",
-            "Бургер пов'язаний з Котом.",
-            "Риба знаходиться прямо ліворуч від Кота.",
-            "Кролик у колонці 3.",
-            "Стейк пов'язаний з Давидом.",
-            "Риба пов'язана з Євою.",
-            "Чай у колонці 1."
+            "Власник риби їсть суші.",
+            "Алекс п'є каву.",
+            "Девід у Вежі 4.",
+            "Власник кота поруч з тим, хто п'є молоко.",
+            "Власник кота їсть бургер.",
+            "Власник риби безпосередньо ліворуч від власника кота.",
+            "Власник кролика у Вежі 3.",
+            "Девід їсть стейк.",
+            "Єва має рибу.",
+            "Той, хто п'є чай, у Вежі 1."
           ]
         }
       }
@@ -2417,10 +2417,10 @@
           "title": "Wild West Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Cabin 1",
+            "Cabin 2",
+            "Cabin 3",
+            "Cabin 4"
           ],
           "categories": [
             {
@@ -2461,25 +2461,25 @@
             }
           ],
           "clues": [
-            "The Salad is related to the Milk.",
-            "The White is related to the Coffee.",
-            "The Pasta is next to the Coffee.",
-            "The Tea is directly to the left of the Cat.",
-            "The Blue is next to the Rabbit.",
-            "Burger is in column 3.",
-            "The Yellow is directly to the left of the Coffee.",
-            "The Salad is directly to the left of the Coffee.",
-            "The Hamster is next to the Coffee."
+            "The salad eater drinks milk.",
+            "The coffee drinker lives in the white cabin.",
+            "The pasta eater is next to the coffee drinker.",
+            "The tea drinker is directly to the left of the cat owner.",
+            "The blue cabin is next to the rabbit owner.",
+            "The burger eater is in Cabin 3.",
+            "The yellow cabin is directly to the left of the coffee drinker.",
+            "The salad eater is directly to the left of the coffee drinker.",
+            "The hamster owner is next to the coffee drinker."
           ]
         },
         "pt": {
           "title": "Desafio Velho Oeste",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Cabana 1",
+            "Cabana 2",
+            "Cabana 3",
+            "Cabana 4"
           ],
           "categories": [
             {
@@ -2520,25 +2520,25 @@
             }
           ],
           "clues": [
-            "Salada está acompanhado de Leite.",
-            "Branco está acompanhado de Café.",
-            "Massa está ao lado de Café.",
-            "Chá está imediatamente à esquerda de Gato.",
-            "Azul está ao lado de Coelho.",
-            "Hambúrguer está na coluna 3.",
-            "Amarelo está imediatamente à esquerda de Café.",
-            "Salada está imediatamente à esquerda de Café.",
-            "Hamster está ao lado de Café."
+            "O comedor de salada bebe leite.",
+            "O bebedor de café mora na cabana branca.",
+            "O comedor de pasta está ao lado do bebedor de café.",
+            "O bebedor de chá está diretamente à esquerda do dono do gato.",
+            "A cabana azul está ao lado do dono do coelho.",
+            "O comedor de hambúrguer está na Cabana 3.",
+            "A cabana amarela está diretamente à esquerda do bebedor de café.",
+            "O comedor de salada está diretamente à esquerda do bebedor de café.",
+            "O dono do hamster está ao lado do bebedor de café."
           ]
         },
         "es": {
           "title": "Desafío del lejano oeste",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Cabaña 1",
+            "Cabaña 2",
+            "Cabaña 3",
+            "Cabaña 4"
           ],
           "categories": [
             {
@@ -2579,25 +2579,25 @@
             }
           ],
           "clues": [
-            "La Ensalada está relacionada con la Leche.",
-            "El Blanco está relacionado con el Café.",
-            "La Pasta está al lado del Café.",
-            "El Té está directamente a la izquierda del Gato.",
-            "El Azul está al lado del Conejo.",
-            "La hamburguesa está en la columna 3.",
-            "El Amarillo está directamente a la izquierda del Café.",
-            "La Ensalada está directamente a la izquierda del Café.",
-            "La hámster está al lado del café."
+            "El comedor de ensalada bebe leche.",
+            "El bebedor de café vive en la cabaña blanca.",
+            "El comedor de pasta está al lado del bebedor de café.",
+            "El bebedor de té está directamente a la izquierda del dueño del gato.",
+            "La cabaña azul está al lado del dueño del conejo.",
+            "El comedor de hamburguesa está en la Cabaña 3.",
+            "La cabaña amarilla está directamente a la izquierda del bebedor de café.",
+            "El comedor de ensalada está directamente a la izquierda del bebedor de café.",
+            "El dueño del hámster está al lado del bebedor de café."
           ]
         },
         "fr": {
           "title": "Défi du Far West",
           "description": "Résolvez ce défi logique 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Cabane 1",
+            "Cabane 2",
+            "Cabane 3",
+            "Cabane 4"
           ],
           "categories": [
             {
@@ -2638,25 +2638,25 @@
             }
           ],
           "clues": [
-            "La Salade est liée au Lait.",
-            "Le Blanc est lié au Café.",
-            "Les pâtes sont à côté du café.",
-            "Le Thé est directement à gauche du Chat.",
-            "Le Bleu est à côté du Lapin.",
-            "Burger est dans la colonne 3.",
-            "Le Jaune est directement à gauche du Café.",
-            "La Salade est directement à gauche du Café.",
-            "Le Hamster est à côté du Café."
+            "Le mangeur de salade boit du lait.",
+            "Le buveur de café vit dans la cabane blanche.",
+            "Le mangeur de pâtes est à côté du buveur de café.",
+            "Le buveur de thé est directement à gauche du propriétaire du chat.",
+            "La cabane bleue est à côté du propriétaire du lapin.",
+            "Le mangeur de burger est dans la Cabane 3.",
+            "La cabane jaune est directement à gauche du buveur de café.",
+            "Le mangeur de salade est directement à gauche du buveur de café.",
+            "Le propriétaire du hamster est à côté du buveur de café."
           ]
         },
         "de": {
           "title": "Wild-West-Herausforderung",
           "description": "Lösen Sie diese logische 4x4-Herausforderung.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Hütte 1",
+            "Hütte 2",
+            "Hütte 3",
+            "Hütte 4"
           ],
           "categories": [
             {
@@ -2697,25 +2697,25 @@
             }
           ],
           "clues": [
-            "Der Salat ist mit der Milch verwandt.",
-            "Das Weiß ist mit dem Kaffee verwandt.",
-            "Die Pasta steht neben dem Kaffee.",
-            "Der Tee befindet sich direkt links von der Katze.",
-            "Der Blaue steht neben dem Hasen.",
-            "Burger ist in Spalte 3.",
-            "Das Gelbe befindet sich direkt links vom Kaffee.",
-            "Der Salat befindet sich direkt links vom Kaffee.",
-            "Der Hamster steht neben dem Kaffee."
+            "Der Salatesser trinkt Milch.",
+            "Der Kaffeetrinker lebt in der weißen Hütte.",
+            "Der Pastafresser ist neben dem Kaffeetrinker.",
+            "Der Teetrinker ist direkt links vom Katzenbesitzer.",
+            "Die blaue Hütte ist neben dem Kaninchenbesitzer.",
+            "Der Burgeresser ist in Hütte 3.",
+            "Die gelbe Hütte ist direkt links vom Kaffeetrinker.",
+            "Der Salatesser ist direkt links vom Kaffeetrinker.",
+            "Der Hamsterbesitzer ist neben dem Kaffeetrinker."
           ]
         },
         "it": {
           "title": "Sfida del selvaggio West",
           "description": "Risolvi questa sfida logica 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Capanna 1",
+            "Capanna 2",
+            "Capanna 3",
+            "Capanna 4"
           ],
           "categories": [
             {
@@ -2756,25 +2756,25 @@
             }
           ],
           "clues": [
-            "L'Insalata è legata al Latte.",
-            "Il Bianco è legato al Caffè.",
-            "La Pasta è accanto al Caffè.",
-            "Il tè è direttamente a sinistra del gatto.",
-            "Il Blu è accanto al Coniglio.",
-            "L'hamburger è nella colonna 3.",
-            "Il Giallo è direttamente a sinistra del Caffè.",
-            "L'insalata è direttamente a sinistra del caffè.",
-            "Il Criceto è accanto al Caffè."
+            "Il mangiatore di insalata beve latte.",
+            "Il bevitore di caffè vive nella capanna bianca.",
+            "Il mangiatore di pasta è accanto al bevitore di caffè.",
+            "Il bevitore di tè è direttamente a sinistra del proprietario del gatto.",
+            "La capanna blu è accanto al proprietario del coniglio.",
+            "Il mangiatore di hamburger è nella Capanna 3.",
+            "La capanna gialla è direttamente a sinistra del bevitore di caffè.",
+            "Il mangiatore di insalata è direttamente a sinistra del bevitore di caffè.",
+            "Il proprietario del criceto è accanto al bevitore di caffè."
           ]
         },
         "ru": {
           "title": "Вызов Дикого Запада",
           "description": "Решите логическую задачу 4х4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Дом 1",
+            "Дом 2",
+            "Дом 3",
+            "Дом 4"
           ],
           "categories": [
             {
@@ -2815,25 +2815,25 @@
             }
           ],
           "clues": [
-            "Салат связан с Молоком.",
-            "Белый связан с Кофе.",
-            "Паста находится рядом с кофе.",
-            "Чай находится прямо слева от Кота.",
-            "Синий находится рядом с Кроликом.",
-            "Бургер находится в столбце 3.",
-            "Желтый находится прямо слева от Кофе.",
-            "Салат находится прямо слева от кофе.",
-            "Хомяк находится рядом с Кофе."
+            "Тот, кто ест салат, пьёт молоко.",
+            "Пьющий кофе живёт в белом доме.",
+            "Едок пасты находится рядом с пьющим кофе.",
+            "Пьющий чай находится непосредственно слева от владельца кошки.",
+            "Синий дом находится рядом с владельцем кролика.",
+            "Едок бургера находится в Доме 3.",
+            "Жёлтый дом находится непосредственно слева от пьющего кофе.",
+            "Едок салата находится непосредственно слева от пьющего кофе.",
+            "Владелец хомяка находится рядом с пьющим кофе."
           ]
         },
         "zh": {
           "title": "狂野西部挑战",
           "description": "解决这个 4x4 逻辑挑战。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "小屋 1",
+            "小屋 2",
+            "小屋 3",
+            "小屋 4"
           ],
           "categories": [
             {
@@ -2874,25 +2874,25 @@
             }
           ],
           "clues": [
-            "沙拉与牛奶有关。",
-            "白与咖啡有关。",
-            "意大利面位于咖啡旁边。",
-            "茶就在猫的左边。",
-            "蓝色在兔子旁边。",
-            "汉堡位于第 3 列。",
-            "黄色就在咖啡的左边。",
-            "沙拉就在咖啡的左边。",
-            "仓鼠在咖啡旁边。"
+            "吃沙拉的人喝牛奶。",
+            "喝咖啡的人住在白色小屋。",
+            "吃意大利面的人挨着喝咖啡的人。",
+            "喝茶的人就在养猫人的左边。",
+            "蓝色小屋挨着养兔子的人。",
+            "吃汉堡的人在小屋 3。",
+            "黄色小屋就在喝咖啡人的左边。",
+            "吃沙拉的人就在喝咖啡人的左边。",
+            "养仓鼠的人挨着喝咖啡的人。"
           ]
         },
         "ja": {
           "title": "ワイルドウェストチャレンジ",
           "description": "この 4x4 の論理的な課題を解決してください。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "小屋 1",
+            "小屋 2",
+            "小屋 3",
+            "小屋 4"
           ],
           "categories": [
             {
@@ -2933,25 +2933,25 @@
             }
           ],
           "clues": [
-            "サラダはミルクと関係があります。",
-            "白はコーヒーと関係があります。",
-            "パスタはコーヒーの隣にあります。",
-            "お茶は猫のすぐ左側にあります。",
-            "ブルーはウサギの隣にあります。",
-            "バーガーは3列目です。",
-            "イエローはコーヒーのすぐ左にあります。",
-            "サラダはコーヒーのすぐ左にあります。",
-            "ハムスターはコーヒーの隣にいます。"
+            "サラダを食べる人はミルクを飲む。",
+            "コーヒーを飲む人は白い小屋に住む。",
+            "パスタを食べる人はコーヒーを飲む人の隣にいる。",
+            "お茶を飲む人は猫の飼い主のすぐ左にいる。",
+            "青い小屋はウサギの飼い主の隣にある。",
+            "バーガーを食べる人は小屋 3にいる。",
+            "黄色い小屋はコーヒーを飲む人のすぐ左にある。",
+            "サラダを食べる人はコーヒーを飲む人のすぐ左にいる。",
+            "ハムスターの飼い主はコーヒーを飲む人の隣にいる。"
           ]
         },
         "ko": {
           "title": "와일드 웨스트 챌린지",
           "description": "이 4x4 논리적 과제를 해결하세요.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "오두막 1",
+            "오두막 2",
+            "오두막 3",
+            "오두막 4"
           ],
           "categories": [
             {
@@ -2992,25 +2992,25 @@
             }
           ],
           "clues": [
-            "샐러드는 우유와 관련이 있습니다.",
-            "화이트는 커피와 관련이 있습니다.",
-            "파스타는 커피 옆에 있어요.",
-            "차는 고양이의 바로 왼쪽에 있습니다.",
-            "파란색은 토끼 옆에 있습니다.",
-            "버거는 3열에 있습니다.",
-            "노란색은 커피 바로 왼쪽에 있습니다.",
-            "샐러드는 커피 바로 왼쪽에 있습니다.",
-            "햄스터는 커피 옆에 있어요."
+            "샐러드를 먹는 사람은 우유를 마신다.",
+            "커피를 마시는 사람은 흰 오두막에 산다.",
+            "파스타를 먹는 사람은 커피를 마시는 사람 옆에 있다.",
+            "차를 마시는 사람은 고양이 주인 바로 왼쪽에 있다.",
+            "파란 오두막은 토끼 주인 옆에 있다.",
+            "버거를 먹는 사람은 오두막 3에 있다.",
+            "노란 오두막은 커피를 마시는 사람 바로 왼쪽에 있다.",
+            "샐러드를 먹는 사람은 커피를 마시는 사람 바로 왼쪽에 있다.",
+            "햄스터 주인은 커피를 마시는 사람 옆에 있다."
           ]
         },
         "ar": {
           "title": "تحدي الغرب المتوحش",
           "description": "حل هذا التحدي المنطقي 4X4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "كوخ 1",
+            "كوخ 2",
+            "كوخ 3",
+            "كوخ 4"
           ],
           "categories": [
             {
@@ -3051,25 +3051,25 @@
             }
           ],
           "clues": [
-            "السلطة مرتبطة بالحليب.",
-            "الأبيض مرتبط بالقهوة.",
-            "المعكرونة بجوار القهوة.",
-            "الشاي مباشرة على يسار القطة.",
-            "الأزرق بجوار الأرنب.",
-            "برجر في العمود 3.",
-            "اللون الأصفر يقع مباشرة على يسار القهوة.",
-            "السلطة مباشرة على يسار القهوة.",
-            "الهامستر بجوار القهوة."
+            "آكل السلطة يشرب الحليب.",
+            "شارب القهوة يعيش في الكوخ الأبيض.",
+            "آكل الباستا بجانب شارب القهوة.",
+            "شارب الشاي مباشرة إلى يسار صاحب القط.",
+            "الكوخ الأزرق بجانب صاحب الأرنب.",
+            "آكل البرغر في الكوخ 3.",
+            "الكوخ الأصفر مباشرة إلى يسار شارب القهوة.",
+            "آكل السلطة مباشرة إلى يسار شارب القهوة.",
+            "صاحب الهامستر بجانب شارب القهوة."
           ]
         },
         "hi": {
           "title": "वाइल्ड वेस्ट चैलेंज",
           "description": "इस 4x4 तार्किक चुनौती को हल करें।",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "घर 1",
+            "घर 2",
+            "घर 3",
+            "घर 4"
           ],
           "categories": [
             {
@@ -3110,25 +3110,25 @@
             }
           ],
           "clues": [
-            "सलाद का संबंध दूध से है।",
-            "सफ़ेद कॉफ़ी से संबंधित है।",
-            "पास्ता कॉफ़ी के बगल में है।",
-            "चाय सीधे बिल्ली के बायीं ओर है।",
-            "नीला खरगोश के बगल में है।",
-            "बर्गर कॉलम 3 में है।",
-            "पीला कॉफ़ी के सीधे बायीं ओर है।",
-            "सलाद कॉफ़ी के ठीक बायीं ओर है।",
-            "हैम्स्टर कॉफ़ी के बगल में है।"
+            "सलाद खाने वाला दूध पीता है।",
+            "कॉफ़ी पीने वाला सफेद घर में रहता है।",
+            "पास्ता खाने वाला कॉफ़ी पीने वाले के बगल में है।",
+            "चाय पीने वाला बिल्ली के मालिक के ठीक बाएँ ओर है।",
+            "नीला घर खरगोश के मालिक के बगल में है।",
+            "बर्गर खाने वाला घर 3 में है।",
+            "पीला घर कॉफ़ी पीने वाले के ठीक बाएँ ओर है।",
+            "सलाद खाने वाला कॉफ़ी पीने वाले के ठीक बाएँ ओर है।",
+            "हैम्स्टर का मालिक कॉफ़ी पीने वाले के बगल में है।"
           ]
         },
         "tr": {
           "title": "Vahşi Batı Mücadelesi",
           "description": "Bu 4x4 mantıksal mücadelesini çözün.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Ev 1",
+            "Ev 2",
+            "Ev 3",
+            "Ev 4"
           ],
           "categories": [
             {
@@ -3169,25 +3169,25 @@
             }
           ],
           "clues": [
-            "Salata Sütle ilgilidir.",
-            "Beyaz, Kahve ile akrabadır.",
-            "Makarna Kahvenin yanındadır.",
-            "Çay, Kedinin hemen solundadır.",
-            "Mavi, Tavşan'ın yanındadır.",
-            "Burger 3. sütunda.",
-            "Sarı Kahvenin hemen solundadır.",
-            "Salata Kahvenin hemen solundadır.",
-            "Hamster Kahvenin yanındadır."
+            "Salata yiyen süt içer.",
+            "Kahve içen beyaz evde yaşar.",
+            "Makarna yiyen kahve içenin yanında.",
+            "Çay içen kedi sahibinin hemen solunda.",
+            "Mavi ev tavşan sahibinin yanında.",
+            "Hamburger yiyen 3 numaralı evde.",
+            "Sarı ev kahve içenin hemen solunda.",
+            "Salata yiyen kahve içenin hemen solunda.",
+            "Hamster sahibi kahve içenin yanında."
           ]
         },
         "pl": {
           "title": "Wyzwanie Dzikiego Zachodu",
           "description": "Rozwiąż to logiczne wyzwanie 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Dom 1",
+            "Dom 2",
+            "Dom 3",
+            "Dom 4"
           ],
           "categories": [
             {
@@ -3228,25 +3228,25 @@
             }
           ],
           "clues": [
-            "Sałatka jest spokrewniona z Mlekiem.",
-            "Kolor biały jest powiązany z kawą.",
-            "Makaron jest obok kawy.",
-            "Herbata znajduje się bezpośrednio na lewo od Kota.",
-            "Niebieski jest obok Królika.",
-            "Burger znajduje się w kolumnie 3.",
-            "Żółty znajduje się bezpośrednio na lewo od Kawy.",
-            "Sałatka znajduje się bezpośrednio na lewo od kawy.",
-            "Chomik stoi obok kawy."
+            "Osoba jedząca sałatkę pije mleko.",
+            "Osoba pijąca kawę mieszka w białym domu.",
+            "Osoba jedząca makaron jest obok osoby pijącej kawę.",
+            "Osoba pijąca herbatę jest bezpośrednio po lewej od właściciela kota.",
+            "Niebieski dom jest obok właściciela królika.",
+            "Osoba jedząca burgera jest w Domu 3.",
+            "Żółty dom jest bezpośrednio po lewej od osoby pijącej kawę.",
+            "Osoba jedząca sałatkę jest bezpośrednio po lewej od osoby pijącej kawę.",
+            "Właściciel chomika jest obok osoby pijącej kawę."
           ]
         },
         "nl": {
           "title": "Uitdaging uit het Wilde Westen",
           "description": "Los deze logische 4x4-uitdaging op.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Hut 1",
+            "Hut 2",
+            "Hut 3",
+            "Hut 4"
           ],
           "categories": [
             {
@@ -3287,25 +3287,25 @@
             }
           ],
           "clues": [
-            "De Salade is gerelateerd aan de Melk.",
-            "Het Wit is verwant aan de Koffie.",
-            "De Pasta ligt naast de Koffie.",
-            "De thee bevindt zich direct links van de kat.",
-            "Het Blauw staat naast het Konijn.",
-            "Burger staat in kolom 3.",
-            "De gele bevindt zich direct links van de koffie.",
-            "De salade bevindt zich direct links van de koffie.",
-            "De Hamster staat naast de Koffie."
+            "De salade-eter drinkt melk.",
+            "De koffiedrinker woont in de witte hut.",
+            "De pasta-eter zit naast de koffiedrinker.",
+            "De theedrinker zit direct links van de kattenbezitter.",
+            "De blauwe hut zit naast de konijnebezitter.",
+            "De burger-eter is in Hut 3.",
+            "De gele hut zit direct links van de koffiedrinker.",
+            "De salade-eter zit direct links van de koffiedrinker.",
+            "De hamsterbezitter zit naast de koffiedrinker."
           ]
         },
         "sv": {
           "title": "Vilda Västern utmaning",
           "description": "Lös denna 4x4 logiska utmaning.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Stuga 1",
+            "Stuga 2",
+            "Stuga 3",
+            "Stuga 4"
           ],
           "categories": [
             {
@@ -3346,25 +3346,25 @@
             }
           ],
           "clues": [
-            "Salladen är relaterad till mjölken.",
-            "Det vita är släkt med kaffet.",
-            "Pastan är bredvid kaffet.",
-            "Teet är direkt till vänster om katten.",
-            "Den blå är bredvid kaninen.",
-            "Burger finns i kolumn 3.",
-            "Den gula är direkt till vänster om kaffet.",
-            "Salladen är direkt till vänster om kaffet.",
-            "Hamstern är bredvid kaffet."
+            "Den som äter sallad dricker mjölk.",
+            "Den som dricker kaffe bor i den vita stugan.",
+            "Den som äter pasta sitter bredvid den som dricker kaffe.",
+            "Den som dricker te sitter direkt till vänster om kattägaren.",
+            "Den blå stugan sitter bredvid kaninägaren.",
+            "Den som äter hamburgare är i Stuga 3.",
+            "Den gula stugan sitter direkt till vänster om den som dricker kaffe.",
+            "Den som äter sallad sitter direkt till vänster om den som dricker kaffe.",
+            "Hamsterägaren sitter bredvid den som dricker kaffe."
           ]
         },
         "id": {
           "title": "Tantangan Wild West",
           "description": "Selesaikan tantangan logis 4x4 ini.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Rumah 1",
+            "Rumah 2",
+            "Rumah 3",
+            "Rumah 4"
           ],
           "categories": [
             {
@@ -3405,25 +3405,25 @@
             }
           ],
           "clues": [
-            "Salad berhubungan dengan Susu.",
-            "Si Putih berkerabat dengan Kopi.",
-            "Pasta ada di sebelah Kopi.",
-            "Teh berada tepat di sebelah kiri Kucing.",
-            "Si Biru ada di sebelah Kelinci.",
-            "Burger ada di kolom 3.",
-            "Si Kuning tepat di sebelah kiri Kopi.",
-            "Saladnya tepat di sebelah kiri Kopi.",
-            "Hamster ada di sebelah Kopi."
+            "Pemakan salad minum susu.",
+            "Peminum kopi tinggal di rumah putih.",
+            "Pemakan pasta berada di sebelah peminum kopi.",
+            "Peminum teh berada tepat di sebelah kiri pemilik kucing.",
+            "Rumah biru berada di sebelah pemilik kelinci.",
+            "Pemakan burger berada di Rumah 3.",
+            "Rumah kuning berada tepat di sebelah kiri peminum kopi.",
+            "Pemakan salad berada tepat di sebelah kiri peminum kopi.",
+            "Pemilik hamster berada di sebelah peminum kopi."
           ]
         },
         "th": {
           "title": "ความท้าทายของป่าตะวันตก",
           "description": "แก้ปัญหาความท้าทายเชิงตรรกะ 4x4 นี้",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "บ้าน 1",
+            "บ้าน 2",
+            "บ้าน 3",
+            "บ้าน 4"
           ],
           "categories": [
             {
@@ -3464,25 +3464,25 @@
             }
           ],
           "clues": [
-            "สลัดมีความเกี่ยวข้องกับนม",
-            "สีขาวมีความเกี่ยวข้องกับกาแฟ",
-            "พาสต้าอยู่ข้างๆกาแฟ",
-            "ชาอยู่ทางด้านซ้ายของแมวโดยตรง",
-            "สีฟ้าอยู่ถัดจากกระต่าย",
-            "เบอร์เกอร์อยู่ในคอลัมน์ 3",
-            "สีเหลืองอยู่ทางด้านซ้ายของกาแฟโดยตรง",
-            "สลัดจะอยู่ทางด้านซ้ายของกาแฟโดยตรง",
-            "หนูแฮมสเตอร์อยู่ข้างๆกาแฟ"
+            "ผู้ที่กินสลัดดื่มนม",
+            "ผู้ที่ดื่มกาแฟอาศัยอยู่ในบ้านสีขาว",
+            "ผู้ที่กินพาสต้าอยู่ติดกับผู้ที่ดื่มกาแฟ",
+            "ผู้ที่ดื่มชาอยู่ตรงซ้ายของเจ้าของแมว",
+            "บ้านสีน้ำเงินอยู่ติดกับเจ้าของกระต่าย",
+            "ผู้ที่กินเบอร์เกอร์อยู่ในบ้าน 3",
+            "บ้านสีเหลืองอยู่ตรงซ้ายของผู้ที่ดื่มกาแฟ",
+            "ผู้ที่กินสลัดอยู่ตรงซ้ายของผู้ที่ดื่มกาแฟ",
+            "เจ้าของฮัมสเตอร์อยู่ติดกับผู้ที่ดื่มกาแฟ"
           ]
         },
         "vi": {
           "title": "Thử thách miền Tây hoang dã",
           "description": "Giải quyết thách thức logic 4x4 này.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Nhà 1",
+            "Nhà 2",
+            "Nhà 3",
+            "Nhà 4"
           ],
           "categories": [
             {
@@ -3523,25 +3523,25 @@
             }
           ],
           "clues": [
-            "Salad có liên quan đến Sữa.",
-            "Màu trắng có liên quan đến Cà phê.",
-            "Pasta nằm cạnh Cà phê.",
-            "Trà nằm ngay bên trái của Mèo.",
-            "Blue ở cạnh Thỏ.",
-            "Burger nằm ở cột 3.",
-            "Màu vàng nằm ngay bên trái của Cà phê.",
-            "Salad nằm ngay bên trái của Cà phê.",
-            "Hamster ở cạnh quán cà phê."
+            "Người ăn salad uống sữa.",
+            "Người uống cà phê sống trong nhà màu trắng.",
+            "Người ăn mì Ý ở cạnh người uống cà phê.",
+            "Người uống trà ở ngay bên trái chủ nhân con mèo.",
+            "Nhà màu xanh dương ở cạnh chủ nhân con thỏ.",
+            "Người ăn burger ở Nhà 3.",
+            "Nhà màu vàng ở ngay bên trái người uống cà phê.",
+            "Người ăn salad ở ngay bên trái người uống cà phê.",
+            "Chủ nhân con chuột lang ở cạnh người uống cà phê."
           ]
         },
         "uk": {
           "title": "Дикий Захід",
           "description": "Вирішіть це логічне завдання 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Будинок 1",
+            "Будинок 2",
+            "Будинок 3",
+            "Будинок 4"
           ],
           "categories": [
             {
@@ -3582,15 +3582,15 @@
             }
           ],
           "clues": [
-            "Салат пов'язаний з молоком.",
-            "Біле пов'язане з кавою.",
-            "Паста поруч із кавою.",
-            "Чай прямо ліворуч від Кота.",
-            "Блакитний поруч із Кроликом.",
-            "Бургер у колонці 3.",
-            "Жовтий прямо ліворуч від кави.",
-            "Салат прямо ліворуч від кави.",
-            "Хом'як поруч з Кавою."
+            "Той, хто їсть салат, п'є молоко.",
+            "Той, хто п'є каву, живе в білому будинку.",
+            "Той, хто їсть пасту, сидить поруч із тим, хто п'є каву.",
+            "Той, хто п'є чай, сидить безпосередньо ліворуч від власника кота.",
+            "Синій будинок розташований поруч із власником кролика.",
+            "Той, хто їсть бургер, у Будинку 3.",
+            "Жовтий будинок розташований безпосередньо ліворуч від того, хто п'є каву.",
+            "Той, хто їсть салат, сидить безпосередньо ліворуч від того, хто п'є каву.",
+            "Власник хом'яка сидить поруч із тим, хто п'є каву."
           ]
         }
       }
@@ -3601,10 +3601,10 @@
           "title": "Park Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bench 1",
+            "Bench 2",
+            "Bench 3",
+            "Bench 4"
           ],
           "categories": [
             {
@@ -3645,26 +3645,26 @@
             }
           ],
           "clues": [
-            "The Hamster is directly to the left of the Cat.",
-            "Purple is in column 3.",
-            "Pizza is in column 2.",
-            "The Green is related to the Cat.",
-            "Juice is in column 3.",
-            "The Coffee is directly to the left of the Juice.",
-            "The Sushi is next to the Rabbit.",
-            "Rabbit is in column 3.",
-            "The Rabbit is next to the Water.",
-            "The Blue is related to the Steak."
+            "The hamster owner is directly to the left of the cat owner.",
+            "The purple bench is Bench 3.",
+            "The pizza eater is in Bench 2.",
+            "The cat owner sits on the green bench.",
+            "The juice drinker is in Bench 3.",
+            "The coffee drinker is directly to the left of the juice drinker.",
+            "The sushi eater is next to the rabbit owner.",
+            "The rabbit owner is in Bench 3.",
+            "The rabbit owner is next to the water drinker.",
+            "The steak eater sits on the blue bench."
           ]
         },
         "pt": {
           "title": "Desafio Parque",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Banco 1",
+            "Banco 2",
+            "Banco 3",
+            "Banco 4"
           ],
           "categories": [
             {
@@ -3705,26 +3705,26 @@
             }
           ],
           "clues": [
-            "Hamster está imediatamente à esquerda de Gato.",
-            "Roxo está na coluna 3.",
-            "Pizza está na coluna 2.",
-            "Verde está acompanhado de Gato.",
-            "Suco está na coluna 3.",
-            "Café está imediatamente à esquerda de Suco.",
-            "Sushi está ao lado de Coelho.",
-            "Coelho está na coluna 3.",
-            "Coelho está ao lado de Água.",
-            "Azul está acompanhado de Bife."
+            "O dono do hamster está diretamente à esquerda do dono do gato.",
+            "O banco roxo é o Banco 3.",
+            "O comedor de pizza está no Banco 2.",
+            "O dono do gato senta no banco verde.",
+            "O bebedor de suco está no Banco 3.",
+            "O bebedor de café está diretamente à esquerda do bebedor de suco.",
+            "O comedor de sushi está ao lado do dono do coelho.",
+            "O dono do coelho está no Banco 3.",
+            "O dono do coelho está ao lado do bebedor de água.",
+            "O comedor de bife senta no banco azul."
           ]
         },
         "es": {
           "title": "Desafío del parque",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Banco 1",
+            "Banco 2",
+            "Banco 3",
+            "Banco 4"
           ],
           "categories": [
             {
@@ -3765,26 +3765,26 @@
             }
           ],
           "clues": [
-            "El hámster está directamente a la izquierda del gato.",
-            "El morado está en la columna 3.",
-            "La pizza está en la columna 2.",
-            "El Verde está relacionado con el Gato.",
-            "El jugo está en la columna 3.",
-            "El Café está directamente a la izquierda del Jugo.",
-            "El Sushi está al lado del Conejo.",
-            "El conejo está en la columna 3.",
-            "El Conejo está al lado del Agua.",
-            "El Azul está relacionado con el Filete."
+            "El dueño del hámster está directamente a la izquierda del dueño del gato.",
+            "El banco púrpura es el Banco 3.",
+            "El comedor de pizza está en el Banco 2.",
+            "El dueño del gato se sienta en el banco verde.",
+            "El bebedor de jugo está en el Banco 3.",
+            "El bebedor de café está directamente a la izquierda del bebedor de jugo.",
+            "El comedor de sushi está al lado del dueño del conejo.",
+            "El dueño del conejo está en el Banco 3.",
+            "El dueño del conejo está al lado del bebedor de agua.",
+            "El comedor de bistec se sienta en el banco azul."
           ]
         },
         "fr": {
           "title": "Défi du parc",
           "description": "Résolvez ce défi logique 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Banc 1",
+            "Banc 2",
+            "Banc 3",
+            "Banc 4"
           ],
           "categories": [
             {
@@ -3825,26 +3825,26 @@
             }
           ],
           "clues": [
-            "Le Hamster est directement à gauche du Chat.",
-            "Le violet est dans la colonne 3.",
-            "La pizza est dans la colonne 2.",
-            "Le Vert est lié au Chat.",
-            "Le jus est dans la colonne 3.",
-            "Le Café est directement à gauche du Jus.",
-            "Le Sushi est à côté du Lapin.",
-            "Le lapin est dans la colonne 3.",
-            "Le Lapin est à côté de l'Eau.",
-            "Le Bleu est lié au Steak."
+            "Le propriétaire du hamster est directement à gauche du propriétaire du chat.",
+            "Le banc violet est le Banc 3.",
+            "Le mangeur de pizza est au Banc 2.",
+            "Le propriétaire du chat est assis sur le banc vert.",
+            "Le buveur de jus est au Banc 3.",
+            "Le buveur de café est directement à gauche du buveur de jus.",
+            "Le mangeur de sushi est à côté du propriétaire du lapin.",
+            "Le propriétaire du lapin est au Banc 3.",
+            "Le propriétaire du lapin est à côté du buveur d'eau.",
+            "Le mangeur de steak est assis sur le banc bleu."
           ]
         },
         "de": {
           "title": "Park-Challenge",
           "description": "Lösen Sie diese logische 4x4-Herausforderung.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bank 1",
+            "Bank 2",
+            "Bank 3",
+            "Bank 4"
           ],
           "categories": [
             {
@@ -3885,26 +3885,26 @@
             }
           ],
           "clues": [
-            "Der Hamster befindet sich direkt links von der Katze.",
-            "Lila steht in Spalte 3.",
-            "Pizza ist in Spalte 2.",
-            "Das Grün ist mit der Katze verwandt.",
-            "Saft befindet sich in Spalte 3.",
-            "Der Kaffee befindet sich direkt links vom Saft.",
-            "Das Sushi liegt neben dem Kaninchen.",
-            "Kaninchen steht in Spalte 3.",
-            "Das Kaninchen ist neben dem Wasser.",
-            "Das Blau ist mit dem Steak verwandt."
+            "Der Hamsterbesitzer sitzt direkt links vom Katzenbesitzer.",
+            "Die lila Bank ist Bank 3.",
+            "Der Pizzaesser sitzt auf Bank 2.",
+            "Der Katzenbesitzer sitzt auf der grünen Bank.",
+            "Der Safttrinker sitzt auf Bank 3.",
+            "Der Kaffeetrinker sitzt direkt links vom Safttrinker.",
+            "Der Sushiesser sitzt neben dem Kaninchenbesitzer.",
+            "Der Kaninchenbesitzer sitzt auf Bank 3.",
+            "Der Kaninchenbesitzer sitzt neben dem Wassertrinker.",
+            "Der Steakesser sitzt auf der blauen Bank."
           ]
         },
         "it": {
           "title": "Sfida del parco",
           "description": "Risolvi questa sfida logica 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Panca 1",
+            "Panca 2",
+            "Panca 3",
+            "Panca 4"
           ],
           "categories": [
             {
@@ -3945,26 +3945,26 @@
             }
           ],
           "clues": [
-            "Il criceto è direttamente a sinistra del gatto.",
-            "Il viola è nella colonna 3.",
-            "La pizza è nella colonna 2.",
-            "Il Verde è legato al Gatto.",
-            "Il succo è nella colonna 3.",
-            "Il caffè è direttamente a sinistra del succo.",
-            "Il Sushi è accanto al Coniglio.",
-            "Il coniglio è nella colonna 3.",
-            "Il Coniglio è vicino all'Acqua.",
-            "Il Blu è legato alla Bistecca."
+            "Il proprietario del criceto è direttamente a sinistra del proprietario del gatto.",
+            "La panca viola è la Panca 3.",
+            "Il mangiatore di pizza è sulla Panca 2.",
+            "Il proprietario del gatto siede sulla panca verde.",
+            "Il bevitore di succo è sulla Panca 3.",
+            "Il bevitore di caffè è direttamente a sinistra del bevitore di succo.",
+            "Il mangiatore di sushi è accanto al proprietario del coniglio.",
+            "Il proprietario del coniglio è sulla Panca 3.",
+            "Il proprietario del coniglio è accanto al bevitore d'acqua.",
+            "Il mangiatore di bistecca siede sulla panca blu."
           ]
         },
         "ru": {
           "title": "Парковый вызов",
           "description": "Решите логическую задачу 4х4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Скамья 1",
+            "Скамья 2",
+            "Скамья 3",
+            "Скамья 4"
           ],
           "categories": [
             {
@@ -4005,26 +4005,26 @@
             }
           ],
           "clues": [
-            "Хомяк находится прямо слева от Кота.",
-            "Фиолетовый находится в столбце 3.",
-            "Пицца находится в столбце 2.",
-            "Зеленый связан с Котом.",
-            "Сок находится в столбце 3.",
-            "Кофе находится прямо слева от сока.",
-            "Суши находятся рядом с Кроликом.",
-            "Кролик находится в столбце 3.",
-            "Кролик находится рядом с Водой.",
-            "Синий связан со стейком."
+            "Владелец хомяка сидит непосредственно слева от владельца кошки.",
+            "Фиолетовая скамья — это Скамья 3.",
+            "Тот, кто ест пиццу, находится на Скамье 2.",
+            "Владелец кошки сидит на зелёной скамье.",
+            "Тот, кто пьёт сок, находится на Скамье 3.",
+            "Тот, кто пьёт кофе, сидит непосредственно слева от того, кто пьёт сок.",
+            "Тот, кто ест суши, сидит рядом с владельцем кролика.",
+            "Владелец кролика находится на Скамье 3.",
+            "Владелец кролика сидит рядом с тем, кто пьёт воду.",
+            "Тот, кто ест стейк, сидит на синей скамье."
           ]
         },
         "zh": {
           "title": "公园挑战",
           "description": "解决这个 4x4 逻辑挑战。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "长椅 1",
+            "长椅 2",
+            "长椅 3",
+            "长椅 4"
           ],
           "categories": [
             {
@@ -4065,26 +4065,26 @@
             }
           ],
           "clues": [
-            "仓鼠就在猫的左边。",
-            "紫色位于第 3 列。",
-            "披萨位于第 2 列。",
-            "绿色与猫有关。",
-            "果汁位于第 3 列。",
-            "咖啡就在果汁的左边。",
-            "寿司就在兔子旁边。",
-            "兔子在第 3 列。",
-            "兔子在水的旁边。",
-            "蓝色与牛排有关。"
+            "养仓鼠的人紧挨着养猫的人的左侧。",
+            "紫色长椅是长椅 3。",
+            "吃披萨的人坐在长椅 2。",
+            "养猫的人坐在绿色长椅上。",
+            "喝果汁的人坐在长椅 3。",
+            "喝咖啡的人紧挨着喝果汁的人的左侧。",
+            "吃寿司的人挨着养兔子的人。",
+            "养兔子的人坐在长椅 3。",
+            "养兔子的人挨着喝水的人。",
+            "吃牛排的人坐在蓝色长椅上。"
           ]
         },
         "ja": {
           "title": "パークチャレンジ",
           "description": "この 4x4 の論理的な課題を解決してください。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "ベンチ 1",
+            "ベンチ 2",
+            "ベンチ 3",
+            "ベンチ 4"
           ],
           "categories": [
             {
@@ -4125,26 +4125,26 @@
             }
           ],
           "clues": [
-            "ハムスターは猫のすぐ左側にいます。",
-            "紫は列 3 にあります。",
-            "ピザは2列目です。",
-            "緑は猫と関係があります。",
-            "ジュースは列 3 にあります。",
-            "コーヒーはジュースのすぐ左にあります。",
-            "お寿司はウサギの隣にあります。",
-            "ウサギは3列目にいます。",
-            "ウサギは水の隣にいます。",
-            "ブルーはステーキと関係があります。"
+            "ハムスターの飼い主は猫の飼い主のすぐ左にいる。",
+            "紫のベンチはベンチ 3だ。",
+            "ピザを食べる人はベンチ 2にいる。",
+            "猫の飼い主は緑のベンチに座っている。",
+            "ジュースを飲む人はベンチ 3にいる。",
+            "コーヒーを飲む人はジュースを飲む人のすぐ左にいる。",
+            "寿司を食べる人はウサギの飼い主の隣にいる。",
+            "ウサギの飼い主はベンチ 3にいる。",
+            "ウサギの飼い主は水を飲む人の隣にいる。",
+            "ステーキを食べる人は青いベンチに座っている。"
           ]
         },
         "ko": {
           "title": "파크 챌린지",
           "description": "이 4x4 논리적 과제를 해결하세요.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "벤치 1",
+            "벤치 2",
+            "벤치 3",
+            "벤치 4"
           ],
           "categories": [
             {
@@ -4185,26 +4185,26 @@
             }
           ],
           "clues": [
-            "햄스터는 고양이 바로 왼쪽에 있습니다.",
-            "보라색은 3열에 있습니다.",
-            "피자는 2열에 있습니다.",
-            "녹색은 고양이와 관련이 있습니다.",
-            "주스는 3열에 있습니다.",
-            "커피는 주스 바로 왼쪽에 있습니다.",
-            "초밥은 토끼 옆에 있어요.",
-            "토끼는 3열에 있습니다.",
-            "토끼는 물 옆에 있어요.",
-            "블루는 스테이크와 관련이 있습니다."
+            "햄스터 주인은 고양이 주인의 바로 왼쪽에 있다.",
+            "보라색 벤치는 벤치 3이다.",
+            "피자를 먹는 사람은 벤치 2에 있다.",
+            "고양이 주인은 녹색 벤치에 앉아 있다.",
+            "주스를 마시는 사람은 벤치 3에 있다.",
+            "커피를 마시는 사람은 주스를 마시는 사람의 바로 왼쪽에 있다.",
+            "스시를 먹는 사람은 토끼 주인의 옆에 있다.",
+            "토끼 주인은 벤치 3에 있다.",
+            "토끼 주인은 물을 마시는 사람의 옆에 있다.",
+            "스테이크를 먹는 사람은 파란 벤치에 앉아 있다."
           ]
         },
         "ar": {
           "title": "تحدي بارك",
           "description": "حل هذا التحدي المنطقي 4X4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "مقعد 1",
+            "مقعد 2",
+            "مقعد 3",
+            "مقعد 4"
           ],
           "categories": [
             {
@@ -4245,26 +4245,26 @@
             }
           ],
           "clues": [
-            "الهامستر يقع مباشرة على يسار القطة.",
-            "اللون الأرجواني في العمود 3.",
-            "البيتزا في العمود 2.",
-            "اللون الأخضر مرتبط بالقطة.",
-            "العصير في العمود 3.",
-            "القهوة مباشرة على يسار العصير.",
-            "السوشي بجوار الأرنب.",
-            "الأرنب في العمود 3.",
-            "الأرنب بجانب الماء.",
-            "الأزرق مرتبط بشريحة لحم."
+            "مالك الهامستر يجلس مباشرة إلى يسار مالك القط.",
+            "المقعد الأرجواني هو مقعد 3.",
+            "آكل البيتزا في مقعد 2.",
+            "مالك القط يجلس على المقعد الأخضر.",
+            "شارب العصير في مقعد 3.",
+            "شارب القهوة يجلس مباشرة إلى يسار شارب العصير.",
+            "آكل السوشي بجانب مالك الأرنب.",
+            "مالك الأرنب في مقعد 3.",
+            "مالك الأرنب بجانب شارب الماء.",
+            "آكل الستيك يجلس على المقعد الأزرق."
           ]
         },
         "hi": {
           "title": "पार्क चुनौती",
           "description": "इस 4x4 तार्किक चुनौती को हल करें।",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "बेंच 1",
+            "बेंच 2",
+            "बेंच 3",
+            "बेंच 4"
           ],
           "categories": [
             {
@@ -4305,26 +4305,26 @@
             }
           ],
           "clues": [
-            "हैम्स्टर सीधे बिल्ली के बाईं ओर है।",
-            "बैंगनी कॉलम 3 में है.",
-            "पिज़्ज़ा कॉलम 2 में है।",
-            "हरा रंग बिल्ली से संबंधित है।",
-            "जूस कॉलम 3 में है.",
-            "कॉफ़ी सीधे जूस के बायीं ओर है।",
-            "सुशी खरगोश के बगल में है।",
-            "खरगोश कॉलम 3 में है।",
-            "खरगोश पानी के बगल में है।",
-            "नीला स्टेक से संबंधित है।"
+            "हैम्स्टर का मालिक बिल्ली के मालिक के ठीक बाईं ओर है।",
+            "बैंगनी बेंच बेंच 3 है।",
+            "पिज़्ज़ा खाने वाला बेंच 2 में है।",
+            "बिल्ली का मालिक हरी बेंच पर बैठा है।",
+            "जूस पीने वाला बेंच 3 में है।",
+            "कॉफ़ी पीने वाला जूस पीने वाले के ठीक बाईं ओर है।",
+            "सुशी खाने वाला खरगोश के मालिक के बगल में है।",
+            "खरगोश का मालिक बेंच 3 में है।",
+            "खरगोश का मालिक पानी पीने वाले के बगल में है।",
+            "स्टेक खाने वाला नीली बेंच पर बैठा है।"
           ]
         },
         "tr": {
           "title": "Park Mücadelesi",
           "description": "Bu 4x4 mantıksal mücadelesini çözün.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bank 1",
+            "Bank 2",
+            "Bank 3",
+            "Bank 4"
           ],
           "categories": [
             {
@@ -4365,26 +4365,26 @@
             }
           ],
           "clues": [
-            "Hamster, Kedinin hemen solundadır.",
-            "Mor 3. sütundadır.",
-            "Pizza 2. sütunda.",
-            "Yeşil Kedi ile akrabadır.",
-            "Meyve suyu 3. sütundadır.",
-            "Kahve, Juice'ın hemen solundadır.",
-            "Suşi Tavşan'ın yanında.",
-            "Tavşan 3. sütunda.",
-            "Tavşan Suyun yanındadır.",
-            "Mavi, Biftek ile ilgilidir."
+            "Hamster sahibi, kedi sahibinin hemen solunda oturuyor.",
+            "Mor bank Bank 3'tür.",
+            "Pizza yiyen Bank 2'de.",
+            "Kedi sahibi yeşil bankta oturuyor.",
+            "Meyve suyu içen Bank 3'te.",
+            "Kahve içen, meyve suyu içenin hemen solunda.",
+            "Sushi yiyen, tavşan sahibinin yanında.",
+            "Tavşan sahibi Bank 3'te.",
+            "Tavşan sahibi, su içenin yanında.",
+            "Biftek yiyen mavi bankta oturuyor."
           ]
         },
         "pl": {
           "title": "Wyzwanie w parku",
           "description": "Rozwiąż to logiczne wyzwanie 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Ławka 1",
+            "Ławka 2",
+            "Ławka 3",
+            "Ławka 4"
           ],
           "categories": [
             {
@@ -4425,26 +4425,26 @@
             }
           ],
           "clues": [
-            "Chomik znajduje się bezpośrednio na lewo od kota.",
-            "Fioletowy znajduje się w kolumnie 3.",
-            "Pizza jest w kolumnie 2.",
-            "Zielony jest spokrewniony z Kotem.",
-            "Sok znajduje się w kolumnie 3.",
-            "Kawa znajduje się bezpośrednio na lewo od soku.",
-            "Sushi jest obok Królika.",
-            "Królik jest w kolumnie 3.",
-            "Królik jest obok wody.",
-            "Niebieski jest powiązany ze stekiem."
+            "Właściciel chomika siedzi bezpośrednio po lewej stronie właściciela kota.",
+            "Fioletowa ławka to Ławka 3.",
+            "Osoba jedząca pizzę siedzi na Ławce 2.",
+            "Właściciel kota siedzi na zielonej ławce.",
+            "Osoba pijąca sok siedzi na Ławce 3.",
+            "Osoba pijąca kawę siedzi bezpośrednio po lewej stronie osoby pijającej sok.",
+            "Osoba jedząca sushi siedzi obok właściciela królika.",
+            "Właściciel królika siedzi na Ławce 3.",
+            "Właściciel królika siedzi obok osoby pijającej wodę.",
+            "Osoba jedząca stek siedzi na niebieskiej ławce."
           ]
         },
         "nl": {
           "title": "Parkuitdaging",
           "description": "Los deze logische 4x4-uitdaging op.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bank 1",
+            "Bank 2",
+            "Bank 3",
+            "Bank 4"
           ],
           "categories": [
             {
@@ -4485,26 +4485,26 @@
             }
           ],
           "clues": [
-            "De hamster bevindt zich direct links van de kat.",
-            "Paars staat in kolom 3.",
-            "Pizza staat in kolom 2.",
-            "De Groene is verwant aan de Kat.",
-            "Het sap staat in kolom 3.",
-            "De koffie bevindt zich direct links van het sap.",
-            "De Sushi ligt naast het Konijn.",
-            "Konijn staat in kolom 3.",
-            "Het Konijn ligt naast het Water.",
-            "Het Blauw is verwant aan de Biefstuk."
+            "De hamsterbezitter zit direct links van de kattenbezitter.",
+            "De paarse bank is Bank 3.",
+            "De pizzasetter zit op Bank 2.",
+            "De kattenbezitter zit op de groene bank.",
+            "De saphouder zit op Bank 3.",
+            "De koffiedrinker zit direct links van de saphouder.",
+            "De sushietende zit naast de konijnezitter.",
+            "De konijnezitter zit op Bank 3.",
+            "De konijnezitter zit naast de waterdrinker.",
+            "De steaketer zit op de blauwe bank."
           ]
         },
         "sv": {
           "title": "Park Challenge",
           "description": "Lös denna 4x4 logiska utmaning.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bänk 1",
+            "Bänk 2",
+            "Bänk 3",
+            "Bänk 4"
           ],
           "categories": [
             {
@@ -4545,26 +4545,26 @@
             }
           ],
           "clues": [
-            "Hamstern är direkt till vänster om katten.",
-            "Lila finns i kolumn 3.",
-            "Pizza finns i kolumn 2.",
-            "Den gröna är släkt med katten.",
-            "Juice finns i kolumn 3.",
-            "Kaffet är direkt till vänster om Juice.",
-            "Sushi är bredvid kaninen.",
-            "Kanin finns i kolumn 3.",
-            "Kaninen ligger bredvid vattnet.",
-            "The Blue är släkt med Steak."
+            "Hamsterägaren sitter direkt till vänster om kattägaren.",
+            "Den lila bänken är Bänk 3.",
+            "Pizzätaren sitter på Bänk 2.",
+            "Kattägaren sitter på den gröna bänken.",
+            "Juicedrickaren sitter på Bänk 3.",
+            "Kaffedrickaren sitter direkt till vänster om juicedrickaren.",
+            "Sushitätaren sitter bredvid kaninägaren.",
+            "Kaninägaren sitter på Bänk 3.",
+            "Kaninägaren sitter bredvid vatten喝aren.",
+            "Steakätaren sitter på den blå bänken."
           ]
         },
         "id": {
           "title": "Tantangan Taman",
           "description": "Selesaikan tantangan logis 4x4 ini.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Bangku 1",
+            "Bangku 2",
+            "Bangku 3",
+            "Bangku 4"
           ],
           "categories": [
             {
@@ -4605,26 +4605,26 @@
             }
           ],
           "clues": [
-            "Hamster berada tepat di sebelah kiri Kucing.",
-            "Ungu ada di kolom 3.",
-            "Pizza ada di kolom 2.",
-            "Hijau berkerabat dengan Kucing.",
-            "Jus ada di kolom 3.",
-            "Kopi berada tepat di sebelah kiri Jus.",
-            "Sushi ada di sebelah Kelinci.",
-            "Kelinci ada di kolom 3.",
-            "Kelinci ada di sebelah Air.",
-            "Si Biru berhubungan dengan Steak."
+            "Pemilik hamster berada tepat di sebelah kiri pemilik kucing.",
+            "Bangku ungu adalah Bangku 3.",
+            "Pemakan pizza berada di Bangku 2.",
+            "Pemilik kucing duduk di bangku hijau.",
+            "Peminum jus berada di Bangku 3.",
+            "Peminum kopi berada tepat di sebelah kiri peminum jus.",
+            "Pemakan sushi berada di sebelah pemilik kelinci.",
+            "Pemilik kelinci berada di Bangku 3.",
+            "Pemilik kelinci berada di sebelah peminum air.",
+            "Pemakan steak duduk di bangku biru."
           ]
         },
         "th": {
           "title": "ปาร์คท้าทาย",
           "description": "แก้ปัญหาความท้าทายเชิงตรรกะ 4x4 นี้",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "ม้านั่ง 1",
+            "ม้านั่ง 2",
+            "ม้านั่ง 3",
+            "ม้านั่ง 4"
           ],
           "categories": [
             {
@@ -4665,26 +4665,26 @@
             }
           ],
           "clues": [
-            "หนูแฮมสเตอร์อยู่ทางด้านซ้ายของแมวโดยตรง",
-            "สีม่วงอยู่ในคอลัมน์ 3",
-            "พิซซ่าอยู่ในคอลัมน์ 2",
-            "สีเขียวเกี่ยวข้องกับแมว",
-            "น้ำผลไม้อยู่ในคอลัมน์ 3",
-            "The Coffee อยู่ทางด้านซ้ายของ Juice",
-            "ซูชิอยู่ข้างๆกระต่าย",
-            "แรบบิทอยู่ในคอลัมน์ 3",
-            "กระต่ายอยู่ริมน้ำ",
-            "สีฟ้ามีความเกี่ยวข้องกับสเต็ก"
+            "เจ้าของแฮมสเตอร์อยู่ทางซ้ายติดกับเจ้าของแมว",
+            "ม้านั่งสีม่วงคือม้านั่ง 3",
+            "ผู้กินพิซซ่าอยู่ที่ม้านั่ง 2",
+            "เจ้าของแมวนั่งบนม้านั่งสีเขียว",
+            "ผู้ดื่มน้ำผลไม้อยู่ที่ม้านั่ง 3",
+            "ผู้ดื่มกาแฟอยู่ทางซ้ายติดกับผู้ดื่มน้ำผลไม้",
+            "ผู้กินซูชิอยู่ติดกับเจ้าของกระต่าย",
+            "เจ้าของกระต่ายอยู่ที่ม้านั่ง 3",
+            "เจ้าของกระต่ายอยู่ติดกับผู้ดื่มน้ำ",
+            "ผู้กินสเต๊กนั่งบนม้านั่งสีน้ำเงิน"
           ]
         },
         "vi": {
           "title": "Thử thách công viên",
           "description": "Giải quyết thách thức logic 4x4 này.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Băng ghế 1",
+            "Băng ghế 2",
+            "Băng ghế 3",
+            "Băng ghế 4"
           ],
           "categories": [
             {
@@ -4725,26 +4725,26 @@
             }
           ],
           "clues": [
-            "Hamster nằm ngay bên trái của Mèo.",
-            "Màu tím ở cột 3.",
-            "Pizza ở cột 2.",
-            "Màu xanh lá cây có liên quan đến con mèo.",
-            "Nước ép nằm ở cột 3.",
-            "Cà phê nằm ngay bên trái Nước ép.",
-            "Sushi ở cạnh Thỏ.",
-            "Thỏ ở cột 3.",
-            "Thỏ ở cạnh Nước.",
-            "The Blue có liên quan đến Steak."
+            "Chủ nhân của hamster ở ngay bên trái chủ nhân của mèo.",
+            "Băng ghế màu tím là Băng ghế 3.",
+            "Người ăn pizza ở Băng ghế 2.",
+            "Chủ nhân của mèo ngồi trên băng ghế màu xanh lá.",
+            "Người uống nước ép ở Băng ghế 3.",
+            "Người uống cà phê ở ngay bên trái người uống nước ép.",
+            "Người ăn sushi ở cạnh chủ nhân của thỏ.",
+            "Chủ nhân của thỏ ở Băng ghế 3.",
+            "Chủ nhân của thỏ ở cạnh người uống nước.",
+            "Người ăn bít tết ngồi trên băng ghế màu xanh dương."
           ]
         },
         "uk": {
           "title": "Парковий виклик",
           "description": "Вирішіть це логічне завдання 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Лавка 1",
+            "Лавка 2",
+            "Лавка 3",
+            "Лавка 4"
           ],
           "categories": [
             {
@@ -4785,16 +4785,16 @@
             }
           ],
           "clues": [
-            "Хом'як прямо ліворуч від Кота.",
-            "Фіолетовий у колонці 3.",
-            "Піца в колонці 2.",
-            "Зелений пов'язаний з Котом.",
-            "Сік у графі 3.",
-            "Кава знаходиться прямо ліворуч від соку.",
-            "Суші поруч із Кроликом.",
-            "Кролик у колонці 3.",
-            "Кролик біля Води.",
-            "Синій пов'язаний зі стейком."
+            "Власник хом'яка сидить безпосередньо ліворуч від власника кота.",
+            "Фіолетова лавка — це Лавка 3.",
+            "Той, хто їсть піцу, сидить на Лавці 2.",
+            "Власник кота сидить на зеленій лавці.",
+            "Той, хто п'є сік, сидить на Лавці 3.",
+            "Той, хто п'є каву, сидить безпосередньо ліворуч від того, хто п'є сік.",
+            "Той, хто їсть суші, сидить поруч із власником кролика.",
+            "Власник кролика сидить на Лавці 3.",
+            "Власник кролика сидить поруч із тим, хто п'є воду.",
+            "Той, хто їсть стейк, сидить на синьій лавці."
           ]
         }
       }
@@ -4805,10 +4805,10 @@
           "title": "Fantasy Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Tower 1",
+            "Tower 2",
+            "Tower 3",
+            "Tower 4"
           ],
           "categories": [
             {
@@ -4849,25 +4849,25 @@
             }
           ],
           "clues": [
-            "The Eva is next to the Green.",
-            "Screwdriver is in column 1.",
-            "The Chris is related to the Reading.",
-            "The Sport is related to the Yellow.",
-            "Red is in column 3.",
-            "The Sport is next to the Drill.",
-            "Alex is in column 3.",
-            "Yoga is in column 3.",
-            "The Pliers is related to the Green."
+            "Eva is next to the green tower.",
+            "The screwdriver user is in Tower 1.",
+            "Chris is the reader.",
+            "The athlete lives in the yellow tower.",
+            "The red tower is Tower 3.",
+            "The athlete is next to the drill user.",
+            "Alex is in Tower 3.",
+            "The yoga practitioner is in Tower 3.",
+            "The pliers user lives in the green tower."
           ]
         },
         "pt": {
           "title": "Desafio Fantasia",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torre 1",
+            "Torre 2",
+            "Torre 3",
+            "Torre 4"
           ],
           "categories": [
             {
@@ -4908,25 +4908,25 @@
             }
           ],
           "clues": [
-            "Eva está ao lado de Verde.",
-            "Chave de Fenda está na coluna 1.",
-            "Chris está acompanhado de Leitura.",
-            "Esporte está acompanhado de Amarelo.",
-            "Vermelho está na coluna 3.",
-            "Esporte está ao lado de Furadeira.",
-            "Alex está na coluna 3.",
-            "Yoga está na coluna 3.",
-            "Alicate está acompanhado de Verde."
+            "Eva está ao lado da torre verde.",
+            "Quem usa a chave de fenda está na Torre 1.",
+            "Chris é o leitor.",
+            "O atleta mora na torre amarela.",
+            "A torre vermelha é a Torre 3.",
+            "O atleta está ao lado de quem usa a furadeira.",
+            "Alex está na Torre 3.",
+            "O praticante de ioga está na Torre 3.",
+            "Quem usa o alicate mora na torre verde."
           ]
         },
         "es": {
           "title": "Desafío de fantasía",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torre 1",
+            "Torre 2",
+            "Torre 3",
+            "Torre 4"
           ],
           "categories": [
             {
@@ -4967,25 +4967,25 @@
             }
           ],
           "clues": [
-            "La Eva está al lado de la Verde.",
-            "El destornillador está en la columna 1.",
-            "El Chris está relacionado con la Lectura.",
-            "El Deporte está relacionado con el Amarillo.",
-            "El rojo está en la columna 3.",
-            "El Sport está al lado del Drill.",
-            "Alex está en la columna 3.",
-            "El yoga está en la columna 3.",
-            "El Alicate está relacionado con el Verde."
+            "Eva está al lado de la torre verde.",
+            "El usuario del destornillador está en la Torre 1.",
+            "Chris es el lector.",
+            "El atleta vive en la torre amarilla.",
+            "La torre roja es la Torre 3.",
+            "El atleta está al lado del usuario de la taladradora.",
+            "Alex está en la Torre 3.",
+            "El practicante de yoga está en la Torre 3.",
+            "El usuario de las pinzas vive en la torre verde."
           ]
         },
         "fr": {
           "title": "Défi fantastique",
           "description": "Résolvez ce défi logique 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Tour 1",
+            "Tour 2",
+            "Tour 3",
+            "Tour 4"
           ],
           "categories": [
             {
@@ -5026,25 +5026,25 @@
             }
           ],
           "clues": [
-            "L'Eva est à côté du Green.",
-            "Le tournevis est dans la colonne 1.",
-            "Le Chris est lié à la Lecture.",
-            "Le Sport est lié au Jaune.",
-            "Le rouge est dans la colonne 3.",
-            "Le Sport est à côté du Drill.",
-            "Alex est dans la colonne 3.",
-            "Le yoga est dans la colonne 3.",
-            "La Pince est liée au Vert."
+            "Eva est à côté de la tour verte.",
+            "L'utilisateur du tournevis est dans la Tour 1.",
+            "Chris est le lecteur.",
+            "L'athlète vit dans la tour jaune.",
+            "La tour rouge est la Tour 3.",
+            "L'athlète est à côté de l'utilisateur de la perceuse.",
+            "Alex est dans la Tour 3.",
+            "Le pratiquant de yoga est dans la Tour 3.",
+            "L'utilisateur de la pince vit dans la tour verte."
           ]
         },
         "de": {
           "title": "Fantasy-Herausforderung",
           "description": "Lösen Sie diese logische 4x4-Herausforderung.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Turm 1",
+            "Turm 2",
+            "Turm 3",
+            "Turm 4"
           ],
           "categories": [
             {
@@ -5085,25 +5085,25 @@
             }
           ],
           "clues": [
-            "Die Eva liegt neben der Grünen.",
-            "Der Schraubendreher befindet sich in Spalte 1.",
-            "Der Chris ist mit der Lesung verbunden.",
-            "Der Sport ist mit dem Gelben verwandt.",
-            "Rot steht in Spalte 3.",
-            "Der Sport steht neben dem Drill.",
-            "Alex ist in Spalte 3.",
-            "Yoga steht in Spalte 3.",
-            "Die Zange ist mit dem Grün verwandt."
+            "Eva ist neben dem grünen Turm.",
+            "Der Schraubendreher-Benutzer ist im Turm 1.",
+            "Chris ist der Leser.",
+            "Der Athlet wohnt im gelben Turm.",
+            "Der rote Turm ist Turm 3.",
+            "Der Athlet ist neben dem Bohrer-Benutzer.",
+            "Alex ist im Turm 3.",
+            "Der Yoga-Praktizierende ist im Turm 3.",
+            "Der Zangen-Benutzer wohnt im grünen Turm."
           ]
         },
         "it": {
           "title": "Sfida di fantasia",
           "description": "Risolvi questa sfida logica 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torre 1",
+            "Torre 2",
+            "Torre 3",
+            "Torre 4"
           ],
           "categories": [
             {
@@ -5144,25 +5144,25 @@
             }
           ],
           "clues": [
-            "L'Eva è accanto al Verde.",
-            "Il cacciavite è nella colonna 1.",
-            "Il Chris è legato alla Letura.",
-            "Lo Sport è legato al Giallo.",
-            "Il rosso è nella colonna 3.",
-            "Lo Sport è accanto al Drill.",
-            "Alex è nella colonna 3.",
-            "Lo yoga è nella colonna 3.",
-            "La Pinza è legata al Verde."
+            "Eva è accanto alla torre verde.",
+            "L'utente del cacciavite è nella Torre 1.",
+            "Chris è il lettore.",
+            "L'atleta vive nella torre gialla.",
+            "La torre rossa è la Torre 3.",
+            "L'atleta è accanto all'utente del trapano.",
+            "Alex è nella Torre 3.",
+            "Il praticante di yoga è nella Torre 3.",
+            "L'utente delle pinze vive nella torre verde."
           ]
         },
         "ru": {
           "title": "Фэнтезийный вызов",
           "description": "Решите логическую задачу 4х4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Башня 1",
+            "Башня 2",
+            "Башня 3",
+            "Башня 4"
           ],
           "categories": [
             {
@@ -5203,25 +5203,25 @@
             }
           ],
           "clues": [
-            "Ева находится рядом с Зеленым.",
-            "Отвертка находится в столбце 1.",
-            "Крис связан с Чтением.",
-            "Этот вид спорта связан с желтым цветом.",
-            "Красный находится в столбце 3.",
-            "Спорт находится рядом с дриллом.",
-            "Алекс в третьем столбце.",
-            "Йога находится в колонке 3.",
-            "Плоскогубцы связаны с Зеленым."
+            "Ева находится рядом с зелёной башней.",
+            "Тот, кто использует отвёртку, находится в Башне 1.",
+            "Крис — читатель.",
+            "Спортсмен живёт в жёлтой башне.",
+            "Красная башня — это Башня 3.",
+            "Спортсмен находится рядом с тем, кто использует дрель.",
+            "Алекс в Башне 3.",
+            "Практикующий йогу находится в Башне 3.",
+            "Тот, кто использует плоскогубцы, живёт в зелёной башне."
           ]
         },
         "zh": {
           "title": "幻想挑战",
           "description": "解决这个 4x4 逻辑挑战。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "塔 1",
+            "塔 2",
+            "塔 3",
+            "塔 4"
           ],
           "categories": [
             {
@@ -5262,25 +5262,25 @@
             }
           ],
           "clues": [
-            "伊娃号就在格林号旁边。",
-            "螺丝刀位于第 1 列。",
-            "克里斯与阅读有关。",
-            "这项运动与黄色有关。",
-            "红色位于第 3 列。",
-            "运动场位于训练场旁边。",
-            "Alex 在第 3 列。",
-            "瑜伽在第三栏。",
-            "钳子与绿色有关。"
+            "伊娃住在绿色塔旁边。",
+            "使用螺丝刀的人在塔 1。",
+            "克里斯是阅读爱好者。",
+            "运动员住在黄色塔。",
+            "红色塔是塔 3。",
+            "运动员紧邻使用钻头的人。",
+            "亚历克斯在塔 3。",
+            "瑜伽练习者在塔 3。",
+            "使用钳子的人住在绿色塔。"
           ]
         },
         "ja": {
           "title": "ファンタジーチャレンジ",
           "description": "この 4x4 の論理的な課題を解決してください。",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "塔 1",
+            "塔 2",
+            "塔 3",
+            "塔 4"
           ],
           "categories": [
             {
@@ -5321,25 +5321,25 @@
             }
           ],
           "clues": [
-            "エヴァはグリーンの隣にあります。",
-            "ドライバーは列 1 にあります。",
-            "クリスはリーディングと関係があります。",
-            "スポーツは黄色と関係があります。",
-            "赤は列 3 にあります。",
-            "スポーツはドリルの隣にあります。",
-            "アレックスは3列目です。",
-            "ヨガは列 3 にあります。",
-            "ペンチはグリーンと関係があります。"
+            "エヴァは緑の塔の隣にいる。",
+            "ドライバーの使用者は塔 1にいる。",
+            "クリスは読書家だ。",
+            "スポーツ愛好家は黄色の塔に住んでいる。",
+            "赤い塔は塔 3だ。",
+            "スポーツ愛好家はドリルの使用者の隣にいる。",
+            "アレックスは塔 3にいる。",
+            "ヨガ実践者は塔 3にいる。",
+            "ペンチの使用者は緑の塔に住んでいる。"
           ]
         },
         "ko": {
           "title": "판타지 챌린지",
           "description": "이 4x4 논리적 과제를 해결하세요.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "탑 1",
+            "탑 2",
+            "탑 3",
+            "탑 4"
           ],
           "categories": [
             {
@@ -5380,25 +5380,25 @@
             }
           ],
           "clues": [
-            "Eva는 Green 옆에 있습니다.",
-            "드라이버는 1열에 있습니다.",
-            "Chris는 Reading과 관련이 있습니다.",
-            "스포츠는 노란색과 관련이 있습니다.",
-            "빨간색은 3열에 있습니다.",
-            "스포츠는 드릴 옆에 있습니다.",
-            "Alex는 3열에 있습니다.",
-            "요가는 3열에 있습니다.",
-            "플라이어는 그린과 관련이 있습니다."
+            "에바는 녹색 탑 옆에 있다.",
+            "드라이버 사용자는 탑 1에 있다.",
+            "크리스는 독서가이다.",
+            "운동가는 노란 탑에 산다.",
+            "빨간 탑은 탑 3이다.",
+            "운동가는 드릴 사용자 옆에 있다.",
+            "알렉스는 탑 3에 있다.",
+            "요가 수련자는 탑 3에 있다.",
+            "펜치 사용자는 녹색 탑에 산다."
           ]
         },
         "ar": {
           "title": "تحدي الخيال",
           "description": "حل هذا التحدي المنطقي 4X4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "برج 1",
+            "برج 2",
+            "برج 3",
+            "برج 4"
           ],
           "categories": [
             {
@@ -5439,25 +5439,25 @@
             }
           ],
           "clues": [
-            "إيفا بجوار جرين.",
-            "مفك البراغي موجود في العمود 1.",
-            "يرتبط كريس بالقراءة.",
-            "الرياضة مرتبطة باللون الأصفر.",
-            "اللون الأحمر في العمود 3.",
-            "الرياضة بجوار الحفر.",
-            "أليكس في العمود 3.",
-            "اليوغا في العمود 3.",
-            "الكماشة مرتبطة باللون الأخضر."
+            "إيفا بجانب البرج الأخضر.",
+            "مستخدم المفك في برج 1.",
+            "كريس هو القارئ.",
+            "الرياضي يعيش في البرج الأصفر.",
+            "البرج الأحمر هو برج 3.",
+            "الرياضي بجانب مستخدم المثقاب.",
+            "أليكس في برج 3.",
+            "ممارس اليوغا في برج 3.",
+            "مستخدم الكماشة يعيش في البرج الأخضر."
           ]
         },
         "hi": {
           "title": "काल्पनिक चुनौती",
           "description": "इस 4x4 तार्किक चुनौती को हल करें।",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "मीनार 1",
+            "मीनार 2",
+            "मीनार 3",
+            "मीनार 4"
           ],
           "categories": [
             {
@@ -5498,25 +5498,25 @@
             }
           ],
           "clues": [
-            "ईवा ग्रीन के बगल में है।",
-            "स्क्रूड्राइवर कॉलम 1 में है।",
-            "क्रिस रीडिंग से संबंधित है।",
-            "खेल पीले रंग से संबंधित है।",
-            "लाल कॉलम 3 में है.",
-            "स्पोर्ट ड्रिल के बगल में है।",
-            "एलेक्स कॉलम 3 में है.",
-            "योग कॉलम 3 में है।",
-            "प्लायर्स का संबंध हरे रंग से है।"
+            "ईवा हरी मीनार के बगल में है।",
+            "स्क्रूड्राइवर का उपयोग करने वाला मीनार 1 में है।",
+            "क्रिस पढ़ने का शौक रखता है।",
+            "खिलाड़ी पीली मीनार में रहता है।",
+            "लाल मीनार मीनार 3 है।",
+            "खिलाड़ी ड्रिल का उपयोग करने वाले के बगल में है।",
+            "अलेक्स मीनार 3 में है।",
+            "योग करने वाला मीनार 3 में है।",
+            "चिमटी का उपयोग करने वाला हरी मीनार में रहता है।"
           ]
         },
         "tr": {
           "title": "Fantezi Mücadelesi",
           "description": "Bu 4x4 mantıksal mücadelesini çözün.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Kule 1",
+            "Kule 2",
+            "Kule 3",
+            "Kule 4"
           ],
           "categories": [
             {
@@ -5557,25 +5557,25 @@
             }
           ],
           "clues": [
-            "Eva, Green'in yanındadır.",
-            "Tornavida 1. sütundadır.",
-            "Chris Okuma ile ilgilidir.",
-            "Spor Sarı ile ilgilidir.",
-            "Kırmızı 3. sütundadır.",
-            "Spor, Drill'in yanındadır.",
-            "Alex 3. sütunda.",
-            "Yoga 3. sütunda.",
-            "Pense Yeşil ile akrabadır."
+            "Eva yeşil kuleye komşudur.",
+            "Vidalı tornavida kullanıcısı Kule 1'dedir.",
+            "Chris okuyucudur.",
+            "Sporcu sarı kulenin sahibidir.",
+            "Kırmızı kule Kule 3'tür.",
+            "Sporcu matkap kullanıcısına komşudur.",
+            "Alex Kule 3'tedir.",
+            "Yoga yapan Kule 3'tedir.",
+            "Kıskaç kullanıcısı yeşil kulenin sahibidir."
           ]
         },
         "pl": {
           "title": "Wyzwanie fantazji",
           "description": "Rozwiąż to logiczne wyzwanie 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Wieża 1",
+            "Wieża 2",
+            "Wieża 3",
+            "Wieża 4"
           ],
           "categories": [
             {
@@ -5616,25 +5616,25 @@
             }
           ],
           "clues": [
-            "Eva znajduje się obok Greena.",
-            "Śrubokręt znajduje się w kolumnie 1.",
-            "Chris jest związany z czytaniem.",
-            "Sport jest powiązany z Żółtym.",
-            "Kolor czerwony znajduje się w kolumnie 3.",
-            "Sport znajduje się obok Drill.",
-            "Alex jest w kolumnie 3.",
-            "Joga jest w kolumnie 3.",
-            "Szczypce są spokrewnione z Zielonym."
+            "Eva mieszka obok zielonej wieży.",
+            "Użytkownik śrubokręta jest w Wieży 1.",
+            "Chris jest czytelnikiem.",
+            "Sportowiec mieszka w żółtej wieży.",
+            "Czerwona wieża to Wieża 3.",
+            "Sportowiec mieszka obok użytkownika wiertarki.",
+            "Alex jest w Wieży 3.",
+            "Joginka jest w Wieży 3.",
+            "Użytkownik szczypiec mieszka w zielonej wieży."
           ]
         },
         "nl": {
           "title": "Fantasie-uitdaging",
           "description": "Los deze logische 4x4-uitdaging op.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Toren 1",
+            "Toren 2",
+            "Toren 3",
+            "Toren 4"
           ],
           "categories": [
             {
@@ -5675,25 +5675,25 @@
             }
           ],
           "clues": [
-            "De Eva ligt naast de Green.",
-            "Schroevendraaier staat in kolom 1.",
-            "De Chris is gerelateerd aan de Reading.",
-            "De Sport is verwant aan de Geel.",
-            "Rood staat in kolom 3.",
-            "De Sport ligt naast de Drill.",
-            "Alex staat in kolom 3.",
-            "Yoga staat in kolom 3.",
-            "De Tang is verwant aan de Groene."
+            "Eva woont naast de groene toren.",
+            "De gebruiker van de schroevendraaier is in Toren 1.",
+            "Chris is de lezer.",
+            "De atleet woont in de gele toren.",
+            "De rode toren is Toren 3.",
+            "De atleet woont naast de boorgebruiker.",
+            "Alex is in Toren 3.",
+            "De yogabeoefenaar is in Toren 3.",
+            "De tanggebruiker woont in de groene toren."
           ]
         },
         "sv": {
           "title": "Fantasy Challenge",
           "description": "Lös denna 4x4 logiska utmaning.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Torn 1",
+            "Torn 2",
+            "Torn 3",
+            "Torn 4"
           ],
           "categories": [
             {
@@ -5734,25 +5734,25 @@
             }
           ],
           "clues": [
-            "Eva är bredvid den gröna.",
-            "Skruvmejsel finns i kolumn 1.",
-            "Chris är relaterad till läsningen.",
-            "Sporten är relaterad till den gula.",
-            "Rött finns i kolumn 3.",
-            "Sporten ligger bredvid Drillen.",
-            "Alex är i kolumn 3.",
-            "Yoga finns i kolumn 3.",
-            "Tången är släkt med den gröna."
+            "Eva bor bredvid det gröna tornet.",
+            "Skruvdragaranvändaren är i Torn 1.",
+            "Chris är den som läser.",
+            "Idrottaren bor i det gula tornet.",
+            "Det röda tornet är Torn 3.",
+            "Idrottaren bor bredvid borranvändaren.",
+            "Alex är i Torn 3.",
+            "Yogautövaren är i Torn 3.",
+            "Tånganvändaren bor i det gröna tornet."
           ]
         },
         "id": {
           "title": "Tantangan Fantasi",
           "description": "Selesaikan tantangan logis 4x4 ini.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Menara 1",
+            "Menara 2",
+            "Menara 3",
+            "Menara 4"
           ],
           "categories": [
             {
@@ -5793,25 +5793,25 @@
             }
           ],
           "clues": [
-            "Eva berada di sebelah Green.",
-            "Obeng ada di kolom 1.",
-            "Chris terkait dengan Bacaan.",
-            "Olahraga terkait dengan Kuning.",
-            "Merah ada di kolom 3.",
-            "Olahraga berada di sebelah Bor.",
-            "Alex ada di kolom 3.",
-            "Yoga ada di kolom 3.",
-            "Tang berhubungan dengan Hijau."
+            "Eva berada di sebelah menara hijau.",
+            "Pengguna obeng berada di Menara 1.",
+            "Chris adalah pembaca.",
+            "Atlet tinggal di menara kuning.",
+            "Menara merah adalah Menara 3.",
+            "Atlet berada di sebelah pengguna bor.",
+            "Alex berada di Menara 3.",
+            "Praktisi yoga berada di Menara 3.",
+            "Pengguna tang tinggal di menara hijau."
           ]
         },
         "th": {
           "title": "ความท้าทายแฟนตาซี",
           "description": "แก้ปัญหาความท้าทายเชิงตรรกะ 4x4 นี้",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "หอคอย 1",
+            "หอคอย 2",
+            "หอคอย 3",
+            "หอคอย 4"
           ],
           "categories": [
             {
@@ -5852,25 +5852,25 @@
             }
           ],
           "clues": [
-            "เอวาอยู่ติดกับกรีน",
-            "ไขควงอยู่ในคอลัมน์ 1",
-            "คริสมีความเกี่ยวข้องกับการอ่าน",
-            "กีฬามีความเกี่ยวข้องกับสีเหลือง",
-            "สีแดงอยู่ในคอลัมน์ 3",
-            "กีฬาอยู่ถัดจากสว่าน",
-            "อเล็กซ์อยู่ในคอลัมน์ 3",
-            "โยคะอยู่ในคอลัมน์ 3",
-            "คีมมีความเกี่ยวข้องกับสีเขียว"
+            "อีวาอยู่ติดกับหอคอยสีเขียว",
+            "ผู้ใช้ไขควงอยู่ในหอคอย 1",
+            "คริสเป็นคนอ่านหนังสือ",
+            "นักกีฬาอยู่ในหอคอยสีเหลือง",
+            "หอคอยสีแดงคือหอคอย 3",
+            "นักกีฬาอยู่ติดกับผู้ใช้สว่าน",
+            "อเล็กซ์อยู่ในหอคอย 3",
+            "ผู้ฝึกโยคะอยู่ในหอคอย 3",
+            "ผู้ใช้คีมอาศัยอยู่ในหอคอยสีเขียว"
           ]
         },
         "vi": {
           "title": "Thử thách tưởng tượng",
           "description": "Giải quyết thách thức logic 4x4 này.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Tháp 1",
+            "Tháp 2",
+            "Tháp 3",
+            "Tháp 4"
           ],
           "categories": [
             {
@@ -5911,25 +5911,25 @@
             }
           ],
           "clues": [
-            "Eva nằm cạnh Green.",
-            "Tua vít ở cột 1.",
-            "Chris có liên quan đến Bài đọc.",
-            "Thể thao có liên quan đến màu vàng.",
-            "Màu đỏ ở cột 3.",
-            "The Sport nằm cạnh Drill.",
-            "Alex ở cột 3.",
-            "Yoga nằm ở cột 3.",
-            "Kìm có liên quan đến màu xanh lá cây."
+            "Eva ở cạnh tháp xanh.",
+            "Người dùng tua vít ở Tháp 1.",
+            "Chris là người đọc sách.",
+            "Vận động viên sống ở tháp vàng.",
+            "Tháp đỏ là Tháp 3.",
+            "Vận động viên ở cạnh người dùng máy khoan.",
+            "Alex ở Tháp 3.",
+            "Người tập yoga ở Tháp 3.",
+            "Người dùng kìm sống ở tháp xanh."
           ]
         },
         "uk": {
           "title": "Fantasy Challenge",
           "description": "Вирішіть це логічне завдання 4x4.",
           "positions": [
-            "Pos. I",
-            "Pos. II",
-            "Pos. III",
-            "Pos. IV"
+            "Вежа 1",
+            "Вежа 2",
+            "Вежа 3",
+            "Вежа 4"
           ],
           "categories": [
             {
@@ -5970,15 +5970,15 @@
             }
           ],
           "clues": [
-            "Єва поруч із Грін.",
-            "Викрутка в колонці 1.",
-            "Кріс пов'язаний з читанням.",
-            "Спорт пов'язаний з Жовтим.",
-            "Червоний у колонці 3.",
-            "Спорт знаходиться поруч із Свердлом.",
-            "Олексій у колоні 3.",
-            "Йога в колонці 3.",
-            "Плоскогубці пов'язані з Зеленим."
+            "Єва поруч із зеленою вежею.",
+            "Користувач викрутки у Вежі 1.",
+            "Кріс — читач.",
+            "Спортсмен живе в жовтій вежі.",
+            "Червона вежа — це Вежа 3.",
+            "Спортсмен поруч із користувачем дриля.",
+            "Алекс у Вежі 3.",
+            "Практик йоги у Вежі 3.",
+            "Користувач плоскогубців живе в зеленій вежі."
           ]
         }
       }
