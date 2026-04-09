@@ -1,291 +1,474 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | Inspire Me Now</title>
-    <meta name="description" content="Inspire Me Now Privacy Policy — how we collect, use, and protect your data.">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code:wght@400;700&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inspire Me Now Privacy Policy</title>
     <style>
-        :root {
-            --bg: #0f172a;
-            --text: #f8fafc;
-            --muted: #94a3b8;
-            --accent: #f59e0b;
-            --accent2: #ef4444;
-            --grad: linear-gradient(135deg, #f59e0b, #ef4444);
-            --border: 1px solid rgba(255, 255, 255, 0.1)
+      :root {
+        --bg: #f7f2ea;
+        --card: #fffaf4;
+        --text: #1f2933;
+        --muted: #5d6b78;
+        --line: #e7ddd0;
+        --accent: #2f6f62;
+        --accent-soft: #e4f0ec;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.65;
+        background:
+          radial-gradient(circle at top left, rgba(47, 111, 98, 0.1), transparent 28%),
+          linear-gradient(180deg, #fbf7f1 0%, var(--bg) 100%);
+        color: var(--text);
+      }
+
+      .container {
+        width: min(920px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0 72px;
+      }
+
+      .hero,
+      .section {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        box-shadow: 0 18px 45px rgba(31, 41, 51, 0.07);
+      }
+
+      .hero {
+        padding: 32px;
+        margin-bottom: 20px;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        padding: 6px 12px;
+        border-radius: 999px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 16px 0 10px;
+        font-size: clamp(32px, 5vw, 48px);
+        line-height: 1.08;
+      }
+
+      h2 {
+        margin: 0 0 14px;
+        font-size: 26px;
+        line-height: 1.2;
+      }
+
+      h3 {
+        margin: 24px 0 10px;
+        font-size: 18px;
+        line-height: 1.3;
+      }
+
+      p,
+      li {
+        font-size: 16px;
+      }
+
+      .lede {
+        font-size: 18px;
+        color: var(--muted);
+        max-width: 720px;
+      }
+
+      .meta {
+        margin-top: 18px;
+        color: var(--muted);
+        font-size: 15px;
+      }
+
+      .toc {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 12px;
+        margin-top: 24px;
+      }
+
+      .toc a {
+        display: block;
+        text-decoration: none;
+        color: var(--text);
+        background: #ffffff;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        padding: 14px 16px;
+        font-weight: 600;
+      }
+
+      .toc a:hover {
+        border-color: #cfc2b2;
+      }
+
+      .section {
+        padding: 28px 30px;
+        margin-top: 18px;
+      }
+
+      ul {
+        margin: 10px 0 0 20px;
+        padding: 0;
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      .note {
+        border-left: 4px solid var(--accent);
+        padding: 14px 16px;
+        background: #f8fcfb;
+        border-radius: 12px;
+        color: var(--muted);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        background: #ffffff;
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        padding: 18px;
+      }
+
+      .card strong {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      footer {
+        margin-top: 22px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      @media (max-width: 640px) {
+        .container {
+          width: min(100% - 20px, 920px);
+          padding-top: 20px;
+          padding-bottom: 40px;
         }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box
+        .hero,
+        .section {
+          border-radius: 20px;
+          padding: 22px 18px;
         }
-
-        body {
-            background: var(--bg);
-            color: var(--text);
-            font-family: 'Inter', sans-serif;
-            line-height: 1.7;
-            overflow-x: hidden
-        }
-
-        body::before {
-            content: '';
-            position: fixed;
-            inset: 0;
-            background: radial-gradient(circle at 20% 30%, rgba(245, 158, 11, .07) 0%, transparent 50%), #0f172a;
-            z-index: -1;
-            pointer-events: none
-        }
-
-        nav {
-            position: fixed;
-            top: 0;
-            width: 100%;
-            padding: 1.1rem 5%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: rgba(15, 23, 42, .9);
-            backdrop-filter: blur(14px);
-            border-bottom: var(--border);
-            z-index: 100
-        }
-
-        .logo {
-            font-family: 'Fira Code', monospace;
-            font-size: 1.25rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-decoration: none
-        }
-
-        .nav-links a {
-            color: var(--muted);
-            text-decoration: none;
-            margin-left: 1.8rem;
-            font-size: .9rem;
-            transition: color .2s
-        }
-
-        .nav-links a:hover {
-            color: var(--text)
-        }
-
-        main {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 7rem 2rem 5rem
-        }
-
-        .page-header {
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
-            border-bottom: var(--border)
-        }
-
-        .app-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: .5rem;
-            padding: .35rem 1rem;
-            border-radius: 99px;
-            background: rgba(245, 158, 11, .1);
-            border: 1px solid rgba(245, 158, 11, .3);
-            color: var(--accent);
-            font-size: .78rem;
-            font-weight: 700;
-            letter-spacing: .08em;
-            margin-bottom: 1.2rem
-        }
-
-        h1 {
-            font-size: 2.2rem;
-            font-weight: 800;
-            background: var(--grad);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: .4rem
-        }
-
-        .meta {
-            font-size: .83rem;
-            color: var(--muted)
-        }
-
-        h2 {
-            font-size: 1.1rem;
-            font-weight: 700;
-            color: var(--text);
-            margin: 2.5rem 0 .75rem;
-            border-left: 3px solid var(--accent);
-            padding-left: .75rem
-        }
-
-        p,
-        li {
-            color: var(--muted);
-            font-size: .93rem;
-            margin-bottom: .5rem
-        }
-
-        ul {
-            padding-left: 1.5rem;
-            margin-bottom: 1rem
-        }
-
-        a {
-            color: #3b82f6;
-            text-decoration: none
-        }
-
-        a:hover {
-            text-decoration: underline
-        }
-
-        strong {
-            color: var(--text)
-        }
-
-        footer {
-            text-align: center;
-            padding: 2rem 1rem;
-            border-top: var(--border);
-            color: var(--muted);
-            font-size: .82rem
-        }
-
-        .footer-logo {
-            font-family: 'Fira Code', monospace;
-            font-size: 1.1rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: .5rem
-        }
-
-        .footer-links {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: .5rem .75rem;
-            margin: .6rem 0 .8rem
-        }
-
-        .footer-links a {
-            color: var(--muted);
-            text-decoration: none;
-            transition: color .2s
-        }
-
-        .footer-links a:hover {
-            color: var(--accent)
-        }
-
-        .sep {
-            color: rgba(255, 255, 255, .2)
-        }
-
-        @media(max-width:768px) {
-            .nav-links {
-                display: none
-            }
-
-            main {
-                padding: 6rem 1.2rem 4rem
-            }
-        }
+      }
     </style>
-</head>
+  </head>
+  <body>
+    <main class="container">
+      <section class="hero">
+        <span class="pill">Privacy Policy</span>
+        <h1>Inspire Me Now</h1>
+        <p class="lede">
+          This Privacy Policy explains how Inspire Me Now collects, uses, stores,
+          and shares information when you use the Inspire Me Now mobile apps for
+          Android and iOS and related support pages hosted by Cybrainx.
+        </p>
+        <p class="meta">
+          Last updated: April 9, 2026
+        </p>
 
-<body>
-    <nav>
-        <a href="../index.html" class="logo"><i class="fa-solid fa-cube"></i> Cybrainx</a>
-        <div class="nav-links">
-            <a href="index.html">Inspire Me Now</a>
-            <a href="../index.html#apps">All Apps</a>
-            <a href="mailto:owner@cybrainx.com">Contact</a>
+        <nav class="toc" aria-label="Table of contents">
+          <a href="#scope">1. Scope</a>
+          <a href="#collect">2. Information We Collect</a>
+          <a href="#use">3. How We Use Information</a>
+          <a href="#share">4. Sharing and Service Providers</a>
+          <a href="#ads">5. Ads and Analytics</a>
+          <a href="#retain">6. Retention and Deletion</a>
+          <a href="#rights">7. Your Choices and Rights</a>
+          <a href="#security">8. Security</a>
+          <a href="#children">9. Children</a>
+          <a href="#international">10. International Transfers</a>
+          <a href="#changes">11. Changes</a>
+          <a href="#contact">12. Contact</a>
+        </nav>
+      </section>
+
+      <section class="section" id="scope">
+        <h2>1. Scope</h2>
+        <p>
+          This Privacy Policy applies to the Inspire Me Now mobile applications,
+          including free and premium features, guest usage, sign-in flows, and
+          related support pages linked from the app. It covers information
+          handled by Cybrainx and by the third-party service providers that help
+          us operate the app.
+        </p>
+        <div class="note">
+          The app is designed as a spiritual companion. It is not presented as a
+          medical diagnosis or emergency service. If you use diary or reflection
+          features, please avoid sharing more personal information than you are
+          comfortable storing in a cloud account.
         </div>
-    </nav>
-    <main>
-        <div class="page-header">
-            <div class="app-badge"><i class="fa-solid fa-dove"></i> Inspire Me Now</div>
-            <h1>Privacy Policy</h1>
-            <p class="meta">Last updated: March 1, 2026 &nbsp;·&nbsp; cybrainx.com</p>
+      </section>
+
+      <section class="section" id="collect">
+        <h2>2. Information We Collect</h2>
+
+        <div class="grid">
+          <div class="card">
+            <strong>Account and sign-in data</strong>
+            When you create an account or sign in, we may collect your email
+            address, display name, Firebase user ID, authentication provider,
+            and provider-specific identifiers needed to complete sign-in through
+            email/password, Google, Apple, or Facebook.
+          </div>
+          <div class="card">
+            <strong>Profile and preferences</strong>
+            We may store profile settings such as gender, religion, reminder
+            preferences, notification time, notification frequency, language
+            preferences, and similar account settings. Current mobile builds do
+            not require precise GPS permission.
+          </div>
+          <div class="card">
+            <strong>Emotional and spiritual content</strong>
+            We may store the feelings you select, mood or intensity entries,
+            reflections you save, favorites, diary or journal entries, tags,
+            prompts used, and related timestamps. If you choose to write in the
+            diary, the text you enter is stored in your account.
+          </div>
+          <div class="card">
+            <strong>Subscription and billing data</strong>
+            If you purchase premium access, we receive subscription status,
+            entitlement status, product identifiers, store transaction status,
+            and app user identifiers through the app stores and RevenueCat. We
+            do not receive your full credit card number.
+          </div>
+          <div class="card">
+            <strong>Advertising and device data</strong>
+            If ads are enabled, Google Mobile Ads and its partners may process
+            device identifiers, app and device information, approximate network
+            information, and ad performance data. Current app code requests
+            non-personalized ads where supported, but ad providers may still
+            process technical data needed to serve and measure ads.
+          </div>
+          <div class="card">
+            <strong>Local files and on-device storage</strong>
+            We store app settings, temporary share media, guest favorites,
+            guest check-ins, downloaded ambient media, and reminder settings on
+            your device to support app functionality. Some of this information
+            may stay only on your device unless you sign in or explicitly share
+            content.
+          </div>
         </div>
-        <p>This Privacy Policy applies to the <strong>Inspire Me Now</strong> mobile application ("App"), developed by
-            <strong>Cybrainx</strong>. It explains how we collect, use, and safeguard your data.</p>
-        <p>By using the App, you agree to this Privacy Policy.</p>
-        <h2>1. Information We Collect</h2>
+
+        <h3>Information you provide directly</h3>
         <ul>
-            <li><strong>Usage & Analytics:</strong> Device info, OS version, interactions, crash reports — via
-                Firebase/Google Analytics.</li>
-            <li><strong>AI-Generated Content Requests:</strong> Text or mood inputs used to generate personalized
-                reflections are processed but not retained beyond your session.</li>
-            <li><strong>Advertising Data:</strong> Google AdMob may collect identifiers for personalized ad delivery.
-            </li>
-            <li><strong>Purchase Data:</strong> Handled by Google Play/Apple App Store. We do not store payment details.
-            </li>
-            <li><strong>Notification Preferences:</strong> Your opt-in/out status for daily inspiration notifications is
-                stored locally.</li>
+          <li>Email address, password, or sign-in choice.</li>
+          <li>Profile selections such as gender, religion, and reminder preferences.</li>
+          <li>Feelings, ratings, favorites, diary entries, and other content you choose to save.</li>
+          <li>Support requests you submit through our contact channels.</li>
         </ul>
-        <h2>2. How We Use Your Information</h2>
+
+        <h3>Information collected automatically</h3>
         <ul>
-            <li>To deliver personalized spiritual reflections and audio content;</li>
-            <li>To serve ads via Google AdMob;</li>
-            <li>To analyze usage and fix bugs via Firebase;</li>
-            <li>To manage subscriptions via RevenueCat;</li>
-            <li>To send daily inspiration notifications (only if you opt in).</li>
+          <li>Technical app and device information needed for authentication, subscriptions, notifications, and ads.</li>
+          <li>Temporary file paths and cache files created when you generate shareable images or videos.</li>
+          <li>Subscription state and entitlement information returned by RevenueCat and the app stores.</li>
         </ul>
-        <h2>3. Third-Party Services</h2>
+
+        <h3>Information from third parties</h3>
         <ul>
-            <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google AdMob</a> —
-                advertising</li>
-            <li><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase / Google
-                    Analytics</a> — analytics & crash reporting</li>
-            <li><a href="https://www.revenuecat.com/privacy" target="_blank" rel="noopener">RevenueCat</a> —
-                subscription management</li>
-            <li><a href="https://openai.com/privacy/" target="_blank" rel="noopener">OpenAI / AI Services</a> —
-                AI-generated content (where applicable)</li>
+          <li>Sign-in providers such as Google, Apple, and Facebook may provide account identifiers, email address, and basic profile information allowed by your provider settings.</li>
+          <li>Apple App Store, Google Play, and RevenueCat may provide purchase and entitlement status.</li>
+          <li>Google Mobile Ads may provide ad response and ad measurement data.</li>
         </ul>
-        <h2>4. Children's Privacy</h2>
-        <p>The App is not directed to children under 13. We do not knowingly collect data from children.</p>
-        <h2>5. Data Security</h2>
-        <p>We apply reasonable security measures. No online transmission is 100% secure.</p>
-        <h2>6. Your Rights</h2>
-        <p>You may request access, correction, or deletion of your data. Contact us at <a
-                href="mailto:owner@cybrainx.com">owner@cybrainx.com</a>.</p>
-        <h2>7. Changes</h2>
-        <p>We may update this policy at any time. Continued use constitutes acceptance.</p>
-        <h2>8. Contact</h2>
+      </section>
+
+      <section class="section" id="use">
+        <h2>3. How We Use Information</h2>
         <ul>
-            <li><strong>Email:</strong> <a href="mailto:owner@cybrainx.com">owner@cybrainx.com</a></li>
-            <li><strong>Website:</strong> <a href="https://cybrainx.com">cybrainx.com</a></li>
-            <li><strong>Address:</strong> Belo Horizonte, MG — Brazil</li>
+          <li>To create and secure your account and let you sign in.</li>
+          <li>To personalize biblical passages, reflections, reminder copy, and user experience.</li>
+          <li>To save your favorites, check-in history, and diary content across sessions and devices.</li>
+          <li>To deliver local reminders and manage your notification preferences.</li>
+          <li>To provide premium subscriptions, restore purchases, and manage billing status.</li>
+          <li>To show ads in supported versions of the app.</li>
+          <li>To create shareable media only when you request that feature.</li>
+          <li>To maintain, troubleshoot, secure, and improve the app.</li>
+          <li>To comply with legal obligations and respond to lawful requests.</li>
         </ul>
+      </section>
+
+      <section class="section" id="share">
+        <h2>4. Sharing and Service Providers</h2>
+        <p>
+          We do not sell your personal information in the ordinary sense of
+          selling customer lists for cash. We do share information with the
+          service providers and platforms needed to run the app:
+        </p>
+        <ul>
+          <li><strong>Firebase</strong> for authentication, cloud database, and related backend services.</li>
+          <li><strong>Google Sign-In, Apple Sign-In, and Facebook Login</strong> when you choose those sign-in methods.</li>
+          <li><strong>Google Mobile Ads / AdMob</strong> for ads and related ad measurement.</li>
+          <li><strong>RevenueCat</strong> for subscription and entitlement management.</li>
+          <li><strong>Apple App Store and Google Play</strong> for in-app purchase processing.</li>
+          <li><strong>GitHub-hosted media sources</strong> when the app refreshes optional ambient images or sounds.</li>
+          <li><strong>Device-level sharing and text-to-speech services</strong> when you use sharing or accessibility features.</li>
+        </ul>
+        <p>
+          We may also disclose information if required by law, to protect users,
+          to enforce our terms, or in connection with a business transfer such
+          as a merger, acquisition, or asset sale.
+        </p>
+      </section>
+
+      <section class="section" id="ads">
+        <h2>5. Ads and Analytics</h2>
+        <p>
+          Inspire Me Now may display ads in some versions or subscription tiers.
+          Our current mobile code requests non-personalized ads where supported.
+          Even so, advertising providers may still process device, identifier,
+          and ad response data to deliver ads, limit fraud, and report ad
+          performance.
+        </p>
+        <p>
+          If we later enable personalized ads, tracking, remarketing, or new
+          analytics tools, we will update this Privacy Policy and any required
+          in-app notices or store disclosures before shipping those changes.
+        </p>
+      </section>
+
+      <section class="section" id="retain">
+        <h2>6. Retention and Deletion</h2>
+        <p>
+          We keep personal information for as long as it is reasonably needed to
+          operate the app, maintain your account, provide premium features,
+          resolve disputes, enforce agreements, and meet legal requirements.
+        </p>
+        <ul>
+          <li>Account, favorites, check-ins, and diary content are generally kept until you delete them or delete your account.</li>
+          <li>Guest-only information stored locally on your device may remain until you remove the app, clear app data, or sign in and replace local state.</li>
+          <li>Temporary share files and cached media may remain on-device for a limited period until they are pruned or removed by the operating system or the app.</li>
+          <li>Backups, logs, and fraud-prevention records may remain for a limited time where reasonably necessary.</li>
+        </ul>
+        <p>
+          In the current app flow, deleting your account from the app is
+          intended to remove your user document and the related favorites,
+          check-ins, diary entries, and Firebase Authentication account.
+        </p>
+      </section>
+
+      <section class="section" id="rights">
+        <h2>7. Your Choices and Rights</h2>
+        <ul>
+          <li>You can choose whether to create an account or continue as a guest where available.</li>
+          <li>You can manage reminder settings inside the app and through your device notification settings.</li>
+          <li>You can choose whether to use Google, Apple, or Facebook login options that are enabled in your build.</li>
+          <li>You can delete diary entries, favorites, or other saved content from within the app where those controls are available.</li>
+          <li>You can request help with access, correction, or deletion through our contact channel.</li>
+        </ul>
+        <div class="note">
+          If you cannot access the app and need help deleting your account or
+          data, use the contact method in the Contact section below. For store
+          compliance, make sure your public support page also explains how users
+          can request deletion outside the app.
+        </div>
+      </section>
+
+      <section class="section" id="security">
+        <h2>8. Security</h2>
+        <p>
+          We use reasonable administrative, technical, and organizational
+          safeguards intended to protect information. These include account-based
+          access controls and security features provided by our infrastructure
+          partners. No system is perfectly secure, so we cannot guarantee
+          absolute security.
+        </p>
+      </section>
+
+      <section class="section" id="children">
+        <h2>9. Children</h2>
+        <p>
+          Inspire Me Now is not directed to children under 13, or under the
+          minimum digital age in the relevant jurisdiction, without parental or
+          guardian involvement. If you believe a child has provided personal
+          information in violation of applicable law, contact us so we can
+          review and take appropriate action.
+        </p>
+      </section>
+
+      <section class="section" id="international">
+        <h2>10. International Transfers</h2>
+        <p>
+          Our service providers may process or store information in countries
+          other than the one where you live. By using the app, you understand
+          that information may be transferred to and processed in these
+          jurisdictions, subject to applicable safeguards and law.
+        </p>
+      </section>
+
+      <section class="section" id="changes">
+        <h2>11. Changes to This Policy</h2>
+        <p>
+          We may update this Privacy Policy from time to time to reflect product
+          changes, legal requirements, or operational updates. When we do, we
+          will update the "Last updated" date above. If a change is material, we
+          may also provide additional notice inside the app or through store
+          metadata where required.
+        </p>
+      </section>
+
+      <section class="section" id="contact">
+        <h2>12. Contact</h2>
+        <p>
+          Inspire Me Now is operated by Cybrainx. If you have privacy questions,
+          want to exercise your rights, or need help with a deletion request,
+          please contact us through:
+        </p>
+        <p>
+          The <strong>cybrainx.com</strong> domain used for Inspire Me Now
+          belongs to <strong>Oberdan Fonseca</strong>. Professional profile:
+          <a href="https://www.linkedin.com/in/oberdan-eng/">
+            https://www.linkedin.com/in/oberdan-eng/
+          </a>
+        </p>
+        <ul>
+          <li>
+            Support page:
+            <a href="https://cybrainx.com/inspire-me-now/contact.html">
+              https://cybrainx.com/inspire-me-now/contact.html
+            </a>
+          </li>
+          <li>
+            Privacy policy page:
+            <a href="https://cybrainx.com/inspire-me-now/privacy.html">
+              https://cybrainx.com/inspire-me-now/privacy.html
+            </a>
+          </li>
+        </ul>
+        <footer>
+          This document is a practical product-facing privacy policy draft based
+          on the current Inspire Me Now mobile codebase as reviewed on April 9,
+          2026. If you add new SDKs, location access, personalized ads,
+          analytics, health features, or different support channels, update this
+          policy before releasing those changes.
+        </footer>
+      </section>
     </main>
-    <footer>
-        <div class="footer-logo"><i class="fa-solid fa-cube"></i> Cybrainx</div>
-        <div class="footer-links">
-            <a href="index.html">Inspire Me Now</a><span class="sep">·</span>
-            <a href="privacy-policy.html">Privacy Policy</a><span class="sep">·</span>
-            <a href="../data-deletion-request.html">Data deletion</a><span class="sep">·</span>
-            <a href="terms-of-use.html">Terms of Use</a><span class="sep">·</span>
-            <a href="../index.html">Home</a>
-        </div>
-        <p>&copy; 2026 Cybrainx. All rights reserved.</p>
-    </footer>
-</body>
-
+  </body>
 </html>
