@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T19:10:03Z",
+  "updatedAt": "2026-04-30T04:20:00.564Z",
   "languages": [
     "pt",
     "en",
@@ -931,12 +931,12 @@
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 3x3.",
+          "title": "Desafio das Posições",
+          "description": "Resolva este desafio lógico 3x3 onde cada posição tem uma comida, uma bebida e um animal.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3"
           ],
           "categories": [
             {
@@ -1796,12 +1796,12 @@
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
-          "description": "Resuelve este desafío lógico 3x3.",
+          "title": "Desafío de las Casas",
+          "description": "Resuelve este desafío lógico 3x3 sobre tres casas en fila.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -1832,7 +1832,7 @@
           "clues": [
             "La casa amarilla está al lado de la casa roja.",
             "El atleta está inmediatamente a la izquierda del comedor de hamburguesa.",
-            "El artista está inmediatamente a la izquierda de la persona en la posición amarilla.",
+            "El artista está inmediatamente a la izquierda de la persona en la casa amarilla.",
             "El comedor de hamburguesa está inmediatamente a la izquierda del comedor de pizza."
           ]
         },
@@ -2580,12 +2580,12 @@
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
+          "title": "Desafio das Salas",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Sala 1",
+            "Sala 2",
+            "Sala 3"
           ],
           "categories": [
             {
@@ -2614,11 +2614,11 @@
             }
           ],
           "clues": [
-            "Quem pratica esporte está na mesma posição que quem usa chave de fenda.",
-            "Quem cria hamster está ao lado de quem gosta de leitura.",
-            "Quem cria pássaro está na mesma posição que quem gosta de leitura.",
-            "Quem usa serra está na mesma posição que quem cria hamster.",
-            "Quem pratica esporte está imediatamente à esquerda de quem usa serra."
+            "Quem pratica esporte está na mesma sala que quem usa chave de fenda.",
+            "Quem cria hamster está na sala ao lado de quem gosta de leitura.",
+            "Quem cria pássaro está na mesma sala que quem gosta de leitura.",
+            "Quem usa serra está na mesma sala que quem cria hamster.",
+            "A sala de quem pratica esporte fica imediatamente à esquerda da sala de quem usa serra."
           ]
         },
         "es": {
@@ -11783,11 +11783,11 @@
       "languages": {
         "en": {
           "title": "Wild West Challenge",
-          "description": "Solve this 3x3 logical challenge.",
+          "description": "Determine the food, color, and tool assigned to each position.",
           "positions": [
-            "Saloon",
-            "Ranch",
-            "Sheriff"
+            "Position 1",
+            "Position 2",
+            "Position 3"
           ],
           "categories": [
             {
@@ -11816,20 +11816,20 @@
             }
           ],
           "clues": [
-            "The saw user is next to the red house.",
-            "The drill user is directly to the left of the yellow house.",
+            "The saw user is next to the red position.",
+            "The drill user is directly to the left of the yellow position.",
             "The pasta eater is next to the drill user.",
             "The saw user is in the same position as the pizza eater.",
-            "The saw user belongs to the blue house."
+            "The saw user is in the blue position."
           ]
         },
         "pt": {
           "title": "Desafio Velho Oeste",
-          "description": "Resolva este desafio lógico 3x3.",
+          "description": "Três casas lado a lado (Casa 1, Casa 2, Casa 3, da esquerda para a direita). Cada casa tem uma comida, uma cor e uma ferramenta. Use as pistas para descobrir as combinações.",
           "positions": [
-            "Saloon",
-            "Rancho",
-            "Xerife"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -11861,8 +11861,8 @@
             "Quem usa serra fica ao lado da casa vermelha.",
             "Quem usa furadeira fica imediatamente à esquerda da casa amarela.",
             "Quem come massa está ao lado de quem usa furadeira.",
-            "Quem usa serra está na mesma posição que quem come pizza.",
-            "Quem usa serra está na mesma posição que a Azul."
+            "Quem usa serra está na mesma casa que quem come pizza.",
+            "Quem usa serra está na casa azul."
           ]
         },
         "es": {
@@ -11871,7 +11871,7 @@
           "positions": [
             "Salón",
             "Rancho",
-            "Sheriff"
+            "Cárcel"
           ],
           "categories": [
             {
@@ -11900,11 +11900,11 @@
             }
           ],
           "clues": [
-            "El usuario de sierra está al lado de la casa roja.",
-            "El usuario de taladro está directamente a la izquierda de la persona en la posición amarilla.",
+            "El usuario de sierra está al lado de la posición de color rojo.",
+            "El usuario de taladro está directamente a la izquierda de la posición de color amarillo.",
             "El comedor de pasta está al lado del usuario de taladro.",
             "El usuario de sierra está en la misma posición que el comedor de pizza.",
-            "El usuario de sierra pertenece a la casa azul."
+            "El usuario de sierra está en la posición de color azul."
           ]
         },
         "fr": {
@@ -12670,9 +12670,9 @@
           "title": "Desafio Escritório",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Mesa 1",
+            "Mesa 2",
+            "Mesa 3"
           ],
           "categories": [
             {
@@ -12702,9 +12702,9 @@
           ],
           "clues": [
             "Quem pratica arte está ao lado de quem come hambúrguer.",
-            "Quem pratica yoga está na mesma posição que quem come pizza.",
-            "Quem bebe leite está na mesma posição que quem pratica arte.",
-            "Quem bebe água está imediatamente à esquerda de quem gosta de leitura."
+            "Quem pratica yoga está na mesma mesa que quem come pizza.",
+            "Quem bebe leite está na mesma mesa que quem pratica arte.",
+            "Quem bebe água está em uma mesa imediatamente à esquerda da mesa de quem gosta de leitura."
           ]
         },
         "es": {
@@ -13450,12 +13450,12 @@
     "1017": {
       "languages": {
         "en": {
-          "title": "Office Challenge",
-          "description": "Solve this 3x3 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 3x3 logic puzzle about three neighboring houses.",
           "positions": [
-            "Desk",
-            "Cubicle",
-            "Office"
+            "House 1",
+            "House 2",
+            "House 3"
           ],
           "categories": [
             {
@@ -13484,20 +13484,20 @@
             }
           ],
           "clues": [
-            "The pasta eater is in position 3.",
+            "The pasta eater is in house 3.",
             "The white house is next to the rabbit owner.",
-            "The steak eater is in position 2.",
-            "The hamster owner is in position 3.",
+            "The steak eater is in house 2.",
+            "The hamster owner is in house 3.",
             "The rabbit owner is directly to the left of the red house."
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
+          "title": "Desafio das Casas",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -13526,10 +13526,10 @@
             }
           ],
           "clues": [
-            "Quem come Massa está na posição 3.",
+            "Quem come Massa está na Casa 3.",
             "A casa branca fica ao lado de quem cria Coelho.",
-            "Quem come Bife está na posição 2.",
-            "Quem cria Hamster está na posição 3.",
+            "Quem come Bife está na Casa 2.",
+            "Quem cria Hamster está na Casa 3.",
             "Quem cria Coelho fica imediatamente à esquerda da casa vermelha."
           ]
         },
@@ -16807,11 +16807,11 @@
       "languages": {
         "en": {
           "title": "Wild West Challenge",
-          "description": "Solve this 3x3 logical challenge.",
+          "description": "Three houses in the Wild West: a Ranch, a Cabin, and a Bunkhouse. Determine the color, animal, and hobby of each.",
           "positions": [
-            "Saloon",
             "Ranch",
-            "Sheriff"
+            "Cabin",
+            "Bunkhouse"
           ],
           "categories": [
             {
@@ -16840,19 +16840,19 @@
             }
           ],
           "clues": [
-            "The rabbit owner is in the same position as the athlete.",
-            "The blue house is directly to the left of the fish owner.",
+            "The rabbit owner is in the same house as the athlete.",
+            "The blue house is directly to the left of the house with the fish.",
             "The red house is directly to the left of the blue house.",
             "The musician belongs to the red house."
           ]
         },
         "pt": {
           "title": "Desafio Velho Oeste",
-          "description": "Resolva este desafio lógico 3x3.",
+          "description": "Resolva este desafio lógico 3x3 sobre três casas.",
           "positions": [
-            "Saloon",
-            "Rancho",
-            "Xerife"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -16881,19 +16881,19 @@
             }
           ],
           "clues": [
-            "Quem cria coelho está na mesma posição que quem pratica esporte.",
+            "Quem cria coelho está na mesma casa que quem pratica esporte.",
             "A casa azul fica imediatamente à esquerda de quem cria peixe.",
             "A casa vermelha fica imediatamente à esquerda da casa azul.",
-            "Quem toca música está na mesma posição que a casa vermelha."
+            "Quem toca música mora na casa vermelha."
           ]
         },
         "es": {
           "title": "Desafío del Salvaje Oeste",
           "description": "Resuelve este desafío lógico 3x3.",
           "positions": [
-            "Salón",
-            "Rancho",
-            "Sheriff"
+            "El Saloon",
+            "El Rancho",
+            "La Comisaría"
           ],
           "categories": [
             {
@@ -16922,10 +16922,10 @@
             }
           ],
           "clues": [
-            "El dueño del conejo está en la misma posición que el atleta.",
-            "La persona en la posición azul está directamente a la izquierda del dueño del pez.",
-            "La casa roja está directamente a la izquierda de la casa azul.",
-            "El músico pertenece a la casa roja."
+            "El dueño del conejo está en el mismo lugar que el atleta.",
+            "La persona en el lugar azul está directamente a la izquierda del dueño del pez.",
+            "El lugar rojo está directamente a la izquierda del lugar azul.",
+            "El músico pertenece al lugar rojo."
           ]
         },
         "fr": {
@@ -17671,12 +17671,12 @@
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 3x3.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 3x3 com três casas.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -17712,12 +17712,12 @@
           ]
         },
         "es": {
-          "title": "Desafío de Oficina",
-          "description": "Resuelve este desafío lógico 3x3.",
+          "title": "Desafío de las Casas",
+          "description": "Resuelve este desafío lógico 3x3 sobre tres casas en fila.",
           "positions": [
-            "Escritorio",
-            "Cubículo",
-            "Oficina"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -17747,7 +17747,7 @@
           ],
           "clues": [
             "El jugador de ajedrez está al lado del dueño del pájaro.",
-            "El dueño del pájaro está inmediatamente a la izquierda de la persona en la posición azul.",
+            "El dueño del pájaro está inmediatamente a la izquierda de la persona en la casa azul.",
             "El atleta está directamente a la izquierda del dueño del pez.",
             "La casa púrpura pertenece al jugador de ajedrez."
           ]
@@ -18499,9 +18499,9 @@
           "title": "Desafio Escritório",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3"
           ],
           "categories": [
             {
@@ -21008,11 +21008,11 @@
         },
         "pt": {
           "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 3x3.",
+          "description": "Resolva este desafio lógico 3x3 sobre três salas de escritório.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Sala 1",
+            "Sala 2",
+            "Sala 3"
           ],
           "categories": [
             {
@@ -21041,10 +21041,10 @@
             }
           ],
           "clues": [
-            "A mesa amarela fica imediatamente à esquerda de quem bebe Chá.",
+            "A sala amarela fica imediatamente à esquerda de quem bebe Chá.",
             "Quem cria Peixe está imediatamente à esquerda de quem bebe Chá.",
             "Quem bebe Café está imediatamente à esquerda de quem cria Cachorro.",
-            "Quem bebe Suco fica ao lado da mesa vermelha."
+            "Quem bebe Suco fica ao lado da sala vermelha."
           ]
         },
         "es": {
@@ -24404,12 +24404,12 @@
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
+          "title": "Desafio das Posições",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3"
           ],
           "categories": [
             {
@@ -24440,18 +24440,18 @@
           "clues": [
             "Quem come salada está ao lado de quem cria coelho.",
             "Quem cria peixe está na posição 1.",
-            "A casa azul fica imediatamente à esquerda de quem come salada.",
+            "A posição azul fica imediatamente à esquerda de quem come salada.",
             "Quem come bife está na posição 3.",
-            "Quem come bife fica ao lado da casa vermelha."
+            "Quem come bife fica ao lado da posição vermelha."
           ]
         },
         "es": {
-          "title": "Desafío de Oficina",
+          "title": "Desafío de Casas",
           "description": "Resuelve este desafío lógico 3x3.",
           "positions": [
-            "Escritorio",
-            "Cubículo",
-            "Oficina"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -24480,11 +24480,11 @@
             }
           ],
           "clues": [
-            "El comedor de ensalada está al lado del dueño del conejo.",
-            "El dueño del pez está en la posición 1.",
-            "La persona de color azul está directamente a la izquierda del comedor de ensalada.",
-            "El comedor de bistec está en la posición 3.",
-            "El comedor de bistec está al lado de la casa roja."
+            "La casa del comedor de ensalada está al lado de la casa del dueño del conejo.",
+            "El dueño del pez está en la casa 1.",
+            "La casa azul está directamente a la izquierda de la casa del comedor de ensalada.",
+            "El comedor de bistec está en la casa 3.",
+            "La casa del comedor de bistec está al lado de la casa roja."
           ]
         },
         "fr": {
@@ -26961,9 +26961,9 @@
           "title": "Desafío del Oeste Salvaje",
           "description": "Resuelve este desafío lógico 3x3.",
           "positions": [
-            "Salón",
             "Rancho",
-            "Sheriff"
+            "Cabaña",
+            "Hacienda"
           ],
           "categories": [
             {
@@ -26992,10 +26992,10 @@
             }
           ],
           "clues": [
-            "La persona en la posición blanca es el atleta.",
-            "La persona en la posición azul está al lado del jugador de ajedrez.",
+            "La persona en la casa blanca es el atleta.",
+            "La persona en la casa azul está al lado del jugador de ajedrez.",
             "El jugador de ajedrez está directamente a la izquierda del comedor de hamburguesa.",
-            "La persona en la posición verde es el comedor de pizza.",
+            "La persona en la casa verde es el comedor de pizza.",
             "La casa blanca está directamente a la izquierda de la casa verde."
           ]
         },
@@ -30272,12 +30272,12 @@
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 3x3.",
+          "title": "Desafio das Posições",
+          "description": "Resolva este desafio lógico 3x3 com posições numeradas.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3"
           ],
           "categories": [
             {
@@ -34471,11 +34471,11 @@
       "languages": {
         "en": {
           "title": "Park Challenge",
-          "description": "Solve this 3x3 logical challenge.",
+          "description": "Determine the color, drink, and animal for each of three benches in a park.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden"
+            "Bench 1",
+            "Bench 2",
+            "Bench 3"
           ],
           "categories": [
             {
@@ -34504,10 +34504,10 @@
             }
           ],
           "clues": [
-            "The blue house is directly to the left of the fish owner.",
+            "The blue bench is directly to the left of the fish owner.",
             "The hamster owner is directly to the left of the soda drinker.",
             "The water drinker is in the same position as the hamster owner.",
-            "The fish owner is next to the purple house."
+            "The fish owner is next to the purple bench."
           ]
         },
         "pt": {
@@ -34545,10 +34545,10 @@
             }
           ],
           "clues": [
-            "A casa azul fica imediatamente à esquerda de quem cria peixe.",
+            "A posição azul fica imediatamente à esquerda de quem cria peixe.",
             "Quem cria hamster está imediatamente à esquerda de quem bebe refrigerante.",
             "Quem bebe água está na mesma posição que quem cria hamster.",
-            "Quem cria peixe fica ao lado da casa roxa."
+            "Quem cria peixe fica ao lado da posição roxa."
           ]
         },
         "es": {
@@ -36942,12 +36942,12 @@
     "1045": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 3x3 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 3x3 logical challenge about three houses in a row.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden"
+            "House 1",
+            "House 2",
+            "House 3"
           ],
           "categories": [
             {
@@ -36976,21 +36976,21 @@
             }
           ],
           "clues": [
-            "The tea drinker is next to the white house.",
-            "The yellow house belongs to the cat owner.",
-            "The fish owner is in the same position as the soda drinker.",
-            "The tea drinker is in the same position as the cat owner.",
+            "The tea drinker lives next to the white house.",
+            "The cat owner lives in the yellow house.",
+            "The fish owner lives in the same house as the soda drinker.",
+            "The tea drinker lives in the same house as the cat owner.",
             "The yellow house is directly to the left of the hamster owner.",
             "The red house is next to the white house."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
-          "description": "Resolva este desafio lógico 3x3.",
+          "title": "Enigma das Casas",
+          "description": "Descubra a cor, a bebida e o animal de cada casa.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -37019,21 +37019,21 @@
             }
           ],
           "clues": [
-            "Quem bebe chá fica ao lado de quem está na casa branca.",
-            "A casa amarela pertence a quem cria gato.",
-            "Quem cria peixe está na mesma posição que quem bebe refrigerante.",
-            "Quem bebe chá está na mesma posição que quem cria gato.",
-            "A casa amarela fica imediatamente à esquerda de quem cria hamster.",
+            "Quem bebe chá fica ao lado da casa branca.",
+            "A casa amarela é a casa de quem cria gato.",
+            "Quem cria peixe está na mesma casa que quem bebe refrigerante.",
+            "Quem bebe chá está na mesma casa que quem cria gato.",
+            "A casa amarela fica imediatamente à esquerda da casa de quem cria hamster.",
             "A casa vermelha fica ao lado da casa branca."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
-          "description": "Resuelve este desafío lógico 3x3.",
+          "title": "Desafío de las Casas",
+          "description": "Resuelve este desafío lógico 3x3 sobre tres casas en hilera.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -37064,9 +37064,9 @@
           "clues": [
             "El bebedor de té está al lado de la casa blanca.",
             "La casa amarilla pertenece al dueño del gato.",
-            "El dueño del pez está en la misma posición que el bebedor de refresco.",
-            "El bebedor de té está en la misma posición que el dueño del gato.",
-            "La persona en la posición amarilla está directamente a la izquierda del dueño del hámster.",
+            "El dueño del pez está en la misma casa que el bebedor de refresco.",
+            "El bebedor de té está en la misma casa que el dueño del gato.",
+            "La casa amarilla está directamente a la izquierda de la casa del dueño del hámster.",
             "La casa roja está al lado de la casa blanca."
           ]
         },
@@ -38630,12 +38630,12 @@
     "1047": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 3x3 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 3x3 logical challenge about three adjacent houses.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden"
+            "House 1",
+            "House 2",
+            "House 3"
           ],
           "categories": [
             {
@@ -38664,21 +38664,21 @@
             }
           ],
           "clues": [
-            "The pliers user is in position 3.",
-            "The burger eater is in position 3.",
-            "The pliers user is next to the sushi eater.",
-            "The purple house belongs to the burger eater.",
-            "The saw user is directly to the left of the hammer user.",
-            "The pizza eater belongs to the white house."
+            "The pliers user lives in House 3.",
+            "The burger eater lives in House 3.",
+            "The pliers user lives next to the sushi eater.",
+            "The purple house is the home of the burger eater.",
+            "The saw user lives directly to the left of the hammer user.",
+            "The pizza eater lives in the white house."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
+          "title": "Desafio das Casas",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -38707,21 +38707,21 @@
             }
           ],
           "clues": [
-            "Quem usa alicate está na posição 3.",
-            "Quem come hambúrguer está na posição 3.",
+            "Quem usa alicate está na casa 3.",
+            "Quem come hambúrguer está na casa 3.",
             "Quem usa alicate está ao lado de quem come sushi.",
             "A casa roxa pertence a quem come hambúrguer.",
             "Quem usa serra está imediatamente à esquerda de quem usa martelo.",
-            "Quem come pizza está na mesma posição que a Branca."
+            "Quem come pizza está na mesma casa que a Branca."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
+          "title": "Desafío de las Casas",
           "description": "Resuelve este desafío lógico 3x3.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -38750,8 +38750,8 @@
             }
           ],
           "clues": [
-            "El usuario de alicates está en la posición 3.",
-            "El comedor de hamburguesa está en la posición 3.",
+            "El usuario de alicates está en la Casa 3.",
+            "El comedor de hamburguesa está en la Casa 3.",
             "El usuario de alicates está al lado del comedor de sushi.",
             "La casa púrpura pertenece al comedor de hamburguesa.",
             "El usuario de sierra está inmediatamente a la izquierda del usuario de martillo.",
@@ -42029,9 +42029,9 @@
           "title": "Einstein's Riddle #1",
           "description": "Solve this 3x3 logical challenge.",
           "positions": [
-            "House I",
-            "House II",
-            "House III"
+            "House 1",
+            "House 2",
+            "House 3"
           ],
           "categories": [
             {
@@ -42060,20 +42060,20 @@
             }
           ],
           "clues": [
-            "The green house is in position 2.",
+            "The green house is House 2.",
             "The Dunhill smoker is directly to the left of the blue house.",
-            "The bird owner is in the same position as the green house.",
-            "The Blends smoker is in the same position as the blue house.",
-            "The cat owner is in the same position as the blue house."
+            "The bird owner lives in the green house.",
+            "The Blends smoker lives in the blue house.",
+            "The cat owner lives in the blue house."
           ]
         },
         "pt": {
           "title": "Enigma de Einstein #1",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Casa I",
-            "Casa II",
-            "Casa III"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3"
           ],
           "categories": [
             {
@@ -42102,20 +42102,20 @@
             }
           ],
           "clues": [
-            "A casa Verde está na posição 2.",
-            "Quem fuma Dunhill está imediatamente à esquerda da casa Azul.",
-            "Quem cria pássaro está na mesma posição que a casa Verde.",
-            "Quem fuma Blends está na mesma posição que a casa Azul.",
-            "Quem cria gato está na mesma posição que a casa Azul."
+            "A casa Verde está na Posição 2.",
+            "Quem fuma Dunhill está imediatamente à esquerda da Posição da casa Azul.",
+            "Quem cria pássaro está na mesma Posição que a casa Verde.",
+            "Quem fuma Blends está na mesma Posição que a casa Azul.",
+            "Quem cria gato está na mesma Posição que a casa Azul."
           ]
         },
         "es": {
           "title": "El acertijo de Einstein #1",
           "description": "Resuelve este desafío lógico 3x3.",
           "positions": [
-            "House I",
-            "House II",
-            "House III"
+            "Casa I",
+            "Casa II",
+            "Casa III"
           ],
           "categories": [
             {
@@ -44541,9 +44541,9 @@
           "title": "Einstein's Riddle #4",
           "description": "Solve this 3x3 logical challenge.",
           "positions": [
-            "House I",
-            "House II",
-            "House III"
+            "House 1",
+            "House 2",
+            "House 3"
           ],
           "categories": [
             {
@@ -44574,17 +44574,17 @@
           "clues": [
             "The green house is next to the Blends smoker.",
             "The dog owner is directly to the left of the green house.",
-            "The Pall Mall smoker is in the same position as the dog owner.",
-            "The blue house is in the same position as the cat owner."
+            "The Pall Mall smoker lives in the same house as the dog owner.",
+            "The cat owner lives in the blue house."
           ]
         },
         "pt": {
           "title": "Enigma de Einstein #4",
           "description": "Resolva este desafio lógico 3x3.",
           "positions": [
-            "Casa I",
-            "Casa II",
-            "Casa III"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3"
           ],
           "categories": [
             {
@@ -44613,19 +44613,19 @@
             }
           ],
           "clues": [
-            "A casa Verde está ao lado de quem fuma Blends.",
-            "Quem cria Cachorro está imediatamente à esquerda da casa Verde.",
-            "Quem fuma Pall Mall está na mesma posição que quem cria Cachorro.",
-            "A casa Azul está na mesma posição que quem cria Gato."
+            "A posição com a casa Verde está ao lado da posição com o cigarro Blends.",
+            "A posição com o animal Cachorro está imediatamente à esquerda da posição com a casa Verde.",
+            "A posição com o cigarro Pall Mall é a mesma que a posição com o animal Cachorro.",
+            "A posição com a casa Azul é a mesma que a posição com o animal Gato."
           ]
         },
         "es": {
           "title": "El acertijo de Einstein #4",
           "description": "Resuelve este desafío lógico 3x3.",
           "positions": [
-            "House I",
-            "House II",
-            "House III"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3"
           ],
           "categories": [
             {
@@ -44656,8 +44656,8 @@
           "clues": [
             "La casa verde está al lado del fumador de Blends.",
             "El dueño del perro está inmediatamente a la izquierda de la casa verde.",
-            "El fumador de Pall Mall está en la misma posición que el dueño del perro.",
-            "La casa azul está en la misma posición que el dueño del gato."
+            "El fumador de Pall Mall es el dueño del perro.",
+            "El dueño del gato vive en la casa azul."
           ]
         },
         "fr": {

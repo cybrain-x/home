@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T19:10:03Z",
+  "updatedAt": "2026-04-30T04:20:00.502Z",
   "languages": [
     "pt",
     "en",
@@ -26,13 +26,13 @@
     "2001": {
       "languages": {
         "en": {
-          "title": "Office Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Puzzle",
+          "description": "Solve this 4x4 logic grid puzzle about four houses.",
           "positions": [
-            "Desk",
-            "Cubicle",
-            "Office",
-            "Lounge"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -74,24 +74,24 @@
           ],
           "clues": [
             "The pliers user is directly to the left of the sushi eater.",
-            "The hammer user is in position 3.",
-            "The bird owner is in position 2.",
-            "The cat owner is in the same position as the pasta eater.",
+            "The hammer user is in House 3.",
+            "The bird owner is in House 2.",
+            "The cat owner is in the same house as the pasta eater.",
             "The blue house is directly to the left of the white house.",
-            "The sushi eater is in the same position as the fish owner.",
+            "The sushi eater is in the same house as the fish owner.",
             "The rabbit owner is next to the green house.",
             "The blue house is directly to the left of the wrench user.",
-            "The steak eater is in position 2."
+            "The steak eater is in House 2."
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Descubra a correspondência entre casas, cores, comidas, animais e ferramentas.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -133,24 +133,24 @@
           ],
           "clues": [
             "Quem usa alicate está imediatamente à esquerda de quem come sushi.",
-            "Quem usa martelo está na posição 3.",
-            "Quem cria pássaro está na posição 2.",
-            "Quem cria gato está na mesma posição que quem come massa.",
+            "Quem usa martelo está na casa 3.",
+            "Quem cria pássaro está na casa 2.",
+            "Quem cria gato está na mesma casa que quem come massa.",
             "A casa azul fica imediatamente à esquerda da casa branca.",
-            "Quem come sushi está na mesma posição que quem cria peixe.",
+            "Quem come sushi está na mesma casa que quem cria peixe.",
             "Quem cria coelho fica ao lado da casa verde.",
             "A casa azul fica imediatamente à esquerda de quem usa chave.",
-            "Quem come bife está na posição 2."
+            "Quem come bife está na casa 2."
           ]
         },
         "es": {
-          "title": "Desafío de Oficina",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "title": "Desafío de las Casas",
+          "description": "Resuelve este desafío lógico de 4 casas.",
           "positions": [
-            "Escritorio",
-            "Cubículo",
-            "Oficina",
-            "Sala"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -192,14 +192,14 @@
           ],
           "clues": [
             "La persona que usa los alicates está directamente a la izquierda de la persona que come sushi.",
-            "La persona que usa el martillo está en la posición 3.",
-            "El dueño del pájaro está en la posición 2.",
-            "El dueño del gato está en la misma posición que la persona que come pasta.",
+            "La persona que usa el martillo está en la casa 3.",
+            "El dueño del pájaro está en la casa 2.",
+            "El dueño del gato está en la misma casa que la persona que come pasta.",
             "La casa azul está directamente a la izquierda de la casa blanca.",
-            "La persona que come sushi está en la misma posición que el dueño del pez.",
+            "La persona que come sushi está en la misma casa que el dueño del pez.",
             "El dueño del conejo está al lado de la casa verde.",
             "La casa azul está directamente a la izquierda de la persona que usa la llave inglesa.",
-            "La persona que come bistec está en la posición 2."
+            "La persona que come bistec está en la casa 2."
           ]
         },
         "fr": {
@@ -2415,11 +2415,11 @@
       "languages": {
         "en": {
           "title": "Wild West Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "description": "Solve this 4x4 puzzle set in Wild West buildings.",
           "positions": [
             "Saloon",
             "Ranch",
-            "Sheriff",
+            "Jail",
             "Bank"
           ],
           "categories": [
@@ -2461,13 +2461,13 @@
             }
           ],
           "clues": [
-            "The salad eater is in the same position as the milk drinker.",
-            "The white house belongs to the coffee drinker.",
+            "The salad eater is in the same building as the milk drinker.",
+            "The coffee drinker is in the white building.",
             "The pasta eater is next to the coffee drinker.",
             "The tea drinker is directly to the left of the cat owner.",
-            "The blue house is next to the rabbit owner.",
-            "The burger eater is in position 3.",
-            "The yellow house is directly to the left of the coffee drinker.",
+            "The blue building is next to the rabbit owner.",
+            "The burger eater is in the Jail.",
+            "The yellow building is directly to the left of the coffee drinker.",
             "The salad eater is directly to the left of the coffee drinker.",
             "The hamster owner is next to the coffee drinker."
           ]
@@ -2476,10 +2476,10 @@
           "title": "Desafio Velho Oeste",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Saloon",
-            "Rancho",
-            "Xerife",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -2520,15 +2520,15 @@
             }
           ],
           "clues": [
-            "Quem come salada está na mesma posição que quem bebe leite.",
+            "Quem come salada está na mesma casa que quem bebe leite.",
             "A casa branca pertence a quem bebe café.",
-            "Quem come massa está ao lado de quem bebe café.",
-            "Quem bebe chá está imediatamente à esquerda de quem cria gato.",
+            "Quem come massa está na casa ao lado de quem bebe café.",
+            "Quem bebe chá está na casa imediatamente à esquerda de quem cria gato.",
             "A casa azul fica ao lado de quem cria coelho.",
-            "Quem come hambúrguer está na posição 3.",
+            "Quem come hambúrguer está na casa 3.",
             "A casa amarela fica imediatamente à esquerda de quem bebe café.",
-            "Quem come salada está imediatamente à esquerda de quem bebe café.",
-            "Quem cria hamster está ao lado de quem bebe café."
+            "Quem come salada está na casa imediatamente à esquerda de quem bebe café.",
+            "Quem cria hamster está na casa ao lado de quem bebe café."
           ]
         },
         "es": {
@@ -2537,8 +2537,8 @@
           "positions": [
             "Salón",
             "Rancho",
-            "Sheriff",
-            "Banco"
+            "Banco",
+            "Cárcel"
           ],
           "categories": [
             {
@@ -2579,15 +2579,15 @@
             }
           ],
           "clues": [
-            "La persona que come ensalada está en la misma posición que el bebedor de leche.",
-            "La casa blanca pertenece al bebedor de café.",
-            "La persona que come pasta está al lado del bebedor de café.",
-            "El bebedor de té está directamente a la izquierda del dueño del gato.",
-            "La persona en la posición azul está al lado del dueño del conejo.",
-            "La persona que come hamburguesa está en la posición 3.",
-            "La persona en la posición amarilla está directamente a la izquierda del bebedor de café.",
-            "La persona que come ensalada está directamente a la izquierda del bebedor de café.",
-            "El dueño del hámster está al lado del bebedor de café."
+            "La persona que come ensalada está en la misma casa que el bebedor de leche.",
+            "La casa blanca es la del bebedor de café.",
+            "La persona que come pasta está en la casa de al lado del bebedor de café.",
+            "La casa del bebedor de té está directamente a la izquierda de la del dueño del gato.",
+            "La persona de la casa azul está al lado del dueño del conejo.",
+            "La persona que come hamburguesa está en la casa 3.",
+            "La persona de la casa amarilla está directamente a la izquierda del bebedor de café.",
+            "La persona que come ensalada está en la casa directamente a la izquierda de la del bebedor de café.",
+            "El dueño del hámster está en la casa de al lado del bebedor de café."
           ]
         },
         "fr": {
@@ -3598,13 +3598,13 @@
     "2004": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "Four Houses Challenge",
+          "description": "Solve this 4x4 logic puzzle about four houses in a row.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -3646,25 +3646,25 @@
           ],
           "clues": [
             "The hamster owner is directly to the left of the cat owner.",
-            "The person in the purple position is in position 3.",
-            "The pizza eater is in position 2.",
+            "The purple house is house 3.",
+            "The pizza eater is in house 2.",
             "The green house belongs to the cat owner.",
-            "The juice drinker is in position 3.",
+            "The juice drinker is in house 3.",
             "The coffee drinker is directly to the left of the juice drinker.",
             "The sushi eater is next to the rabbit owner.",
-            "The rabbit owner is in position 3.",
+            "The rabbit owner is in house 3.",
             "The rabbit owner is next to the water drinker.",
             "The blue house belongs to the steak eater."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 das casas.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim",
-            "Coreto"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -3706,25 +3706,25 @@
           ],
           "clues": [
             "Quem cria hamster está imediatamente à esquerda de quem cria gato.",
-            "A posição Roxa está na posição 3.",
-            "Quem come pizza está na posição 2.",
+            "A casa roxa é a casa 3.",
+            "Quem come pizza está na casa 2.",
             "A casa verde pertence a quem cria gato.",
-            "Quem bebe suco está na posição 3.",
+            "Quem bebe suco está na casa 3.",
             "Quem bebe café está imediatamente à esquerda de quem bebe suco.",
             "Quem come sushi está ao lado de quem cria coelho.",
-            "Quem cria coelho está na posição 3.",
+            "Quem cria coelho está na casa 3.",
             "Quem cria coelho está ao lado de quem bebe água.",
             "A casa azul pertence a quem come bife."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
+          "title": "Desafío Lógico 4x4",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín",
-            "Cenador"
+            "Posición 1",
+            "Posición 2",
+            "Posición 3",
+            "Posición 4"
           ],
           "categories": [
             {
@@ -3765,16 +3765,16 @@
             }
           ],
           "clues": [
-            "El dueño del hámster está directamente a la izquierda del dueño del gato.",
+            "La persona que tiene el hámster está directamente a la izquierda de la persona que tiene el gato.",
             "La persona de color púrpura está en la posición 3.",
             "La persona que come pizza está en la posición 2.",
-            "La casa verde pertenece al dueño del gato.",
-            "El bebedor de jugo está en la posición 3.",
-            "El bebedor de café está directamente a la izquierda del bebedor de jugo.",
-            "La persona que come sushi está al lado del dueño del conejo.",
-            "El dueño del conejo está en la posición 3.",
-            "El dueño del conejo está al lado del bebedor de agua.",
-            "La casa azul pertenece a la persona que come bistec."
+            "La persona de color verde tiene el gato.",
+            "La persona que bebe jugo está en la posición 3.",
+            "La persona que bebe café está directamente a la izquierda de la persona que bebe jugo.",
+            "La persona que come sushi está al lado de la persona que tiene el conejo.",
+            "La persona que tiene el conejo está en la posición 3.",
+            "La persona que tiene el conejo está al lado de la persona que bebe agua.",
+            "La persona de color azul come bistec."
           ]
         },
         "fr": {
@@ -5986,13 +5986,13 @@
     "2006": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 4x4 logical puzzle about four houses.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -6034,25 +6034,25 @@
           ],
           "clues": [
             "The musician is directly to the left of the tea drinker.",
-            "The musician belongs to the purple house.",
+            "The musician lives in the purple house.",
             "The milk drinker is directly to the left of the yoga practitioner.",
-            "The tea drinker is in the same position as the athlete.",
+            "The tea drinker lives in the same house as the athlete.",
             "The athlete is next to the screwdriver user.",
             "The yoga practitioner is next to the hammer user.",
-            "The athlete belongs to the red house.",
-            "The white house belongs to the wrench user.",
+            "The athlete lives in the red house.",
+            "The wrench user lives in the white house.",
             "The yellow house is next to the athlete.",
             "The milk drinker is next to the coffee drinker."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
+          "title": "Desafio das Casas",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim",
-            "Coreto"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -6093,26 +6093,26 @@
             }
           ],
           "clues": [
-            "Quem toca música está imediatamente à esquerda de quem bebe chá.",
-            "Quem toca música está na mesma posição que a posição Roxa.",
-            "Quem bebe leite está imediatamente à esquerda de quem pratica yoga.",
-            "Quem bebe chá está na mesma posição que quem pratica esporte.",
-            "Quem pratica esporte está ao lado de quem usa chave de fenda.",
-            "Quem pratica yoga está ao lado de quem usa martelo.",
-            "Quem pratica esporte está na mesma posição que a posição Vermelha.",
-            "A casa branca pertence a quem usa chave.",
-            "A casa amarela fica ao lado de quem pratica esporte.",
-            "Quem bebe leite está ao lado de quem bebe café."
+            "A casa de quem toca música fica imediatamente à esquerda da casa de quem bebe chá.",
+            "Quem toca música está na casa roxa.",
+            "A casa de quem bebe leite fica imediatamente à esquerda da casa de quem pratica yoga.",
+            "Quem bebe chá pratica esporte.",
+            "A casa de quem pratica esporte fica ao lado da casa de quem usa chave de fenda.",
+            "A casa de quem pratica yoga fica ao lado da casa de quem usa martelo.",
+            "Quem pratica esporte está na casa vermelha.",
+            "Quem usa chave está na casa branca.",
+            "A casa amarela fica ao lado da casa de quem pratica esporte.",
+            "A casa de quem bebe leite fica ao lado da casa de quem bebe café."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
+          "title": "Desafío de las Casas",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín",
-            "Cenador"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -6156,12 +6156,12 @@
             "El músico está directamente a la izquierda del bebedor de té.",
             "El músico pertenece a la casa púrpura.",
             "El bebedor de leche está directamente a la izquierda del practicante de yoga.",
-            "El bebedor de té está en la misma posición que el atleta.",
+            "El bebedor de té está en la misma casa que el atleta.",
             "El atleta está al lado del usuario del destornillador.",
             "El practicante de yoga está al lado del usuario del martillo.",
             "El atleta pertenece a la casa roja.",
             "La casa blanca pertenece al usuario de la llave inglesa.",
-            "La persona en la posición amarilla está al lado del atleta.",
+            "La persona en la casa amarilla está al lado del atleta.",
             "El bebedor de leche está al lado del bebedor de café."
           ]
         },
@@ -10742,13 +10742,13 @@
     "2010": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "Neighborhood Challenge",
+          "description": "Solve this 4x4 logical puzzle about four houses.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -10793,21 +10793,21 @@
             "The white house is next to the rabbit owner.",
             "Felix is directly to the left of the blue house.",
             "The cat owner is directly to the left of the fish owner.",
-            "The cat owner is in position 3.",
-            "The musician is in position 4.",
-            "The rabbit owner is in the same position as the artist.",
+            "The cat owner is in House 3.",
+            "The musician is in House 4.",
+            "The rabbit owner is in the same house as the artist.",
             "The yoga practitioner belongs to the green house.",
-            "Alex is in the same position as the rabbit owner."
+            "Alex is in the same house as the rabbit owner."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 sobre quatro casas.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim",
-            "Coreto"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -10850,13 +10850,13 @@
           "clues": [
             "Chris está imediatamente à esquerda de Felix.",
             "A casa branca fica ao lado de quem cria coelho.",
-            "Felix está imediatamente à esquerda da posição Azul.",
+            "Felix está imediatamente à esquerda da casa Azul.",
             "Quem cria gato está imediatamente à esquerda de quem cria peixe.",
-            "Quem cria gato está na posição 3.",
-            "Quem toca música está na posição 4.",
-            "Quem cria coelho está na mesma posição que quem pratica arte.",
-            "Quem pratica yoga está na mesma posição que a posição Verde.",
-            "Alex está na mesma posição que quem cria coelho."
+            "Quem cria gato está na casa 3.",
+            "Quem toca música está na casa 4.",
+            "Quem cria coelho está na mesma casa que quem pratica arte.",
+            "Quem pratica yoga está na mesma casa que a casa Verde.",
+            "Alex está na mesma casa que quem cria coelho."
           ]
         },
         "es": {
@@ -10914,7 +10914,7 @@
             "El dueño del gato está en la posición 3.",
             "El músico está en la posición 4.",
             "El dueño del conejo está en la misma posición que el artista.",
-            "El practicante de yoga pertenece a la casa verde.",
+            "El practicante de yoga está en la posición verde.",
             "Alex está en la misma posición que el dueño del conejo."
           ]
         },
@@ -11989,10 +11989,10 @@
           "title": "Desafio Escritório",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Setor 1",
+            "Setor 2",
+            "Setor 3",
+            "Setor 4"
           ],
           "categories": [
             {
@@ -12035,12 +12035,12 @@
           "clues": [
             "Quem toca música está ao lado de quem pratica yoga.",
             "Chris está imediatamente à esquerda de Bella.",
-            "Quem come sushi está na posição 1.",
+            "Quem come sushi está no setor 1.",
             "Quem pratica yoga está ao lado de quem bebe suco.",
-            "Quem come salada está na mesma posição que quem bebe suco.",
-            "Quem come hambúrguer está na posição 4.",
-            "Quem come hambúrguer está na mesma posição que quem bebe leite.",
-            "Quem toca música está na posição 4.",
+            "Quem come salada está no mesmo setor que quem bebe suco.",
+            "Quem come hambúrguer está no setor 4.",
+            "Quem come hambúrguer está no mesmo setor que quem bebe leite.",
+            "Quem toca música está no setor 4.",
             "Quem bebe água está imediatamente à esquerda de quem pratica arte.",
             "Quem come salada está imediatamente à esquerda de Alex."
           ]
@@ -13130,13 +13130,13 @@
     "2012": {
       "languages": {
         "en": {
-          "title": "Office Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Logic Challenge",
+          "description": "Solve this 4x4 logic puzzle about four houses in a row.",
           "positions": [
-            "Desk",
-            "Cubicle",
-            "Office",
-            "Lounge"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -13177,26 +13177,26 @@
             }
           ],
           "clues": [
-            "The green house belongs to the fish owner.",
-            "The cat owner is in position 2.",
-            "The soda drinker is directly to the left of the artist.",
-            "The artist is directly to the left of the yoga practitioner.",
-            "The artist is next to the fish owner.",
-            "The person in the yellow position is in position 4.",
-            "The juice drinker is next to the yellow house.",
-            "The soda drinker belongs to the red house.",
-            "The bird owner is in the same position as the athlete.",
-            "The hamster owner is in the same position as the coffee drinker."
+            "The fish owner lives in the green house.",
+            "The cat owner lives in House 2.",
+            "The soda drinker's house is directly to the left of the artist's house.",
+            "The artist's house is directly to the left of the yoga practitioner's house.",
+            "The artist's house is next to the fish owner's house.",
+            "The yellow house is House 4.",
+            "The juice drinker's house is next to the yellow house.",
+            "The soda drinker lives in the red house.",
+            "The bird owner lives in the same house as the sport enthusiast.",
+            "The hamster owner lives in the same house as the coffee drinker."
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
+          "title": "Desafio das Casas",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -13238,25 +13238,25 @@
           ],
           "clues": [
             "A cor verde pertence a quem cria peixe.",
-            "Quem cria gato está na posição 2.",
+            "Quem cria gato está na casa 2.",
             "Quem bebe refrigerante está imediatamente à esquerda de quem pratica arte.",
             "Quem pratica arte está imediatamente à esquerda de quem pratica yoga.",
             "Quem pratica arte está ao lado de quem cria peixe.",
-            "A cor amarela está na posição 4.",
+            "A cor amarela está na casa 4.",
             "Quem bebe suco fica ao lado da casa amarela.",
-            "Quem bebe refrigerante está na mesma posição que a cor vermelha.",
-            "Quem cria pássaro está na mesma posição que quem pratica esporte.",
-            "Quem cria hamster está na mesma posição que quem bebe café."
+            "Quem bebe refrigerante está na mesma casa que a cor vermelha.",
+            "Quem cria pássaro está na mesma casa que quem pratica esporte.",
+            "Quem cria hamster está na mesma casa que quem bebe café."
           ]
         },
         "es": {
-          "title": "Desafío de Oficina",
+          "title": "Desafío de las Casas",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Escritorio",
-            "Cubículo",
-            "Oficina",
-            "Sala"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -13298,15 +13298,15 @@
           ],
           "clues": [
             "La casa verde pertenece al dueño del pez.",
-            "El dueño del gato está en la posición 2.",
+            "El dueño del gato está en la casa 2.",
             "El bebedor de soda está directamente a la izquierda del artista.",
             "El artista está directamente a la izquierda del practicante de yoga.",
             "El artista está al lado del dueño del pez.",
-            "La persona de color amarillo está en la posición 4.",
+            "La casa 4 es amarilla.",
             "El bebedor de jugo está al lado de la casa amarilla.",
-            "El bebedor de soda pertenece a la casa roja.",
-            "El dueño del pájaro está en la misma posición que el atleta.",
-            "El dueño del hámster está en la misma posición que el bebedor de café."
+            "El bebedor de soda está en la casa roja.",
+            "El dueño del pájaro está en la misma casa que el atleta.",
+            "El dueño del hámster está en la misma casa que el bebedor de café."
           ]
         },
         "fr": {
@@ -16723,12 +16723,12 @@
       "languages": {
         "en": {
           "title": "Wild West Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "description": "Solve this 4x4 logical challenge involving four houses.",
           "positions": [
-            "Saloon",
-            "Ranch",
-            "Sheriff",
-            "Bank"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -16770,25 +16770,25 @@
           ],
           "clues": [
             "Chris belongs to the yellow house.",
-            "The drill user is in the same position as the salad eater.",
+            "The drill user is in the same house as the salad eater.",
             "The yellow house belongs to the pasta eater.",
             "The hammer user is directly to the left of Bella.",
             "The salad eater belongs to the white house.",
             "The blue house is next to Bella.",
-            "The salad eater is in position 4.",
+            "The salad eater is in house 4.",
             "The pizza eater is next to Bella.",
             "The white house is next to the wrench user.",
-            "Felix is in position 1."
+            "Felix is in house 1."
           ]
         },
         "pt": {
-          "title": "Desafio Velho Oeste",
+          "title": "Desafio das Casas",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Saloon",
-            "Rancho",
-            "Xerife",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -16829,26 +16829,26 @@
             }
           ],
           "clues": [
-            "Chris está na mesma posição que a cor Amarela.",
-            "Quem usa furadeira está na mesma posição que quem come salada.",
-            "A posição amarela pertence a quem come massa.",
-            "Quem usa martelo está imediatamente à esquerda de Bella.",
-            "Quem come salada está na mesma posição que a posição Branca.",
-            "A casa azul fica ao lado de Bella.",
-            "Quem come salada está na posição 4.",
-            "Quem come pizza está ao lado de Bella.",
-            "A casa branca fica ao lado de quem usa chave.",
-            "Felix está na posição 1."
+            "Chris está na casa amarela.",
+            "Quem usa a furadeira está na mesma casa que quem come salada.",
+            "A casa amarela pertence a quem come massa.",
+            "A casa de quem usa o martelo fica imediatamente à esquerda da casa de Bella.",
+            "Quem come salada está na casa branca.",
+            "A casa azul fica ao lado da casa de Bella.",
+            "Quem come salada está na casa 4.",
+            "A casa de quem come pizza fica ao lado da casa de Bella.",
+            "A casa branca fica ao lado da casa de quem usa a chave.",
+            "Felix está na casa 1."
           ]
         },
         "es": {
           "title": "Desafío del Salvaje Oeste",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Salón",
-            "Rancho",
-            "Sheriff",
-            "Banco"
+            "Posición 1",
+            "Posición 2",
+            "Posición 3",
+            "Posición 4"
           ],
           "categories": [
             {
@@ -16889,11 +16889,11 @@
             }
           ],
           "clues": [
-            "Chris pertenece a la casa amarilla.",
+            "Chris está en la posición amarilla.",
             "El usuario del taladro está en la misma posición que el comedor de ensalada.",
-            "La casa amarilla pertenece al comedor de pasta.",
+            "El comedor de pasta está en la posición amarilla.",
             "El usuario del martillo está directamente a la izquierda de Bella.",
-            "El comedor de ensalada pertenece a la casa blanca.",
+            "El comedor de ensalada está en la posición blanca.",
             "La persona en la posición azul está al lado de Bella.",
             "El comedor de ensalada está en la posición 4.",
             "El comedor de pizza está al lado de Bella.",
@@ -19149,13 +19149,13 @@
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 com quatro casas.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -19196,15 +19196,15 @@
             }
           ],
           "clues": [
-            "Quem usa chave de fenda está na posição 1.",
+            "Quem usa chave de fenda está na casa 1.",
             "Alex está imediatamente à esquerda de quem joga xadrez.",
             "Quem pratica yoga está ao lado de quem come pizza.",
             "Quem joga xadrez está imediatamente à esquerda de quem usa alicate.",
-            "Quem usa chave está na mesma posição que quem come massa.",
-            "Eva está na posição 4.",
+            "Quem usa chave está na mesma casa que quem come massa.",
+            "Eva está na casa 4.",
             "Quem come salada está imediatamente à esquerda de quem usa martelo.",
-            "Chris está na mesma posição que quem come massa.",
-            "Quem pratica arte está na mesma posição que quem usa alicate."
+            "Chris está na mesma casa que quem come massa.",
+            "Quem pratica arte está na mesma casa que quem usa alicate."
           ]
         },
         "es": {
@@ -20274,13 +20274,13 @@
     "2018": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
+          "title": "Neighborhood Puzzle",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -20321,25 +20321,25 @@
             }
           ],
           "clues": [
-            "The pasta eater belongs to the purple house.",
+            "The pasta eater is in the purple house.",
             "The pasta eater is directly to the left of the steak eater.",
-            "The hamster owner is in the same position as the soda drinker.",
+            "The hamster owner is in the same house as the soda drinker.",
             "The blue house is next to the coffee drinker.",
-            "The soda drinker is in position 2.",
+            "The soda drinker is in House 2.",
             "The salad eater is directly to the left of the purple house.",
             "The water drinker is next to the soda drinker.",
-            "The sushi eater is in the same position as the cat owner.",
+            "The sushi eater is in the same house as the cat owner.",
             "The red house is directly to the left of the bird owner."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 envolvendo 4 casas.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim",
-            "Coreto"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -20380,25 +20380,25 @@
             }
           ],
           "clues": [
-            "Quem come massa está na mesma posição que a posição Roxa.",
+            "Quem come massa está na mesma casa que a casa roxa.",
             "Quem come massa está imediatamente à esquerda de quem come bife.",
-            "Quem cria hamster está na mesma posição que quem bebe refrigerante.",
+            "Quem cria hamster está na mesma casa que quem bebe refrigerante.",
             "A casa azul fica ao lado de quem bebe café.",
-            "Quem bebe refrigerante está na posição 2.",
-            "Quem come salada está imediatamente à esquerda da posição Roxa.",
+            "Quem bebe refrigerante está na casa 2.",
+            "Quem come salada está imediatamente à esquerda da casa roxa.",
             "Quem bebe água está ao lado de quem bebe refrigerante.",
-            "Quem come sushi está na mesma posição que quem cria gato.",
+            "Quem come sushi está na mesma casa que quem cria gato.",
             "A casa vermelha fica imediatamente à esquerda de quem cria pássaro."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
+          "title": "Desafío de las Casas",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín",
-            "Cenador"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -20441,13 +20441,13 @@
           "clues": [
             "El comedor de pasta pertenece a la casa púrpura.",
             "El comedor de pasta está inmediatamente a la izquierda del comedor de bistec.",
-            "El dueño del hámster está en la misma posición que el bebedor de soda.",
-            "La persona en la posición azul está al lado del bebedor de café.",
-            "El bebedor de soda está en la posición 2.",
-            "El comedor de ensalada está inmediatamente a la izquierda de la persona en la posición púrpura.",
+            "El dueño del hámster está en la misma casa que el bebedor de soda.",
+            "La persona en la casa azul está al lado del bebedor de café.",
+            "El bebedor de soda está en la casa 2.",
+            "El comedor de ensalada está inmediatamente a la izquierda de la persona en la casa púrpura.",
             "El bebedor de agua está al lado del bebedor de soda.",
-            "El comedor de sushi está en la misma posición que el dueño del gato.",
-            "La persona en la posición roja está inmediatamente a la izquierda del dueño del pájaro."
+            "El comedor de sushi está en la misma casa que el dueño del gato.",
+            "La persona en la casa roja está inmediatamente a la izquierda del dueño del pájaro."
           ]
         },
         "fr": {
@@ -21461,10 +21461,10 @@
           "title": "Wild West Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Saloon",
-            "Ranch",
-            "Sheriff",
-            "Bank"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -21506,15 +21506,15 @@
           ],
           "clues": [
             "The hamster owner is next to the blue house.",
-            "The burger eater is in position 3.",
+            "The burger eater is in House 3.",
             "The tea drinker is directly to the left of the yellow house.",
-            "The dog owner is in position 2.",
+            "The dog owner is in House 2.",
             "The pasta eater is directly to the left of the dog owner.",
             "The tea drinker is next to the salad eater.",
-            "The cat owner is in position 1.",
-            "The person in the green position is in position 1.",
+            "The cat owner is in House 1.",
+            "The person in the green house is in House 1.",
             "The blue house is directly to the left of the juice drinker.",
-            "The coffee drinker is in the same position as the steak eater."
+            "The coffee drinker is in the same house as the steak eater."
           ]
         },
         "pt": {
@@ -21523,7 +21523,7 @@
           "positions": [
             "Saloon",
             "Rancho",
-            "Xerife",
+            "Delegacia",
             "Banco"
           ],
           "categories": [
@@ -21565,26 +21565,26 @@
             }
           ],
           "clues": [
-            "Quem cria hamster fica ao lado da casa azul.",
+            "Quem cria hamster fica ao lado do local azul.",
             "Quem come hambúrguer está na posição 3.",
-            "Quem bebe chá fica imediatamente à esquerda da casa amarela.",
+            "Quem bebe chá fica imediatamente à esquerda do local amarelo.",
             "Quem cria cachorro está na posição 2.",
             "Quem come massa está imediatamente à esquerda de quem cria cachorro.",
             "Quem bebe chá está ao lado de quem come salada.",
             "Quem cria gato está na posição 1.",
-            "A casa verde está na posição 1.",
-            "A casa azul fica imediatamente à esquerda de quem bebe suco.",
+            "O local verde está na posição 1.",
+            "O local azul fica imediatamente à esquerda de quem bebe suco.",
             "Quem bebe café está na mesma posição que quem come bife."
           ]
         },
         "es": {
-          "title": "Desafío del Salvaje Oeste",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "title": "Desafío de las Cuatro Casas",
+          "description": "Resuelve este desafío lógico 4x4 sobre cuatro casas.",
           "positions": [
-            "Salón",
-            "Rancho",
-            "Sheriff",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -21626,15 +21626,15 @@
           ],
           "clues": [
             "El dueño del hámster está al lado de la casa azul.",
-            "El comedor de hamburguesa está en la posición 3.",
-            "El bebedor de té está inmediatamente a la izquierda de la persona en la posición amarilla.",
-            "El dueño del perro está en la posición 2.",
+            "El comedor de hamburguesa está en la casa 3.",
+            "El bebedor de té está inmediatamente a la izquierda de la persona en la casa amarilla.",
+            "El dueño del perro está en la casa 2.",
             "El comedor de pasta está inmediatamente a la izquierda del dueño del perro.",
             "El bebedor de té está al lado del comedor de ensalada.",
-            "El dueño del gato está en la posición 1.",
-            "La persona de la posición verde está en la posición 1.",
-            "La persona en la posición azul está inmediatamente a la izquierda del bebedor de jugo.",
-            "El bebedor de café está en la misma posición que el comedor de bistec."
+            "El dueño del gato está en la casa 1.",
+            "La persona de la casa verde está en la casa 1.",
+            "La persona en la casa azul está inmediatamente a la izquierda del bebedor de jugo.",
+            "El bebedor de café está en la misma casa que el comedor de bistec."
           ]
         },
         "fr": {
@@ -34602,13 +34602,13 @@
     "2030": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 4x4 logic puzzle about houses.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -34649,14 +34649,14 @@
             }
           ],
           "clues": [
-            "Bella is in the same position as the rabbit owner.",
-            "David is in position 3.",
+            "Bella is in the same house as the rabbit owner.",
+            "David is in house 3.",
             "The chess player is next to the hamster owner.",
-            "The person in the red position is in position 2.",
+            "The red house is house 2.",
             "The blue house is next to the yellow house.",
-            "The chess player is in position 4.",
+            "The chess player is in house 4.",
             "The yellow house is next to the reader.",
-            "The yoga practitioner is in the same position as the fish owner.",
+            "The yoga practitioner is in the same house as the fish owner.",
             "The rabbit owner is next to the reader.",
             "The yoga practitioner is directly to the left of Felix."
           ]
@@ -34713,9 +34713,9 @@
             "David está na posição 3.",
             "Quem joga xadrez está ao lado de quem cria Hamster.",
             "A posição Vermelha é a posição 2.",
-            "A casa azul fica ao lado da casa amarela.",
+            "A posição azul fica ao lado da posição amarela.",
             "Quem joga xadrez está na posição 4.",
-            "A casa amarela fica ao lado de quem gosta de leitura.",
+            "A posição amarela fica ao lado de quem gosta de leitura.",
             "Quem pratica yoga está na mesma posição que quem cria Peixe.",
             "Quem cria Coelho está ao lado de quem gosta de leitura.",
             "Quem pratica yoga está imediatamente à esquerda de Felix."
@@ -34773,7 +34773,7 @@
             "David está en la posición 3.",
             "El jugador de ajedrez está al lado del dueño del hámster.",
             "La persona de la posición roja está en la posición 2.",
-            "La casa azul está al lado de la casa amarilla.",
+            "La posición azul está al lado de la posición amarilla.",
             "El jugador de ajedrez está en la posición 4.",
             "La persona en la posición amarilla está al lado del lector.",
             "El practicante de yoga está en la misma posición que el dueño del pez.",
@@ -36991,7 +36991,7 @@
       "languages": {
         "en": {
           "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "description": "Solve this 4x4 logic puzzle set in a park.",
           "positions": [
             "Bench",
             "Fountain",
@@ -37037,14 +37037,14 @@
             }
           ],
           "clues": [
-            "The pasta eater is in the same position as the pliers user.",
-            "The blue house is directly to the left of the burger eater.",
-            "The yellow house is directly to the left of the pliers user.",
-            "The cat owner is directly to the left of the saw user.",
-            "The person in the green position is in position 1.",
-            "The drill user is directly to the left of the pasta eater.",
-            "The bird owner is next to the salad eater.",
-            "The hamster owner is in position 1."
+            "The pasta spot is the same spot as the pliers spot.",
+            "The blue spot is directly to the left of the burger spot.",
+            "The yellow spot is directly to the left of the pliers spot.",
+            "The cat spot is directly to the left of the saw spot.",
+            "The green spot is spot 1.",
+            "The drill spot is directly to the left of the pasta spot.",
+            "The bird spot is next to the salad spot.",
+            "The hamster spot is spot 1."
           ]
         },
         "pt": {
@@ -39338,13 +39338,13 @@
     "2034": {
       "languages": {
         "en": {
-          "title": "Office Challenge",
+          "title": "4x4 Logic Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Desk",
-            "Cubicle",
-            "Office",
-            "Lounge"
+            "Position 1",
+            "Position 2",
+            "Position 3",
+            "Position 4"
           ],
           "categories": [
             {
@@ -39391,19 +39391,19 @@
             "The hammer user is directly to the left of the green position.",
             "The dog owner is directly to the left of the saw user.",
             "The green position belongs to the sushi eater.",
-            "The dog owner is directly to the left of the blue house.",
+            "The dog owner is directly to the left of the blue position.",
             "The hamster owner is next to the steak eater.",
             "The wrench user is directly to the left of the pizza eater."
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico de 4 casas.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -39445,8 +39445,8 @@
           ],
           "clues": [
             "Quem cria hamster está ao lado de quem cria pássaro.",
-            "Quem cria gato está na posição 2.",
-            "A cor roxa está na posição 3.",
+            "Quem cria gato está na casa 2.",
+            "A cor roxa está na casa 3.",
             "Quem usa martelo fica imediatamente à esquerda da casa verde.",
             "Quem cria cachorro está imediatamente à esquerda de quem usa serra.",
             "A casa verde pertence a quem come sushi.",
@@ -39456,13 +39456,13 @@
           ]
         },
         "es": {
-          "title": "Desafío de Oficina",
+          "title": "Desafío de Casas",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Escritorio",
-            "Cubículo",
-            "Oficina",
-            "Sala"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -39504,12 +39504,12 @@
           ],
           "clues": [
             "El dueño del hámster está al lado del dueño del pájaro.",
-            "El dueño del gato está en la posición 2.",
-            "La persona de color púrpura está en la posición 3.",
-            "El que usa martillo está directamente a la izquierda de la persona en la posición verde.",
+            "El dueño del gato está en la casa 2.",
+            "La persona de color púrpura está en la casa 3.",
+            "El que usa martillo está directamente a la izquierda de la persona en la casa verde.",
             "El dueño del perro está directamente a la izquierda del que usa sierra.",
             "La casa verde pertenece al que come sushi.",
-            "El dueño del perro está directamente a la izquierda de la persona en la posición azul.",
+            "El dueño del perro está directamente a la izquierda de la persona en la casa azul.",
             "El dueño del hámster está al lado del que come bistec.",
             "El que usa llave inglesa está directamente a la izquierda del que come pizza."
           ]
@@ -41709,10 +41709,10 @@
           "title": "Wild West Challenge",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "Saloon",
-            "Ranch",
-            "Sheriff",
-            "Bank"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -41755,24 +41755,24 @@
           "clues": [
             "The artist belongs to the purple house.",
             "The yellow house belongs to the athlete.",
-            "The pizza eater is in the same position as the water drinker.",
-            "The salad eater is in the same position as the athlete.",
-            "The pizza eater is in position 3.",
+            "The pizza eater is in the same house as the water drinker.",
+            "The salad eater is in the same house as the athlete.",
+            "The pizza eater is in House 3.",
             "The athlete is directly to the left of the soda drinker.",
             "The tea drinker is next to the blue house.",
             "The pizza eater is directly to the left of the burger eater.",
             "The blue house is directly to the left of the purple house.",
-            "The pizza eater is in the same position as the chess player."
+            "The pizza eater is in the same house as the chess player."
           ]
         },
         "pt": {
-          "title": "Desafio Velho Oeste",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 com casas.",
           "positions": [
-            "Saloon",
-            "Rancho",
-            "Xerife",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -41813,26 +41813,26 @@
             }
           ],
           "clues": [
-            "Quem pratica arte está na mesma posição que a posição Roxa.",
+            "Quem pratica arte está na mesma casa que a casa roxa.",
             "A casa amarela pertence a quem pratica esporte.",
-            "Quem come pizza está na mesma posição que quem bebe água.",
-            "Quem come salada está na mesma posição que quem pratica esporte.",
-            "Quem come pizza está na posição 3.",
+            "Quem come pizza está na mesma casa que quem bebe água.",
+            "Quem come salada está na mesma casa que quem pratica esporte.",
+            "Quem come pizza está na casa 3.",
             "Quem pratica esporte está imediatamente à esquerda de quem bebe refrigerante.",
             "Quem bebe chá fica ao lado da casa azul.",
             "Quem come pizza está imediatamente à esquerda de quem come hambúrguer.",
             "A casa azul fica imediatamente à esquerda da casa roxa.",
-            "Quem come pizza está na mesma posição que quem joga xadrez."
+            "Quem come pizza está na mesma casa que quem joga xadrez."
           ]
         },
         "es": {
-          "title": "Desafío del Salvaje Oeste",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "title": "Desafío de las Casas del Salvaje Oeste",
+          "description": "Cuatro casas numeradas del 1 al 4 en un pueblo del viejo oeste, cada una con un color, una bebida, un pasatiempo y una comida. Usa las pistas para encontrar las asignaciones.",
           "positions": [
-            "Salón",
-            "Rancho",
-            "Sheriff",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -41875,14 +41875,14 @@
           "clues": [
             "El artista pertenece a la casa púrpura.",
             "La casa amarilla pertenece al atleta.",
-            "El comedor de pizza está en la misma posición que el bebedor de agua.",
-            "El comedor de ensalada está en la misma posición que el atleta.",
-            "El comedor de pizza está en la posición 3.",
+            "El comedor de pizza está en la misma casa que el bebedor de agua.",
+            "El comedor de ensalada está en la misma casa que el atleta.",
+            "El comedor de pizza está en la casa 3.",
             "El atleta está directamente a la izquierda del bebedor de refresco.",
             "El bebedor de té está al lado de la casa azul.",
             "El comedor de pizza está directamente a la izquierda del comedor de hamburguesa.",
             "La casa azul está directamente a la izquierda de la casa púrpura.",
-            "El comedor de pizza está en la misma posición que el jugador de ajedrez."
+            "El comedor de pizza está en la misma casa que el jugador de ajedrez."
           ]
         },
         "fr": {
@@ -42910,13 +42910,13 @@
     "2037": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 4x4 logical puzzle.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -42959,23 +42959,23 @@
           "clues": [
             "The white house is directly to the left of the sushi eater.",
             "The red house belongs to the hamster owner.",
-            "The dog owner is in position 2.",
+            "The dog owner is in House 2.",
             "The burger eater is next to Bella.",
             "Bella is directly to the left of the steak eater.",
-            "Chris is in position 4.",
+            "Chris is in House 4.",
             "The burger eater belongs to the green house.",
             "The hamster owner is next to the bird owner.",
-            "Alex is in the same position as the burger eater."
+            "Alex is in the same house as the burger eater."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 sobre casas.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim",
-            "Coreto"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -43018,23 +43018,23 @@
           "clues": [
             "A casa branca fica imediatamente à esquerda de quem come Sushi.",
             "A casa vermelha pertence a quem cria Hamster.",
-            "Quem cria Cachorro está na posição 2.",
+            "Quem cria Cachorro está na Casa 2.",
             "Quem come Hambúrguer está ao lado de Bella.",
             "Bella está imediatamente à esquerda de quem come Bife.",
-            "Chris está na posição 4.",
-            "Quem come Hambúrguer está na mesma posição que a cor Verde.",
+            "Chris está na Casa 4.",
+            "Quem come Hambúrguer está na mesma casa que a cor Verde.",
             "Quem cria Hamster está ao lado de quem cria Pássaro.",
-            "Alex está na mesma posição que quem come Hambúrguer."
+            "Alex está na mesma casa que quem come Hambúrguer."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
+          "title": "Desafío de las casas",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín",
-            "Cenador"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -43075,15 +43075,15 @@
             }
           ],
           "clues": [
-            "La persona en el banco blanco está directamente a la izquierda del comedor de sushi.",
+            "La persona en la casa blanca está directamente a la izquierda del comedor de sushi.",
             "La casa roja pertenece al dueño del hámster.",
-            "El dueño del perro está en la posición 2.",
+            "El dueño del perro está en la casa 2.",
             "El comedor de hamburguesa está al lado de Bella.",
             "Bella está directamente a la izquierda del comedor de bistec.",
-            "Chris está en la posición 4.",
+            "Chris está en la casa 4.",
             "El comedor de hamburguesa pertenece a la casa verde.",
             "El dueño del hámster está al lado del dueño del pájaro.",
-            "Alex está en la misma posición que el comedor de hamburguesa."
+            "Alex está en la misma casa que el comedor de hamburguesa."
           ]
         },
         "fr": {
@@ -46462,13 +46462,13 @@
     "2040": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 4x4 logic puzzle about four houses in a row.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -46510,15 +46510,15 @@
           ],
           "clues": [
             "The dog owner is next to the reader.",
-            "The hamster owner is in position 4.",
+            "The hamster owner is in house 4.",
             "The dog owner belongs to the purple house.",
-            "The chess player is in the same position as the fish owner.",
-            "Eva is in position 1.",
+            "The chess player is in the same house as the fish owner.",
+            "Eva is in house 1.",
             "Bella belongs to the purple house.",
             "Alex is next to Bella.",
             "The dog owner is directly to the left of Felix.",
             "Eva belongs to the red house.",
-            "The yoga practitioner is in the same position as the hamster owner.",
+            "The yoga practitioner is in the same house as the hamster owner.",
             "The purple house is directly to the left of the blue house."
           ]
         },
@@ -46572,25 +46572,25 @@
           "clues": [
             "Quem cria cachorro está ao lado de quem gosta de leitura.",
             "Quem cria hamster está na posição 4.",
-            "Quem cria cachorro está na mesma posição que a cor Roxa.",
+            "Quem cria cachorro está na posição roxa.",
             "Quem joga xadrez está na mesma posição que quem cria peixe.",
             "Eva está na posição 1.",
-            "Bella está na mesma posição que a cor Roxa.",
+            "Bella está na posição roxa.",
             "Alex está ao lado de Bella.",
             "Quem cria cachorro está imediatamente à esquerda de Felix.",
-            "Eva está na mesma posição que a cor Vermelha.",
+            "Eva está na posição vermelha.",
             "Quem pratica yoga está na mesma posição que quem cria hamster.",
-            "A casa roxa fica imediatamente à esquerda da casa azul."
+            "A posição roxa fica imediatamente à esquerda da posição azul."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "title": "Desafío de las Casas",
+          "description": "Resuelve este desafío lógico 4x4 de las casas.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín",
-            "Cenador"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -46631,16 +46631,16 @@
             }
           ],
           "clues": [
-            "El dueño del perro está al lado del lector.",
-            "El dueño del hámster está en la posición 4.",
-            "El dueño del perro pertenece a la casa púrpura.",
-            "El jugador de ajedrez está en la misma posición que el dueño del pez.",
-            "Eva está en la posición 1.",
-            "Bella pertenece a la casa púrpura.",
-            "Alex está al lado de Bella.",
-            "El dueño del perro está directamente a la izquierda de Felix.",
-            "Eva pertenece a la casa roja.",
-            "El practicante de yoga está en la misma posición que el dueño del hámster.",
+            "La casa del perro está al lado de la casa del lector.",
+            "El hámster está en la casa 4.",
+            "El perro está en la casa púrpura.",
+            "El ajedrez y el pez están en la misma casa.",
+            "Eva está en la casa 1.",
+            "Bella está en la casa púrpura.",
+            "La casa de Alex está al lado de la casa de Bella.",
+            "La casa del perro está directamente a la izquierda de la casa de Felix.",
+            "Eva está en la casa roja.",
+            "El yoga y el hámster están en la misma casa.",
             "La casa púrpura está directamente a la izquierda de la casa azul."
           ]
         },
@@ -47687,12 +47687,12 @@
       "languages": {
         "en": {
           "title": "Wild West Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "description": "Solve this 4x4 logic puzzle about four houses in the Wild West.",
           "positions": [
-            "Saloon",
-            "Ranch",
-            "Sheriff",
-            "Bank"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -47734,24 +47734,24 @@
           ],
           "clues": [
             "The red house belongs to the musician.",
-            "The tea drinker is directly to the left of the red house.",
-            "The chess player is in position 3.",
+            "The tea drinker lives directly to the left of the red house.",
+            "The chess player lives in House 3.",
             "The red house is next to the green house.",
-            "The athlete is next to the purple house.",
-            "The salad eater is in the same position as the chess player.",
-            "The pasta eater is in the same position as the water drinker.",
-            "The water drinker is directly to the left of the milk drinker.",
-            "The sushi eater is next to the red house."
+            "The athlete lives next to the purple house.",
+            "The salad eater lives in the same house as the chess player.",
+            "The pasta eater lives in the same house as the water drinker.",
+            "The water drinker lives directly to the left of the milk drinker.",
+            "The sushi eater lives next to the red house."
           ]
         },
         "pt": {
-          "title": "Desafio Velho Oeste",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Descubra a cor, hobby, comida e bebida de cada uma das quatro casas.",
           "positions": [
-            "Saloon",
-            "Rancho",
-            "Xerife",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -47794,11 +47794,11 @@
           "clues": [
             "A casa vermelha pertence a quem toca música.",
             "Quem bebe chá fica imediatamente à esquerda da casa vermelha.",
-            "Quem joga xadrez está na posição 3.",
+            "Quem joga xadrez está na casa 3.",
             "A casa vermelha fica ao lado da casa verde.",
             "Quem pratica esporte fica ao lado da casa roxa.",
-            "Quem come salada está na mesma posição que quem joga xadrez.",
-            "Quem come massa está na mesma posição que quem bebe água.",
+            "Quem come salada está na mesma casa que quem joga xadrez.",
+            "Quem come massa está na mesma casa que quem bebe água.",
             "Quem bebe água está imediatamente à esquerda de quem bebe leite.",
             "Quem come sushi fica ao lado da casa vermelha."
           ]
@@ -47807,10 +47807,10 @@
           "title": "Desafío del Salvaje Oeste",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "Salón",
-            "Rancho",
-            "Sheriff",
-            "Banco"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -47852,12 +47852,12 @@
           ],
           "clues": [
             "La casa roja pertenece al músico.",
-            "El bebedor de té está directamente a la izquierda de la persona en la posición roja.",
-            "El jugador de ajedrez está en la posición 3.",
+            "El bebedor de té está directamente a la izquierda de la persona en la casa roja.",
+            "El jugador de ajedrez está en la casa 3.",
             "La casa roja está al lado de la casa verde.",
             "El atleta está al lado de la casa púrpura.",
-            "El comedor de ensalada está en la misma posición que el jugador de ajedrez.",
-            "El comedor de pasta está en la misma posición que el bebedor de agua.",
+            "El comedor de ensalada está en la misma casa que el jugador de ajedrez.",
+            "El comedor de pasta está en la misma casa que el bebedor de agua.",
             "El bebedor de agua está directamente a la izquierda del bebedor de leche.",
             "El comedor de sushi está al lado de la casa roja."
           ]
@@ -53646,13 +53646,13 @@
     "2046": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Row Challenge",
+          "description": "Solve this 4x4 logical challenge about four houses in a row.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -53695,12 +53695,12 @@
           "clues": [
             "The yellow house is next to the yoga practitioner.",
             "The yellow house is directly to the left of the white house.",
-            "The reader is in the same position as Felix.",
+            "The reader is in the same house as Felix.",
             "The purple house is directly to the left of David.",
-            "The musician is in position 2.",
+            "The musician is in House 2.",
             "The pizza eater is next to the athlete.",
             "The salad eater is directly to the left of Alex.",
-            "The yoga practitioner belongs to the purple house.",
+            "The yoga practitioner is in the purple house.",
             "The steak eater is directly to the left of the pizza eater."
           ]
         },
@@ -53752,14 +53752,14 @@
             }
           ],
           "clues": [
-            "A casa amarela está ao lado de quem pratica yoga.",
-            "A casa amarela fica imediatamente à esquerda da casa branca.",
-            "Quem gosta de leitura está na mesma posição que Felix.",
-            "A casa roxa fica imediatamente à esquerda de David.",
-            "Quem toca música está na posição 2.",
+            "O local amarelo está ao lado de quem pratica yoga.",
+            "O local amarelo fica imediatamente à esquerda do local branco.",
+            "Quem gosta de leitura está no mesmo local que Felix.",
+            "O local roxo fica imediatamente à esquerda de David.",
+            "Quem toca música está no segundo local.",
             "Quem come pizza está ao lado de quem pratica esporte.",
             "Quem come salada está imediatamente à esquerda de Alex.",
-            "Quem pratica yoga está na mesma posição que a casa roxa.",
+            "Quem pratica yoga está no local roxo.",
             "Quem come bife está imediatamente à esquerda de quem come pizza."
           ]
         },
@@ -56076,10 +56076,10 @@
           "title": "Desafio Escritório",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Recepção",
+            "Cubículo",
+            "Sala de Reuniões",
+            "Sala de Descanso"
           ],
           "categories": [
             {
@@ -57198,13 +57198,13 @@
     "2049": {
       "languages": {
         "en": {
-          "title": "Park Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "House Challenge",
+          "description": "Solve this 4x4 logic puzzle about houses.",
           "positions": [
-            "Bench",
-            "Fountain",
-            "Garden",
-            "Gazebo"
+            "Position 1",
+            "Position 2",
+            "Position 3",
+            "Position 4"
           ],
           "categories": [
             {
@@ -57245,26 +57245,26 @@
             }
           ],
           "clues": [
-            "The person in the white house is in position 1.",
-            "The cat owner is next to the blue house.",
-            "The dog owner is next to the purple house.",
-            "The drill user belongs to the red house.",
+            "The white house is at position 1.",
+            "The cat owner lives next to the blue house.",
+            "The dog owner lives next to the purple house.",
+            "The drill user lives in the red house.",
             "The white house is next to the blue house.",
-            "The blue house belongs to the juice drinker.",
-            "The fish owner is directly to the left of the blue house.",
-            "The tea drinker is in the same position as the wrench user.",
-            "The soda drinker is directly to the left of the screwdriver user.",
-            "The saw user is directly to the left of the bird owner."
+            "The juice drinker lives in the blue house.",
+            "The fish owner lives directly to the left of the blue house.",
+            "The tea drinker and the wrench user are at the same position.",
+            "The soda drinker lives directly to the left of the screwdriver user.",
+            "The saw user lives directly to the left of the bird owner."
           ]
         },
         "pt": {
-          "title": "Desafio Parque",
-          "description": "Resolva este desafio lógico 4x4.",
+          "title": "Desafio das Casas",
+          "description": "Resolva este desafio lógico 4x4 sobre casas.",
           "positions": [
-            "Banco",
-            "Fonte",
-            "Jardim",
-            "Coreto"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -57305,26 +57305,26 @@
             }
           ],
           "clues": [
-            "A cor Branca está na posição 1.",
+            "A cor Branca está na Casa 1.",
             "Quem cria gato fica ao lado da casa azul.",
             "Quem cria cachorro fica ao lado da casa roxa.",
-            "Quem usa furadeira está na mesma posição que a cor Vermelha.",
+            "Quem usa furadeira está na mesma casa que a cor Vermelha.",
             "A casa branca fica ao lado da casa azul.",
             "A casa azul pertence a quem bebe suco.",
             "Quem cria peixe fica imediatamente à esquerda da casa azul.",
-            "Quem bebe chá está na mesma posição que quem usa chave.",
+            "Quem bebe chá está na mesma casa que quem usa chave.",
             "Quem bebe refrigerante está imediatamente à esquerda de quem usa chave de fenda.",
             "Quem usa serra está imediatamente à esquerda de quem cria pássaro."
           ]
         },
         "es": {
-          "title": "Desafío del Parque",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "title": "Desafío de las Casas del Parque",
+          "description": "Resuelve este desafío lógico 4x4 sobre cuatro casas en un parque.",
           "positions": [
-            "Banco",
-            "Fuente",
-            "Jardín",
-            "Cenador"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -57365,16 +57365,16 @@
             }
           ],
           "clues": [
-            "La persona de la casa blanca está en la posición 1.",
-            "El dueño del gato está al lado de la casa azul.",
-            "El dueño del perro está al lado de la casa púrpura.",
-            "El que usa el taladro pertenece a la casa roja.",
+            "La casa blanca es la casa 1.",
+            "El gato está al lado de la casa azul.",
+            "El perro está al lado de la casa púrpura.",
+            "El taladro está en la casa roja.",
             "La casa blanca está al lado de la casa azul.",
-            "La casa azul pertenece al que toma jugo.",
-            "El dueño del pez está directamente a la izquierda de la persona en la posición azul.",
-            "El que toma té está en la misma posición que el que usa la llave inglesa.",
-            "El que toma refresco está directamente a la izquierda del que usa el destornillador.",
-            "El que usa la sierra está directamente a la izquierda del dueño del pájaro."
+            "El jugo está en la casa azul.",
+            "El pez está directamente a la izquierda de la casa azul.",
+            "El té está en la misma casa que la llave inglesa.",
+            "El refresco está directamente a la izquierda del destornillador.",
+            "La sierra está directamente a la izquierda del pájaro."
           ]
         },
         "fr": {
@@ -58402,13 +58402,13 @@
     "2050": {
       "languages": {
         "en": {
-          "title": "Office Challenge",
-          "description": "Solve this 4x4 logical challenge.",
+          "title": "Four Houses Challenge",
+          "description": "Solve this logic puzzle about four houses, each with a tool, color, animal, and drink.",
           "positions": [
-            "Desk",
-            "Cubicle",
-            "Office",
-            "Lounge"
+            "House 1",
+            "House 2",
+            "House 3",
+            "House 4"
           ],
           "categories": [
             {
@@ -58456,18 +58456,18 @@
             "The pliers user belongs to the green house.",
             "The wrench user is directly to the left of the yellow house.",
             "The red house is directly to the left of the dog owner.",
-            "The wrench user is in the same position as the tea drinker.",
+            "The wrench user is in the same house as the tea drinker.",
             "The juice drinker belongs to the green house."
           ]
         },
         "pt": {
-          "title": "Desafio Escritório",
+          "title": "Desafio de Lógica",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Mesa",
-            "Baia",
-            "Sala",
-            "Lounge"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3",
+            "Posição 4"
           ],
           "categories": [
             {
@@ -58511,22 +58511,22 @@
             "Quem usa martelo está ao lado de quem cria pássaro.",
             "A posição azul fica ao lado de quem cria peixe.",
             "Quem usa alicate está imediatamente à esquerda de quem usa chave.",
-            "Quem bebe café fica ao lado da casa vermelha.",
+            "Quem bebe café fica ao lado da posição vermelha.",
             "Quem usa alicate está na mesma posição que a cor Verde.",
-            "Quem usa chave fica imediatamente à esquerda da casa amarela.",
-            "A casa vermelha fica imediatamente à esquerda de quem cria cachorro.",
+            "Quem usa chave fica imediatamente à esquerda da posição amarela.",
+            "A posição vermelha fica imediatamente à esquerda de quem cria cachorro.",
             "Quem usa chave está na mesma posição que quem bebe chá.",
             "Quem bebe suco está na mesma posição que a cor Verde."
           ]
         },
         "es": {
-          "title": "Desafío de Oficina",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "title": "Desafío Lógico de las 4 Casas",
+          "description": "Resuelve este desafío lógico de 4 casas.",
           "positions": [
-            "Escritorio",
-            "Cubículo",
-            "Oficina",
-            "Sala"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -58568,13 +58568,13 @@
           ],
           "clues": [
             "El que usa el martillo está al lado del dueño del pájaro.",
-            "La persona en la posición azul está al lado del dueño del pez.",
+            "La persona en la casa azul está al lado del dueño del pez.",
             "El que usa los alicates está directamente a la izquierda del que usa la llave inglesa.",
-            "El que toma café está al lado de la posición roja.",
+            "El que toma café está al lado de la casa roja.",
             "El que usa los alicates pertenece a la casa verde.",
-            "El que usa la llave inglesa está directamente a la izquierda de la persona en la posición amarilla.",
-            "La persona en la posición roja está directamente a la izquierda del dueño del perro.",
-            "El que usa la llave inglesa está en la misma posición que el que toma té.",
+            "El que usa la llave inglesa está directamente a la izquierda de la persona en la casa amarilla.",
+            "La persona en la casa roja está directamente a la izquierda del dueño del perro.",
+            "El que usa la llave inglesa está en la misma casa que el que toma té.",
             "El que toma jugo pertenece a la casa verde."
           ]
         },
@@ -60837,7 +60837,7 @@
             }
           ],
           "clues": [
-            "The person in the yellow house is in position 4.",
+            "The person in the yellow house is in House IV.",
             "The milk drinker is next to the horse owner.",
             "The Dunhill smoker is directly to the left of the cat owner.",
             "The Pall Mall smoker is directly to the left of the coffee drinker.",
@@ -60851,10 +60851,10 @@
           "title": "Enigma de Einstein #2",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Casa I",
-            "Casa II",
-            "Casa III",
-            "Casa IV"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3",
+            "Posição 4"
           ],
           "categories": [
             {
@@ -60909,10 +60909,10 @@
           "title": "El acertijo de Einstein #2",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "House I",
-            "House II",
-            "House III",
-            "House IV"
+            "Casa 1",
+            "Casa 2",
+            "Casa 3",
+            "Casa 4"
           ],
           "categories": [
             {
@@ -60953,7 +60953,7 @@
             }
           ],
           "clues": [
-            "La persona en la casa amarilla está en la posición 4.",
+            "La persona en la casa amarilla está en la casa 4.",
             "El bebedor de leche está al lado del dueño del caballo.",
             "El fumador de Dunhill está inmediatamente a la izquierda del dueño del gato.",
             "El fumador de Pall Mall está inmediatamente a la izquierda del bebedor de café.",
@@ -62001,25 +62001,25 @@
             }
           ],
           "clues": [
-            "The coffee drinker is in position 2.",
+            "The coffee drinker is in House II.",
             "The coffee drinker is next to the blue house.",
             "The red house is directly to the left of the coffee drinker.",
             "The tea drinker is directly to the left of the Swedish person.",
-            "The Norwegian person is in the same position as the yellow house.",
-            "The Danish person is in the same position as the milk drinker.",
-            "The Norwegian person is in the same position as the horse owner.",
-            "The coffee drinker is in the same position as the bird owner.",
-            "The milk drinker is in the same position as the cat owner."
+            "The Norwegian person is in the same house as the yellow house.",
+            "The Danish person is in the same house as the milk drinker.",
+            "The Norwegian person is in the same house as the horse owner.",
+            "The coffee drinker is in the same house as the bird owner.",
+            "The milk drinker is in the same house as the cat owner."
           ]
         },
         "pt": {
           "title": "Enigma de Einstein #3",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Casa I",
-            "Casa II",
-            "Casa III",
-            "Casa IV"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3",
+            "Posição 4"
           ],
           "categories": [
             {
@@ -62060,7 +62060,7 @@
             }
           ],
           "clues": [
-            "Quem bebe café está na posição 2.",
+            "Quem bebe café está na Posição 2.",
             "Quem bebe café está ao lado da casa Azul.",
             "A casa Vermelha está imediatamente à esquerda de quem bebe café.",
             "Quem bebe chá está imediatamente à esquerda do Sueco.",
@@ -62075,10 +62075,10 @@
           "title": "El acertijo de Einstein #3",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "House I",
-            "House II",
-            "House III",
-            "House IV"
+            "Posición 1",
+            "Posición 2",
+            "Posición 3",
+            "Posición 4"
           ],
           "categories": [
             {
@@ -63141,10 +63141,10 @@
           "title": "Einstein's Riddle #4",
           "description": "Solve this 4x4 logical challenge.",
           "positions": [
-            "House I",
-            "House II",
-            "House III",
-            "House IV"
+            "house 1",
+            "house 2",
+            "house 3",
+            "house 4"
           ],
           "categories": [
             {
@@ -63185,25 +63185,25 @@
             }
           ],
           "clues": [
-            "The blue house is in position 3.",
-            "The dog owner is in position 1.",
+            "The blue house is house 3.",
+            "The dog owner is in house 1.",
             "The dog owner is next to the green house.",
             "The cat owner is next to the Norwegian person.",
             "The milk drinker is directly to the left of the yellow house.",
             "The blue house is directly to the left of the beer drinker.",
-            "The beer drinker is in the same position as the Norwegian person.",
-            "The bird owner is in the same position as the Swedish person.",
-            "The tea drinker is in the same position as the English person."
+            "The beer drinker is in the same house as the Norwegian person.",
+            "The bird owner is in the same house as the Swedish person.",
+            "The tea drinker is in the same house as the English person."
           ]
         },
         "pt": {
           "title": "Enigma de Einstein #4",
           "description": "Resolva este desafio lógico 4x4.",
           "positions": [
-            "Casa I",
-            "Casa II",
-            "Casa III",
-            "Casa IV"
+            "Posição 1",
+            "Posição 2",
+            "Posição 3",
+            "Posição 4"
           ],
           "categories": [
             {
@@ -63259,10 +63259,10 @@
           "title": "El acertijo de Einstein #4",
           "description": "Resuelve este desafío lógico 4x4.",
           "positions": [
-            "House I",
-            "House II",
-            "House III",
-            "House IV"
+            "Posición 1",
+            "Posición 2",
+            "Posición 3",
+            "Posición 4"
           ],
           "categories": [
             {
@@ -63306,12 +63306,12 @@
             "La casa azul está en la posición 3.",
             "El dueño del perro está en la posición 1.",
             "El dueño del perro está al lado de la casa verde.",
-            "El dueño del gato está al lado de la persona noruega.",
+            "El dueño del gato está al lado del noruego.",
             "El bebedor de leche está inmediatamente a la izquierda de la casa amarilla.",
             "La casa azul está inmediatamente a la izquierda del bebedor de cerveza.",
-            "El bebedor de cerveza está en la misma posición que la persona noruega.",
-            "El dueño del pájaro está en la misma posición que la persona sueca.",
-            "El bebedor de té está en la misma posición que la persona inglesa."
+            "El bebedor de cerveza está en la misma posición que el noruego.",
+            "El dueño del pájaro está en la misma posición que el sueco.",
+            "El bebedor de té está en la misma posición que el inglés."
           ]
         },
         "fr": {
@@ -64369,14 +64369,14 @@
             }
           ],
           "clues": [
-            "The Blends smoker is in position 3.",
+            "The Blends smoker is in House III.",
             "The green house is next to the cat owner.",
             "The tea drinker is directly to the left of the Dunhill smoker.",
             "The Dunhill smoker is directly to the left of the cat owner.",
-            "The beer drinker is in the same position as the Blue Master smoker.",
-            "The yellow house is in the same position as the beer drinker.",
-            "The red house is in the same position as the dog owner.",
-            "The coffee drinker is in the same position as the bird owner."
+            "The beer drinker is in the same house as the Blue Master smoker.",
+            "The yellow house is the same house as the beer drinker.",
+            "The red house is the same house as the dog owner.",
+            "The coffee drinker is in the same house as the bird owner."
           ]
         },
         "pt": {
@@ -64427,24 +64427,24 @@
             }
           ],
           "clues": [
-            "Quem fuma Blends está na posição 3.",
+            "Quem fuma Blends está na Casa III.",
             "A casa Verde está ao lado de quem cria Gato.",
-            "Quem bebe Chá está imediatamente à esquerda de quem fuma Dunhill.",
-            "Quem fuma Dunhill está imediatamente à esquerda de quem cria Gato.",
-            "Quem bebe Cerveja está na mesma posição que quem fuma Blue Master.",
-            "A casa Amarela está na mesma posição que quem bebe Cerveja.",
-            "A casa Vermelha está na mesma posição que quem cria Cachorro.",
-            "Quem bebe Café está na mesma posição que quem cria Pássaro."
+            "A casa de quem bebe Chá fica imediatamente à esquerda da casa de quem fuma Dunhill.",
+            "A casa de quem fuma Dunhill fica imediatamente à esquerda da casa de quem cria Gato.",
+            "Quem bebe Cerveja e quem fuma Blue Master estão na mesma casa.",
+            "Quem bebe Cerveja mora na casa Amarela.",
+            "Quem cria Cachorro mora na casa Vermelha.",
+            "Quem bebe Café e quem cria Pássaro estão na mesma casa."
           ]
         },
         "es": {
           "title": "El acertijo de Einstein #5",
-          "description": "Resuelve este desafío lógico 4x4.",
+          "description": "Resuelve este desafío lógico de 4 posiciones.",
           "positions": [
-            "House I",
-            "House II",
-            "House III",
-            "House IV"
+            "Posición 1",
+            "Posición 2",
+            "Posición 3",
+            "Posición 4"
           ],
           "categories": [
             {
@@ -64485,8 +64485,8 @@
             }
           ],
           "clues": [
-            "El fumador de Blends está en la posición 3.",
-            "La casa verde está al lado del dueño del gato.",
+            "El fumador de Blends está en la Posición 3.",
+            "La casa verde está al lado de la posición del dueño del gato.",
             "El bebedor de té está inmediatamente a la izquierda del fumador de Dunhill.",
             "El fumador de Dunhill está inmediatamente a la izquierda del dueño del gato.",
             "El bebedor de cerveza está en la misma posición que el fumador de Blue Master.",
