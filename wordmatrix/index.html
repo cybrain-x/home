@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordMatrix | Word Puzzle Training</title>
+    <meta name="description"
+        content="WordMatrix is a focused word puzzle app for building vocabulary, pattern recognition, and daily mental sharpness.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="letter-field" aria-hidden="true">
+        <span>W</span><span>O</span><span>R</span><span>D</span>
+        <span>M</span><span>A</span><span>T</span><span>R</span><span>I</span><span>X</span>
+    </div>
+    <div class="matrix-glow mg1"></div>
+    <div class="matrix-glow mg2"></div>
+    <div class="matrix-glow mg3"></div>
+
+    <nav>
+        <div class="logo"><a href="../index.html" style="text-decoration:none; color:inherit;"><i
+                    class="fa-solid fa-arrow-left"></i> Cybrainx</a> / <i class="fa-solid fa-table-cells-large"></i>
+            WordMatrix</div>
+        <div class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#modes">Modes</a>
+            <a href="mailto:owner@cybrainx.com">Support</a>
+            <a href="../index.html" class="back-btn">Back to Hub</a>
+        </div>
+    </nav>
+
+    <header class="hero word-hero">
+        <div class="hero-copy">
+            <p class="hero-badge reveal"><i class="fa-solid fa-spell-check"></i> Daily word training</p>
+            <h1 class="reveal">Find the pattern. Build the word.</h1>
+            <p class="reveal">WordMatrix turns letter grids into quick, satisfying challenges for vocabulary,
+                concentration, and pattern recognition.</p>
+            <div class="reveal hero-actions">
+                <button class="cta-button"><i class="fa-brands fa-android"></i> Download on Android</button>
+                <a href="#features" class="secondary-action"><i class="fa-solid fa-circle-info"></i> Explore</a>
+            </div>
+        </div>
+
+        <div class="app-preview reveal" aria-label="WordMatrix gameplay preview">
+            <div class="preview-top">
+                <span>Daily Grid</span>
+                <strong>24</strong>
+            </div>
+            <div class="word-board">
+                <span class="active">W</span><span>O</span><span>R</span><span>D</span>
+                <span>M</span><span class="active">A</span><span>T</span><span>R</span>
+                <span>I</span><span>X</span><span class="active">E</span><span>S</span>
+                <span>P</span><span>L</span><span>A</span><span class="active">Y</span>
+            </div>
+            <div class="found-words">
+                <span>WORD</span><span>MATRIX</span><span>PLAY</span>
+            </div>
+        </div>
+    </header>
+
+    <section id="features" class="apps">
+        <h2 class="section-title reveal">Key Features</h2>
+        <div class="grid">
+            <div class="card reveal">
+                <div class="feature-icon"><i class="fa-solid fa-table-cells"></i></div>
+                <h3>Smart Letter Grids</h3>
+                <p>Connect letters, discover hidden words, and train your eye to spot patterns faster with every round.
+                </p>
+            </div>
+            <div class="card reveal">
+                <div class="feature-icon"><i class="fa-solid fa-lightbulb"></i></div>
+                <h3>Helpful Hints</h3>
+                <p>Use balanced hints when you get stuck without taking the satisfaction out of solving the puzzle.</p>
+            </div>
+            <div class="card reveal">
+                <div class="feature-icon"><i class="fa-solid fa-chart-line"></i></div>
+                <h3>Progress Tracking</h3>
+                <p>Follow streaks, best scores, completed grids, and vocabulary growth across daily challenges.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="modes" class="modes-section">
+        <h2 class="section-title reveal">Play Your Way</h2>
+        <div class="grid modes-grid">
+            <div class="pricing-card reveal">
+                <h3>Classic</h3>
+                <div class="price">Daily</div>
+                <ul class="benefits">
+                    <li>Fresh puzzle grids</li>
+                    <li>Streak building</li>
+                    <li>Offline-friendly play</li>
+                    <li>Relaxed word discovery</li>
+                </ul>
+            </div>
+
+            <div class="pricing-card premium reveal">
+                <h3 style="color: var(--theme-accent);">Challenge</h3>
+                <div class="price">Pro</div>
+                <ul class="benefits">
+                    <li>Harder matrices</li>
+                    <li>Advanced stats</li>
+                    <li>No ads</li>
+                    <li>More hints and themes</li>
+                    <li>Priority puzzle packs</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="privacy-note">
+        <h3 class="reveal"><i class="fa-solid fa-shield-halved"></i> Focused and Private</h3>
+        <p class="reveal">
+            WordMatrix is designed for quick, low-friction play. Progress can stay local, purchases are handled by app
+            stores, and privacy controls stay simple.
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Cybrainx. WordMatrix.<br>Sharp. Focused. Fun.</p>
+        <p style="margin-top: 1rem; font-size: 0.8rem;">
+            <a href="privacy-policy.html"
+                style="color: var(--text-secondary); text-decoration: none; margin: 0 0.5rem;">Privacy Policy</a> |
+            <a href="../data-deletion-request.html"
+                style="color: var(--text-secondary); text-decoration: none; margin: 0 0.5rem;">Data deletion</a> |
+            <a href="terms-of-use.html"
+                style="color: var(--text-secondary); text-decoration: none; margin: 0 0.5rem;">Terms of Use</a>
+        </p>
+    </footer>
+
+    <script src="../script.js"></script>
+</body>
+
+</html>
