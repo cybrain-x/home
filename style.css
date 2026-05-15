@@ -326,6 +326,37 @@ section.apps {
 
 .card:hover .card-glow { opacity: 1; }
 
+.wordmatrix-card {
+    border-color: rgba(20, 184, 166, 0.18);
+}
+
+.wordmatrix-card .card-glow {
+    background:
+        radial-gradient(circle at top left, rgba(20, 184, 166, 0.18) 0%, transparent 60%),
+        radial-gradient(circle at bottom right, rgba(250, 204, 21, 0.1) 0%, transparent 58%);
+}
+
+.wordmatrix-card .card-icon {
+    background: linear-gradient(135deg, #14b8a6, #facc15);
+    color: #07111f;
+}
+
+.wordmatrix-card:hover {
+    border-color: rgba(20, 184, 166, 0.55);
+    box-shadow: 0 20px 44px rgba(20, 184, 166, 0.12), 0 20px 40px rgba(0, 0, 0, 0.28);
+}
+
+.wordmatrix-card:hover .tag {
+    background: rgba(20, 184, 166, 0.14);
+    color: #99f6e4;
+    border-color: rgba(20, 184, 166, 0.34);
+}
+
+.wordmatrix-card:hover .card-arrow {
+    background: linear-gradient(135deg, #14b8a6, #facc15);
+    color: #07111f;
+}
+
 .card-icon {
     width: 52px; height: 52px;
     border-radius: 14px;
