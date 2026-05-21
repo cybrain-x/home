@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Aceito! ⚔️</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Urbanist:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body { margin: 0; background-color: #050a14; color: #fff; font-family: 'Urbanist', sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; overflow: hidden; }
+        .lux-bg { position: absolute; width: 100%; height: 100%; background: radial-gradient(circle at center, #0a192f 0%, #050a14 100%); z-index: -1; }
+        .lux-bg::after { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: repeating-linear-gradient(45deg, transparent, transparent 40px, rgba(212,175,55,0.02) 40px, rgba(212,175,55,0.02) 80px); }
+        
+        .card { width: 90%; max-width: 400px; background: rgba(10, 25, 47, 0.8); border: 2px solid #d4af37; border-radius: 20px; padding: 40px 20px; text-align: center; box-shadow: 0 0 50px rgba(0,0,0,0.8), inset 0 0 20px rgba(212,175,55,0.1); backdrop-filter: blur(10px); }
+        h1 { font-family: 'Cinzel', serif; color: #d4af37; font-size: 28px; margin: 0 0 20px; letter-spacing: 2px; }
+        .stats { display: flex; justify-content: space-around; margin: 30px 0; }
+        .stat-item { border: 1px solid rgba(212,175,55,0.3); padding: 15px; border-radius: 12px; flex: 1; margin: 0 5px; }
+        .stat-label { font-size: 10px; text-transform: uppercase; color: #8892b0; letter-spacing: 1px; }
+        .stat-value { font-size: 22px; font-weight: 700; color: #d4af37; }
+        
+        .puzzle-preview { width: 150px; height: 150px; margin: 20px auto; border: 1px dashed rgba(212,175,55,0.5); border-radius: 10px; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.3); font-style: italic; color: #444; }
+        
+        .btn { display: block; background: linear-gradient(135deg, #f3e5ab 0%, #d4af37 100%); color: #050a14; text-decoration: none; padding: 18px; border-radius: 50px; font-weight: 700; font-size: 18px; margin-top: 30px; transition: 0.3s; box-shadow: 0 10px 20px rgba(212,175,55,0.2); }
+        .btn:hover { transform: translateY(-3px); box-shadow: 0 15px 30px rgba(212,175,55,0.4); }
+        .stores { margin-top: 30px; display: flex; justify-content: center; gap: 10px; opacity: 0.7; }
+        .stores img { height: 35px; }
+    </style>
+</head>
+<body>
+    <div class="lux-bg"></div>
+    <div class="card">
+        <h1>DESAFIO ACEITO</h1>
+        <p style="color: #ccd6f6;">Seu amigo te desafiou no Puzzle #<span id="p-id">4</span></p>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-label">Pontos</div>
+                <div class="stat-value" id="p-score">180</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-label">Tempo</div>
+                <div class="stat-value" id="p-time">01:30</div>
+            </div>
+        </div>
+
+        <div class="puzzle-preview">
+            Preview do Puzzle
+        </div>
+
+        <a href="seu-app-link://" class="btn">JOGAR AGORA ➔</a>
+
+        <div class="stores">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Play Store">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge_ES_RGB_blk_100217.svg" alt="App Store">
+        </div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        document.getElementById('p-id').innerText = params.get('p') || '4';
+        document.getElementById('p-score').innerText = params.get('p-score') || '180';
+        document.getElementById('p-time').innerText = params.get('t') || '01:30';
+    </script>
+</body>
+</html>
