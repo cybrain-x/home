@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ClickFlow automates taps, swipes, and repeatable mobile workflows on Android — privately, locally, and without root.">
+    <meta name="theme-color" content="#0a0e16">
+    <title>ClickFlow | Smart Android Automation</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="flow-grid" aria-hidden="true"></div>
+    <div class="orb orb-one" aria-hidden="true"></div>
+    <div class="orb orb-two" aria-hidden="true"></div>
+
+    <nav>
+        <a href="../index.html" class="brand" aria-label="Back to Cybrainx home">
+            <i class="fa-solid fa-arrow-left"></i>
+            <span>Cybrainx</span>
+        </a>
+        <div class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#how-it-works">How it works</a>
+            <a href="privacy-policy.html">Privacy</a>
+            <a href="mailto:owner@cybrainx.com">Support</a>
+        </div>
+    </nav>
+
+    <main>
+        <header class="hero">
+            <div class="hero-copy">
+                <div class="eyebrow"><span class="pulse"></span> Android automation, simplified</div>
+                <h1>Every tap.<br><span>Exactly on time.</span></h1>
+                <p class="lede">Record taps and swipes, choose how long to wait, and repeat the sequence across your favorite apps. No root. No cloud. You stay in control.</p>
+                <div class="hero-actions">
+                    <span class="store-button" aria-label="Android release coming soon">
+                        <i class="fa-brands fa-android"></i>
+                        <span><small>Available for</small>Android</span>
+                    </span>
+                    <a class="text-link" href="#how-it-works">See how it works <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+                <div class="trust-row">
+                    <span><i class="fa-solid fa-shield-halved"></i> Local processing</span>
+                    <span><i class="fa-solid fa-wifi-slash"></i> Works offline</span>
+                    <span><i class="fa-solid fa-unlock-keyhole"></i> No root</span>
+                </div>
+            </div>
+
+            <div class="automation-card" aria-label="Example ClickFlow automation">
+                <div class="card-top">
+                    <div>
+                        <small>ACTIVE AUTOMATION</small>
+                        <strong>Advance videos</strong>
+                    </div>
+                    <span class="status"><span></span> Ready</span>
+                </div>
+                <div class="flow-step">
+                    <span class="step-number">1</span>
+                    <span class="step-icon"><i class="fa-regular fa-clock"></i></span>
+                    <div><strong>Watch</strong><small>Wait before each cycle</small></div>
+                    <b>30 sec</b>
+                </div>
+                <div class="connector"></div>
+                <div class="flow-step">
+                    <span class="step-number">2</span>
+                    <span class="step-icon teal"><i class="fa-solid fa-arrow-left-long"></i></span>
+                    <div><strong>Swipe left</strong><small>Your recorded gesture</small></div>
+                    <b>300 ms</b>
+                </div>
+                <div class="connector"></div>
+                <div class="flow-step">
+                    <span class="step-number">3</span>
+                    <span class="step-icon amber"><i class="fa-solid fa-repeat"></i></span>
+                    <div><strong>Repeat</strong><small>Choose a limit or run forever</small></div>
+                    <b>10×</b>
+                </div>
+                <div class="run-button"><i class="fa-solid fa-play"></i> Start automation</div>
+            </div>
+        </header>
+
+        <section id="features" class="section">
+            <p class="section-kicker">Built for real routines</p>
+            <h2>Powerful automation that feels simple</h2>
+            <div class="feature-grid">
+                <article>
+                    <span class="feature-icon blue"><i class="fa-solid fa-hand-pointer"></i></span>
+                    <h3>Record natural gestures</h3>
+                    <p>Capture taps, long presses, swipes, and Android navigation actions directly over the app you use.</p>
+                </article>
+                <article>
+                    <span class="feature-icon teal"><i class="fa-regular fa-clock"></i></span>
+                    <h3>Control every interval</h3>
+                    <p>Set the wait before each cycle, gesture duration, playback speed, and the pause between repetitions.</p>
+                </article>
+                <article>
+                    <span class="feature-icon amber"><i class="fa-solid fa-repeat"></i></span>
+                    <h3>Repeat your way</h3>
+                    <p>Run once, choose an exact loop count, or keep an automation active until you stop it.</p>
+                </article>
+                <article>
+                    <span class="feature-icon violet"><i class="fa-solid fa-layer-group"></i></span>
+                    <h3>Build multi-step flows</h3>
+                    <p>Reorder actions, combine saved sequences, and preview each touch point before running.</p>
+                </article>
+                <article>
+                    <span class="feature-icon green"><i class="fa-solid fa-lock"></i></span>
+                    <h3>Private by design</h3>
+                    <p>Your automations stay on your device. ClickFlow does not read screen content or upload your scripts.</p>
+                </article>
+                <article>
+                    <span class="feature-icon rose"><i class="fa-solid fa-universal-access"></i></span>
+                    <h3>Transparent permissions</h3>
+                    <p>Clear onboarding explains why overlay and Accessibility permissions are needed and how they are used.</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="how-it-works" class="section workflow-section">
+            <div class="workflow-copy">
+                <p class="section-kicker">Three easy steps</p>
+                <h2>From idea to automation in under a minute</h2>
+                <p>Start from a goal instead of a technical setup. ClickFlow guides you through the timing, gesture, and repetition count.</p>
+            </div>
+            <ol class="workflow-list">
+                <li><span>01</span><div><strong>Choose what you want to automate</strong><p>Video sequences, gesture recording, or repeated taps.</p></div></li>
+                <li><span>02</span><div><strong>Record the action</strong><p>Open the target app and perform the gesture once.</p></div></li>
+                <li><span>03</span><div><strong>Review and run</strong><p>Confirm timing and loops, then start from the floating panel.</p></div></li>
+            </ol>
+        </section>
+
+        <section class="privacy-banner">
+            <div class="privacy-icon"><i class="fa-solid fa-shield-heart"></i></div>
+            <div>
+                <p class="section-kicker">Privacy first</p>
+                <h2>Your gestures belong to you.</h2>
+                <p>ClickFlow runs locally and only uses Accessibility to perform actions you explicitly configure. It does not read, collect, or sell screen content.</p>
+            </div>
+            <a href="privacy-policy.html">Read our policy <i class="fa-solid fa-arrow-right"></i></a>
+        </section>
+    </main>
+
+    <footer>
+        <div><strong><i class="fa-solid fa-bolt"></i> ClickFlow</strong><p>Automate every tap.</p></div>
+        <div class="footer-links">
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <a href="terms-of-use.html">Terms of Use</a>
+            <a href="mailto:owner@cybrainx.com">Contact</a>
+            <a href="../index.html">All Apps</a>
+        </div>
+        <small>&copy; 2026 Cybrainx. All rights reserved.</small>
+    </footer>
+</body>
+</html>
