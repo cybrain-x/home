@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0b20">
+  <meta name="description" content="X Crosswords is a colorful offline crossword game with daily challenges, smart clues, and 17 languages.">
+  <title>X Crosswords — A fresh puzzle every day</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="page-glow glow-one"></div>
+  <div class="page-glow glow-two"></div>
+
+  <nav class="nav" aria-label="Primary navigation">
+    <a class="brand" href="../index.html" aria-label="Back to Cybrainx home">
+      <span class="brand-mark"><i class="fa-solid fa-arrow-left"></i></span>
+      <span>Cybrainx</span>
+    </a>
+    <div class="nav-links">
+      <a href="#features">Features</a>
+      <a href="#play">Play</a>
+      <a href="../index.html" class="hub-link">App hub</a>
+    </div>
+    <button class="menu-button" id="menuButton" aria-label="Open menu" aria-expanded="false">
+      <i class="fa-solid fa-bars"></i>
+    </button>
+  </nav>
+
+  <div class="mobile-menu" id="mobileMenu" hidden>
+    <a href="#features">Features</a>
+    <a href="#play">Play</a>
+    <a href="../index.html">Back to app hub</a>
+  </div>
+
+  <main>
+    <section class="hero" id="play">
+      <div class="hero-copy reveal">
+        <p class="eyebrow"><span></span> CROSSWORDS, REIMAGINED</p>
+        <h1>Words that make<br><em>every day click.</em></h1>
+        <p class="hero-text">A vibrant crossword game made for quick breaks and long streaks. Solve themed grids, build your run, and return for a new daily challenge.</p>
+        <div class="hero-actions">
+          <a class="store-button" href="https://play.google.com/store/apps/details?id=com.cybrainx.xcrosswords" target="_blank" rel="noopener">
+            <i class="fa-brands fa-google-play"></i>
+            <span><small>GET IT ON</small>Google Play</span>
+          </a>
+          <a class="text-button" href="#features">See what is inside <i class="fa-solid fa-arrow-down"></i></a>
+        </div>
+        <div class="trust-row">
+          <span><i class="fa-solid fa-wifi-slash"></i> Play offline</span>
+          <span><i class="fa-solid fa-language"></i> 17 languages</span>
+          <span><i class="fa-solid fa-calendar-day"></i> Daily puzzle</span>
+        </div>
+      </div>
+
+      <div class="phone-wrap reveal" aria-label="X Crosswords game preview">
+        <div class="orbit orbit-a"></div>
+        <div class="orbit orbit-b"></div>
+        <div class="phone">
+          <div class="phone-top"><span>9:41</span><span><i class="fa-solid fa-signal"></i> <i class="fa-solid fa-battery-three-quarters"></i></span></div>
+          <div class="app-top"><span class="back-circle"><i class="fa-solid fa-chevron-left"></i></span><strong>🧠 Science</strong><span class="stars">★ 12</span></div>
+          <div class="progress"><span>5 / 10 words</span><b>50%</b></div>
+          <div class="crossword" aria-hidden="true">
+            <span class="cell purple">1</span><span class="cell purple"></span><span class="cell purple"></span><span class="cell"></span><span class="cell"></span><span class="cell"></span><span class="cell"></span>
+            <span class="cell"></span><span class="cell"></span><span class="cell blue">A</span><span class="cell blue">T</span><span class="cell blue">O</span><span class="cell blue">M</span><span class="cell"></span>
+            <span class="cell"></span><span class="cell green">2</span><span class="cell"></span><span class="cell"></span><span class="cell orange">3</span><span class="cell"></span><span class="cell"></span>
+            <span class="cell green">O</span><span class="cell green">R</span><span class="cell green">B</span><span class="cell green">I</span><span class="cell green">T</span><span class="cell"></span><span class="cell"></span>
+            <span class="cell"></span><span class="cell"></span><span class="cell"></span><span class="cell"></span><span class="cell orange">S</span><span class="cell"></span><span class="cell"></span>
+            <span class="cell"></span><span class="cell"></span><span class="cell pink">4</span><span class="cell pink"></span><span class="cell orange">U</span><span class="cell"></span><span class="cell"></span>
+            <span class="cell"></span><span class="cell"></span><span class="cell pink"></span><span class="cell"></span><span class="cell orange">N</span><span class="cell"></span><span class="cell"></span>
+          </div>
+          <div class="clue-card"><span class="clue-number">3↓</span><p>Star at the center of our solar system</p><i class="fa-solid fa-lightbulb"></i></div>
+          <div class="keys" aria-hidden="true"><span>Q</span><span>W</span><span>E</span><span>R</span><span>T</span><span>Y</span><span>U</span><span>I</span><span>O</span><span>P</span><span>A</span><span>S</span><span>D</span><span>F</span><span>G</span><span>H</span><span>J</span><span>K</span><span>L</span></div>
+        </div>
+        <div class="float-card float-streak">🔥 <strong>7 day</strong><small>streak</small></div>
+        <div class="float-card float-daily">📅 <strong>Daily</strong><small>ready to solve</small></div>
+      </div>
+    </section>
+
+    <section class="feature-section" id="features">
+      <div class="section-heading reveal">
+        <p class="eyebrow"><span></span> BUILT TO RETURN TO</p>
+        <h2>A small win,<br>whenever you need one.</h2>
+      </div>
+      <div class="feature-grid">
+        <article class="feature-card reveal"><div class="feature-icon violet"><i class="fa-solid fa-calendar-check"></i></div><h3>A puzzle for today</h3><p>A fresh deterministic crossword every day, plus a streak that rewards your rhythm.</p></article>
+        <article class="feature-card reveal"><div class="feature-icon pink"><i class="fa-solid fa-layer-group"></i></div><h3>It grows with you</h3><p>Start with 10 words. As you advance, grids become larger and clues more challenging.</p></article>
+        <article class="feature-card reveal"><div class="feature-icon cyan"><i class="fa-solid fa-floppy-disk"></i></div><h3>Pick up anywhere</h3><p>Your in-progress crossword is saved automatically, even when life interrupts.</p></article>
+        <article class="feature-card reveal"><div class="feature-icon amber"><i class="fa-solid fa-wand-magic-sparkles"></i></div><h3>Helpful, never harsh</h3><p>Use smart hints when you need them and keep the satisfying part: solving it yourself.</p></article>
+      </div>
+    </section>
+
+    <section class="language-section">
+      <div class="language-copy reveal"><p class="eyebrow"><span></span> MADE FOR WORD LOVERS</p><h2>One game.<br><em>Seventeen languages.</em></h2><p>Choose your language, explore its themes, and play with clue banks designed for native speakers.</p></div>
+      <div class="language-cloud reveal" aria-label="Supported languages"><span>🇧🇷 Português</span><span>🇺🇸 English</span><span>🇪🇸 Español</span><span>🇫🇷 Français</span><span>🇮🇹 Italiano</span><span>🇩🇪 Deutsch</span><span>🇳🇱 Nederlands</span><span>+ 10 more</span></div>
+    </section>
+
+    <section class="download-section reveal">
+      <div><p class="eyebrow"><span></span> READY WHEN YOU ARE</p><h2>Find your next word.</h2><p>Free to play, made for your daily pause.</p></div>
+      <a class="store-button light" href="https://play.google.com/store/apps/details?id=com.cybrainx.xcrosswords" target="_blank" rel="noopener"><i class="fa-brands fa-google-play"></i><span><small>GET IT ON</small>Google Play</span></a>
+    </section>
+  </main>
+
+  <footer><a class="brand" href="../index.html"><span class="brand-mark"><i class="fa-solid fa-arrow-left"></i></span><span>Cybrainx</span></a><p>© 2026 Cybrainx. X Crosswords.</p><a href="mailto:owner@cybrainx.com">Contact</a></footer>
+  <script src="script.js"></script>
+</body>
+
+</html>
